@@ -1,0 +1,14 @@
+{
+  "checked_on": "2026-09-18",
+  "method": "manual primary-source review",
+  "evidence": {
+    "event_dates": {
+      "url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+      "text": "December 11, 2026"
+    },
+    "deadline": {
+      "url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+      "text": "11:59 pm Eastern time on October 8, 2026"
+    }
+  }
+}

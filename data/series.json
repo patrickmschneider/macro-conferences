@@ -1,0 +1,524 @@
+[
+  {
+    "id": "cepr-heterogeneity",
+    "name": "Macroeconomic Policies with Heterogeneous Agents (3rd edition)",
+    "organizer": "CEPR / Paris School of Economics",
+    "topics": [
+      "Heterogeneous agents",
+      "Monetary policy",
+      "Fiscal policy"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "nber-isom",
+    "name": "50th International Seminar on Macroeconomics",
+    "organizer": "NBER / Central Bank of Montenegro",
+    "topics": [
+      "International macro"
+    ],
+    "region": "Europe",
+    "url": "https://www.nber.org/50th-annual-international-seminar-macroeconomics",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "nber-hf",
+    "name": "Household Finance Working Group Meeting",
+    "organizer": "NBER",
+    "topics": [
+      "Household finance"
+    ],
+    "region": "North America",
+    "url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "franco-german-fiscal",
+    "name": "Franco-German Fiscal Policy Seminar",
+    "organizer": "German and French finance ministries",
+    "topics": [
+      "Fiscal policy",
+      "Growth"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "sed",
+    "name": "Society for Economic Dynamics Annual Meeting",
+    "organizer": "SED / Católica Lisbon",
+    "topics": [
+      "General macro",
+      "Growth",
+      "Heterogeneous agents"
+    ],
+    "region": "Europe",
+    "url": "https://economicdynamics.org/",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "res",
+    "name": "Royal Economic Society Annual Conference",
+    "organizer": "Royal Economic Society",
+    "topics": [
+      "General macro"
+    ],
+    "region": "Europe",
+    "url": "https://res.org.uk/event-listing/res2027/",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cepr-hf",
+    "name": "CEPR European Conference on Household Finance",
+    "organizer": "CEPR / Study Center Gerzensee",
+    "topics": [
+      "Household finance"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cepr-mef",
+    "name": "CEPR Monetary Economics and Fluctuations Symposium",
+    "organizer": "CEPR",
+    "topics": [
+      "Monetary policy",
+      "Business cycles"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cepr-imf",
+    "name": "CEPR International Macroeconomics and Finance Programme Meeting",
+    "organizer": "CEPR",
+    "topics": [
+      "International macro",
+      "Macro-finance"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cepr-mg",
+    "name": "CEPR Macroeconomics and Growth Annual Symposium",
+    "organizer": "CEPR / CUNEF",
+    "topics": [
+      "Growth",
+      "Heterogeneous agents"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cepr-ireland",
+    "name": "Macro-Finance and Financial Stability Policies",
+    "organizer": "Central Bank of Ireland / UCD / CEPR",
+    "topics": [
+      "Macro-finance",
+      "Financial stability"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "empirical-monetary",
+    "name": "Workshop on Empirical Monetary Economics",
+    "organizer": "OFCE / CEPR",
+    "topics": [
+      "Monetary policy",
+      "Heterogeneous agents"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cepr-paris",
+    "name": "CEPR Paris Symposium",
+    "organizer": "CEPR",
+    "topics": [
+      "General macro"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cepr-finland",
+    "name": "Navigating Monetary Policy by the Northern Lights",
+    "organizer": "Bank of Finland / CEPR",
+    "topics": [
+      "Monetary policy",
+      "Heterogeneous agents"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "steg",
+    "name": "STEG Annual Conference and Theme Workshops",
+    "organizer": "CEPR / STEG",
+    "topics": [
+      "Growth"
+    ],
+    "region": "Europe",
+    "url": "https://cepr.org/events/steg-annual-conference-theme-workshops-2027",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "rba-quant",
+    "name": "RBA Quantitative Macroeconomics Workshop",
+    "organizer": "Reserve Bank of Australia",
+    "topics": [
+      "General macro",
+      "International macro",
+      "Computational macro"
+    ],
+    "region": "Oceania",
+    "url": "https://www.rba.gov.au/publications/workshops/research/",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cem",
+    "name": "Continuing Education in Macroeconometrics Workshop",
+    "organizer": "RBA / SNDE / CAMA",
+    "topics": [
+      "Computational macro",
+      "Business cycles"
+    ],
+    "region": "Oceania",
+    "url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "nber-macroannual",
+    "name": "NBER Annual Conference on Macroeconomics",
+    "organizer": "NBER",
+    "topics": [
+      "General macro"
+    ],
+    "region": "North America",
+    "url": "https://www.nber.org/conferences/annual-conference-macroeconomics-2027",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "nber-ifm",
+    "name": "International Finance and Macroeconomics Program Meeting",
+    "organizer": "NBER",
+    "topics": [
+      "International macro"
+    ],
+    "region": "North America",
+    "url": "https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-fall-2026",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "imf-polak",
+    "name": "Jacques Polak Annual Research Conference",
+    "organizer": "International Monetary Fund",
+    "topics": [
+      "International macro",
+      "Growth"
+    ],
+    "region": "North America",
+    "url": "https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference",
+    "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
+    "review_status": "verified",
+    "monitoring": "edition checks"
+  },
+  {
+    "id": "cebra",
+    "name": "CEBRA Annual Meeting",
+    "organizer": "CEBRA",
+    "topics": [
+      "Monetary policy",
+      "Financial stability"
+    ],
+    "region": "Global",
+    "url": "https://cebra.org/events/annual-meeting/",
+    "inclusion_rationale": "Central-bank research association; academic committee and contributed research programme.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "sce",
+    "name": "Computing in Economics and Finance",
+    "organizer": "Society for Computational Economics",
+    "topics": [
+      "Computational macro"
+    ],
+    "region": "Global",
+    "url": "https://comp-econ.com/",
+    "inclusion_rationale": "Scientific society devoted to computational economics, including dynamic macroeconomic systems.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "wams",
+    "name": "Workshop of the Australasian Macroeconomics Society",
+    "organizer": "AMS",
+    "topics": [
+      "General macro",
+      "Business cycles"
+    ],
+    "region": "Oceania",
+    "url": "https://www.ausmacro.com/workshops/",
+    "inclusion_rationale": "Long-running macro workshop with university hosts and established macro researchers as invited speakers.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "netspar",
+    "name": "Netspar International Pension Workshop",
+    "organizer": "Netspar",
+    "topics": [
+      "Pensions and retirement",
+      "Household finance"
+    ],
+    "region": "Europe",
+    "url": "https://www.netspar.nl/agenda/ipw-international-pension-workshop-2026/",
+    "inclusion_rationale": "Specialist academic pension network with contributed research on saving, retirement and pension policy.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "bse-macrofinance",
+    "name": "BSE Summer Forum: Macroeconomics and Finance",
+    "organizer": "Barcelona School of Economics",
+    "topics": [
+      "Macro-finance",
+      "Financial stability"
+    ],
+    "region": "Europe",
+    "url": "https://bse.eu/summer-forum/workshops/macroeconomics-and-finance",
+    "inclusion_rationale": "Specialist research workshop in the BSE Summer Forum.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "bse-macrodevelopment",
+    "name": "BSE Summer Forum: Macro-development",
+    "organizer": "Barcelona School of Economics",
+    "topics": [
+      "Growth"
+    ],
+    "region": "Europe",
+    "url": "https://sites.google.com/bse.eu/summerforum2026/home",
+    "inclusion_rationale": "Summer Forum research workshop family; separate workshop announcements need monitoring.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "midwest",
+    "name": "Midwest Macroeconomics Meetings",
+    "organizer": "Rotating university hosts",
+    "topics": [
+      "General macro"
+    ],
+    "region": "North America",
+    "url": "https://www.depts.ttu.edu/economics/news-announcements/midwest-macroeconomics-meetings-2026.php",
+    "inclusion_rationale": "University-hosted contributed-paper macroeconomics meetings.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "nber-si",
+    "name": "NBER Summer Institute: macro programmes",
+    "organizer": "NBER",
+    "topics": [
+      "General macro",
+      "Labour macro",
+      "Growth",
+      "Heterogeneous agents",
+      "Monetary policy"
+    ],
+    "region": "North America",
+    "url": "https://www.nber.org/conferences/summer-institute-2026",
+    "inclusion_rationale": "Programme includes micro data and macro models, growth, monetary economics and dynamic-equilibrium methods. Track individual workshops, not one undifferentiated call.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "ecb-annual",
+    "name": "ECB Annual Research Conference",
+    "organizer": "European Central Bank",
+    "topics": [
+      "International macro",
+      "Monetary policy"
+    ],
+    "region": "Europe",
+    "url": "https://www.ecb.europa.eu/press/conferences/html/index.en.html",
+    "inclusion_rationale": "Research conference connecting academic contributors and central-bank researchers.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "ipra",
+    "name": "International Pension Research Association Conference",
+    "organizer": "CEPAR / OECD / Netspar / Wharton PRC",
+    "topics": [
+      "Pensions and retirement"
+    ],
+    "region": "Global",
+    "url": "https://www.cepar.edu.au/event/12th-international-pension-research-association-ipra-conference",
+    "inclusion_rationale": "Academic pension research network; next-edition details need extraction.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "ifs-hf",
+    "name": "LSE–IFS–UCL–CEPR–Imperial Household Finance Workshop",
+    "organizer": "IFS and university partners",
+    "topics": [
+      "Household finance"
+    ],
+    "region": "Europe",
+    "url": "https://ifs.org.uk/events/lse-ifs-ucl-cepr-imperial-business-school-workshop-household-finance-0",
+    "inclusion_rationale": "Programme includes household spending, income shocks, debt and consumer choice.",
+    "review_status": "verified",
+    "monitoring": "discovery pilot"
+  },
+  {
+    "id": "eea",
+    "name": "EEA Congress",
+    "organizer": "European Economic Association",
+    "topics": [
+      "General macro"
+    ],
+    "region": "Global",
+    "url": "https://www.eeassoc.org/",
+    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
+    "review_status": "pending",
+    "monitoring": "not yet automated"
+  },
+  {
+    "id": "es",
+    "name": "Econometric Society regional meetings",
+    "organizer": "Econometric Society",
+    "topics": [
+      "General macro"
+    ],
+    "region": "Global",
+    "url": "https://www.econometricsociety.org/",
+    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
+    "review_status": "pending",
+    "monitoring": "not yet automated"
+  },
+  {
+    "id": "aea",
+    "name": "ASSA / AEA Annual Meeting",
+    "organizer": "American Economic Association",
+    "topics": [
+      "General macro"
+    ],
+    "region": "Global",
+    "url": "https://www.aeaweb.org/conference/",
+    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
+    "review_status": "pending",
+    "monitoring": "not yet automated"
+  },
+  {
+    "id": "essim",
+    "name": "European Summer Symposium in International Macroeconomics",
+    "organizer": "CEPR",
+    "topics": [
+      "International macro",
+      "General macro"
+    ],
+    "region": "Global",
+    "url": "https://cepr.org/events",
+    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
+    "review_status": "pending",
+    "monitoring": "not yet automated"
+  },
+  {
+    "id": "carnegie",
+    "name": "Carnegie-Rochester-NYU Conference",
+    "organizer": "Carnegie Mellon / Rochester / NYU",
+    "topics": [
+      "General macro",
+      "Monetary policy"
+    ],
+    "region": "Global",
+    "url": "https://www.carnegie-rochester.rochester.edu/",
+    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
+    "review_status": "pending",
+    "monitoring": "not yet automated"
+  },
+  {
+    "id": "eabcn",
+    "name": "EABCN research conferences",
+    "organizer": "Euro Area Business Cycle Network",
+    "topics": [
+      "Business cycles",
+      "Monetary policy"
+    ],
+    "region": "Global",
+    "url": "https://eabcn.org/",
+    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
+    "review_status": "pending",
+    "monitoring": "not yet automated"
+  },
+  {
+    "id": "laef",
+    "name": "LAEF research conferences",
+    "organizer": "UC Santa Barbara",
+    "topics": [
+      "General macro",
+      "Labour macro"
+    ],
+    "region": "Global",
+    "url": "https://laef.ucsb.edu/",
+    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
+    "review_status": "pending",
+    "monitoring": "not yet automated"
+  }
+]

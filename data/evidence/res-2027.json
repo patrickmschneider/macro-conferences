@@ -1,0 +1,14 @@
+{
+  "checked_on": "2026-09-18",
+  "method": "manual primary-source review",
+  "evidence": {
+    "event_dates": {
+      "url": "https://res.org.uk/event-listing/res2027/",
+      "text": "Monday 28 – Wednesday 30 June 2027"
+    },
+    "deadline": {
+      "url": "https://res.org.uk/event-listing/res2027/",
+      "text": "18 January 2027"
+    }
+  }
+}

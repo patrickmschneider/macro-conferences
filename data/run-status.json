@@ -1,0 +1,19 @@
+{
+  "state": "partial",
+  "last_run": "2026-09-18T15:51:02+00:00",
+  "last_successful_run": "2026-09-18T15:45:50+00:00",
+  "sources": [
+    {
+      "id": "nber-events",
+      "name": "NBER conferences",
+      "url": "https://www.nber.org/api/v1/conference_listing/contentType/conference/_/_/search?eventType=upcoming&perPage=100",
+      "checked_at": "2026-09-18T15:51:02+00:00",
+      "state": "ok",
+      "mode": "discovery",
+      "candidate_links": 19
+    }
+  ],
+  "added": 14,
+  "verified": 23,
+  "message": "23 event records verified; 14 added; 0 source checks failed. Watch-only sources collect leads but do not yet publish new events."
+}

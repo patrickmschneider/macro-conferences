@@ -1,0 +1,1691 @@
+[
+  {
+    "id": "cepr-heterogeneity-2026",
+    "series_id": "cepr-heterogeneity",
+    "name": "Macroeconomic Policies with Heterogeneous Agents (3rd edition)",
+    "organizers": [
+      "CEPR / Paris School of Economics"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-15",
+    "event_end": "2026-12-16",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "topics": [
+      "Heterogeneous agents",
+      "Monetary policy",
+      "Fiscal policy"
+    ],
+    "source_url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-heterogeneity-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-09-20",
+        "deadline_time": "23:59",
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
+        "evidence": {
+          "url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
+          "text": "Closes 20 September 2026 at 23:59"
+        }
+      }
+    ],
+    "notes": "Papers or extended abstracts. Source gives a cutoff time but no time zone.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
+        "text": "15 Dec 2026 - 16 Dec 2026"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
+        "text": "Closes 20 September 2026 at 23:59"
+      }
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition"
+  },
+  {
+    "id": "nber-isom-2027",
+    "series_id": "nber-isom",
+    "name": "50th International Seminar on Macroeconomics",
+    "organizers": [
+      "NBER / Central Bank of Montenegro"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-06-18",
+    "event_end": "2027-06-19",
+    "city": null,
+    "country": "Montenegro",
+    "region": "Europe",
+    "topics": [
+      "International macro"
+    ],
+    "source_url": "https://www.nber.org/50th-annual-international-seminar-macroeconomics",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-isom-2027-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-11-01",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.nber.org/50th-annual-international-seminar-macroeconomics",
+        "evidence": {
+          "url": "https://www.nber.org/50th-annual-international-seminar-macroeconomics",
+          "text": "by November 1, 2026"
+        }
+      }
+    ],
+    "notes": "Detailed abstract or draft paper. Submissions must not be under consideration at another journal; submission includes consideration for a JIE special issue.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/50th-annual-international-seminar-macroeconomics",
+        "text": "June 18-19, 2027"
+      },
+      "deadline": {
+        "url": "https://www.nber.org/50th-annual-international-seminar-macroeconomics",
+        "text": "by November 1, 2026"
+      }
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /50th-annual-international-seminar-macroeconomics (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection",
+    "supporting_urls": [
+      "https://www.nber.org/conferences/international-seminar-macroeconomics-2027"
+    ]
+  },
+  {
+    "id": "nber-hf-2026",
+    "series_id": "nber-hf",
+    "name": "Household Finance Working Group Meeting, Fall 2026",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-11",
+    "event_end": null,
+    "city": "Cambridge, MA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "Household finance"
+    ],
+    "source_url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-hf-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-10-08",
+        "deadline_time": "23:59",
+        "deadline_timezone": "America/New_York",
+        "state": "open",
+        "source_url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+        "evidence": {
+          "url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+          "text": "11:59 pm Eastern time on October 8, 2026"
+        }
+      }
+    ],
+    "notes": "Open paper submission; attendance is by invitation.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+        "text": "December 11, 2026"
+      },
+      "deadline": {
+        "url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+        "text": "11:59 pm Eastern time on October 8, 2026"
+      }
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/household-finance-working-group-meeting-fall-2026 (Caused by NameResolutionError(\"<urllib3.connection.HT"
+  },
+  {
+    "id": "franco-german-fiscal-2026",
+    "series_id": "franco-german-fiscal",
+    "name": "Franco-German Fiscal Policy Seminar",
+    "organizers": [
+      "German and French finance ministries"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-01",
+    "event_end": "2026-12-02",
+    "city": "Berlin",
+    "country": "Germany",
+    "region": "Europe",
+    "topics": [
+      "Fiscal policy",
+      "Growth"
+    ],
+    "source_url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "franco-german-fiscal-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-10-09",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
+        "evidence": {
+          "url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
+          "text": "submitted by 9 October 2026"
+        }
+      }
+    ],
+    "notes": "Theme: artificial intelligence, productivity and public finances. Papers in English.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
+        "text": "1 Dec 2026 - 2 Dec 2026"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
+        "text": "submitted by 9 October 2026"
+      }
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/2026-franco-german-fiscal-policy-seminar"
+  },
+  {
+    "id": "nber-demographics-2027",
+    "series_id": null,
+    "name": "Demographic Forces and US Labor Market Dynamics",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-03-05",
+    "event_end": null,
+    "city": "San Francisco, CA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "Labour macro",
+      "Pensions and retirement"
+    ],
+    "source_url": "https://www.nber.org/calls-papers-and-proposals/demographic-forces-and-us-labor-market-dynamics",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-demographics-2027-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-12-01",
+        "deadline_time": "23:59",
+        "deadline_timezone": "America/New_York",
+        "state": "open",
+        "source_url": "https://www.nber.org/calls-papers-and-proposals/demographic-forces-and-us-labor-market-dynamics",
+        "evidence": {
+          "url": "https://www.nber.org/calls-papers-and-proposals/demographic-forces-and-us-labor-market-dynamics",
+          "text": "11:59pm ET on Tuesday, December 1, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/calls-papers-and-proposals/demographic-forces-and-us-labor-market-dynamics",
+        "text": "March 5, 2027"
+      },
+      "deadline": {
+        "url": "https://www.nber.org/calls-papers-and-proposals/demographic-forces-and-us-labor-market-dynamics",
+        "text": "11:59pm ET on Tuesday, December 1, 2026"
+      }
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /calls-papers-and-proposals/demographic-forces-and-us-labor-market-dynamics (Caused by NameResolutionError(\"<urllib3.",
+    "supporting_urls": [
+      "https://www.nber.org/conferences/demographic-forces-and-us-labor-market-dynamics-spring-2027"
+    ]
+  },
+  {
+    "id": "nber-tariffs-2027",
+    "series_id": null,
+    "name": "Tariffs and Economic Performance",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-01",
+    "event_end": null,
+    "city": "Cambridge, MA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "International macro"
+    ],
+    "source_url": "https://www.nber.org/conferences/tariffs-and-economic-performance-spring-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-tariffs-2027-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-12-16",
+        "deadline_time": "23:59",
+        "deadline_timezone": "America/New_York",
+        "state": "open",
+        "source_url": "https://www.nber.org/conferences/tariffs-and-economic-performance-spring-2027",
+        "evidence": {
+          "url": "https://www.nber.org/conferences/tariffs-and-economic-performance-spring-2027",
+          "text": "11:59 pm Eastern time on December 16, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/tariffs-and-economic-performance-spring-2027",
+        "text": "April 1, 2027"
+      },
+      "deadline": {
+        "url": "https://www.nber.org/conferences/tariffs-and-economic-performance-spring-2027",
+        "text": "11:59 pm Eastern time on December 16, 2026"
+      }
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/tariffs-and-economic-performance-spring-2027 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSCo"
+  },
+  {
+    "id": "nber-labor-power-2027",
+    "series_id": null,
+    "name": "Measuring and Modeling Market Power in the Labor Market",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-05-14",
+    "event_end": null,
+    "city": "Cambridge, MA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "Labour macro"
+    ],
+    "source_url": "https://www.nber.org/calls-papers-and-proposals/measuring-and-modeling-market-power-labor-market",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-labor-power-2027-papers",
+        "kind": "Paper submission",
+        "deadline": "2027-01-13",
+        "deadline_time": "23:59",
+        "deadline_timezone": "America/New_York",
+        "state": "open",
+        "source_url": "https://www.nber.org/calls-papers-and-proposals/measuring-and-modeling-market-power-labor-market",
+        "evidence": {
+          "url": "https://www.nber.org/calls-papers-and-proposals/measuring-and-modeling-market-power-labor-market",
+          "text": "11:59pm EST on Wednesday, January 13, 2027"
+        }
+      }
+    ],
+    "notes": "Papers that will be published by May 2027 are not eligible. Open to researchers without NBER affiliation.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/calls-papers-and-proposals/measuring-and-modeling-market-power-labor-market",
+        "text": "Friday, May 14, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /calls-papers-and-proposals/measuring-and-modeling-market-power-labor-market (Caused by NameResolutionError(\"<urllib3",
+    "supporting_urls": [
+      "https://www.nber.org/conferences/measuring-and-modeling-market-power-labor-market-spring-2027"
+    ]
+  },
+  {
+    "id": "sed-2027",
+    "series_id": "sed",
+    "name": "Society for Economic Dynamics Annual Meeting",
+    "organizers": [
+      "SED / Católica Lisbon"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-07-01",
+    "event_end": "2027-07-03",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "region": "Europe",
+    "topics": [
+      "General macro",
+      "Growth",
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://economicdynamics.org/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "sed-2027-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "not_yet_open",
+        "source_url": "https://economicdynamics.org/",
+        "evidence": null
+      }
+    ],
+    "notes": "2027 meeting announced; call for papers forthcoming.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18T15:49:00+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://economicdynamics.org/",
+        "text": "July 1-3 in Lisbon, Portugal"
+      },
+      "deadline": null
+    },
+    "history": []
+  },
+  {
+    "id": "res-2027",
+    "series_id": "res",
+    "name": "Royal Economic Society Annual Conference",
+    "organizers": [
+      "Royal Economic Society"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-06-28",
+    "event_end": "2027-06-30",
+    "city": "Reading",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://res.org.uk/event-listing/res2027/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "res-2027-papers",
+        "kind": "General sessions",
+        "deadline": "2027-01-18",
+        "deadline_time": "23:55",
+        "deadline_timezone": "Europe/London",
+        "state": "not_yet_open",
+        "source_url": "https://res.org.uk/event-listing/res2027/",
+        "evidence": {
+          "url": "https://res.org.uk/event-listing/res2027/",
+          "text": "18 January 2027"
+        }
+      },
+      {
+        "id": "res-2027-posters",
+        "kind": "Speed / poster sessions",
+        "deadline": "2027-04-12",
+        "deadline_time": "23:55",
+        "deadline_timezone": "Europe/London",
+        "state": "not_yet_open",
+        "source_url": "https://res.org.uk/event-listing/res2027/",
+        "evidence": {
+          "url": "https://res.org.uk/event-listing/res2027/",
+          "text": "12 April 2027"
+        }
+      }
+    ],
+    "notes": "General paper submissions open in October 2026. Broad economics conference.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18T15:49:00+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://res.org.uk/event-listing/res2027/",
+        "text": "Monday 28 – Wednesday 30 June 2027"
+      },
+      "deadline": {
+        "url": "https://res.org.uk/event-listing/res2027/",
+        "text": "18 January 2027"
+      }
+    },
+    "history": []
+  },
+  {
+    "id": "cepr-hf-2026",
+    "series_id": "cepr-hf",
+    "name": "CEPR European Conference on Household Finance",
+    "organizers": [
+      "CEPR / Study Center Gerzensee"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-07",
+    "event_end": "2026-10-09",
+    "city": "Bern / Gerzensee",
+    "country": "Switzerland",
+    "region": "Europe",
+    "topics": [
+      "Household finance"
+    ],
+    "source_url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-hf-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-06-18",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
+        "evidence": {
+          "url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
+          "text": "Thursday 18 June 2026"
+        }
+      }
+    ],
+    "notes": "Policy event in Bern on 7 October; research conference in Gerzensee on 8–9 October.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
+        "text": "7 Oct 2026 - 9 Oct 2026"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
+        "text": "Thursday 18 June 2026"
+      }
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/cepr-european-conference-household-finance-2026"
+  },
+  {
+    "id": "cepr-mef-2026",
+    "series_id": "cepr-mef",
+    "name": "CEPR Monetary Economics and Fluctuations Symposium",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-05",
+    "event_end": "2026-10-07",
+    "city": "Gerzensee",
+    "country": "Switzerland",
+    "region": "Europe",
+    "topics": [
+      "Monetary policy",
+      "Business cycles"
+    ],
+    "source_url": "https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-mef-2026-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0",
+        "evidence": null
+      }
+    ],
+    "notes": "Source states submissions are closed.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0",
+        "text": "5 Oct 2026 - 7 Oct 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0"
+  },
+  {
+    "id": "cepr-imf-2026",
+    "series_id": "cepr-imf",
+    "name": "CEPR International Macroeconomics and Finance Programme Meeting",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-02",
+    "event_end": "2026-11-03",
+    "city": "Gerzensee",
+    "country": "Switzerland",
+    "region": "Europe",
+    "topics": [
+      "International macro",
+      "Macro-finance"
+    ],
+    "source_url": "https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-imf-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-05-31",
+        "deadline_time": "23:59",
+        "deadline_timezone": "Europe/London",
+        "state": "closed",
+        "source_url": "https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026",
+        "evidence": {
+          "url": "https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026",
+          "text": "Sunday 31 May 2026 (23:59 BST)"
+        }
+      }
+    ],
+    "notes": "",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026",
+        "text": "2 Nov 2026 - 3 Nov 2026"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026",
+        "text": "Sunday 31 May 2026 (23:59 BST)"
+      }
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026"
+  },
+  {
+    "id": "cepr-mg-2026",
+    "series_id": "cepr-mg",
+    "name": "CEPR Macroeconomics and Growth Annual Symposium",
+    "organizers": [
+      "CEPR / CUNEF"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-19",
+    "event_end": "2026-11-20",
+    "city": "Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "topics": [
+      "Growth",
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-mg-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-06-30",
+        "deadline_time": "18:00",
+        "deadline_timezone": "Europe/Madrid",
+        "state": "closed",
+        "source_url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
+        "evidence": {
+          "url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
+          "text": "Tuesday 30th June 2026, 18:00 CEST"
+        }
+      }
+    ],
+    "notes": "",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
+        "text": "19 Nov 2026 - 20 Nov 2026"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
+        "text": "Tuesday 30th June 2026, 18:00 CEST"
+      }
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026"
+  },
+  {
+    "id": "cepr-ireland-2026",
+    "series_id": "cepr-ireland",
+    "name": "Macro-Finance and Financial Stability Policies",
+    "organizers": [
+      "Central Bank of Ireland / UCD / CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-30",
+    "event_end": "2026-12-01",
+    "city": "Dublin",
+    "country": "Ireland",
+    "region": "Europe",
+    "topics": [
+      "Macro-finance",
+      "Financial stability"
+    ],
+    "source_url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-ireland-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-06-23",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
+        "evidence": {
+          "url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
+          "text": "submitted by 23 June 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
+        "text": "30 Nov 2026 - 1 Dec 2026"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
+        "text": "submitted by 23 June 2026"
+      }
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026"
+  },
+  {
+    "id": "cepr-empirical-monetary-2026",
+    "series_id": "empirical-monetary",
+    "name": "Workshop on Empirical Monetary Economics",
+    "organizers": [
+      "OFCE / CEPR"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-12-01",
+    "event_end": "2026-12-02",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "topics": [
+      "Monetary policy",
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-empirical-monetary-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-09-15",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+        "evidence": {
+          "url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+          "text": "Submission deadline: 15 September 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+        "text": "1 Dec 2026 - 2 Dec 2026"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+        "text": "Submission deadline: 15 September 2026"
+      }
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/workshop-empirical-monetary-economics-2026"
+  },
+  {
+    "id": "cepr-paris-2026",
+    "series_id": "cepr-paris",
+    "name": "CEPR Paris Symposium",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-03",
+    "event_end": "2026-12-08",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-paris-2026-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026",
+        "evidence": null
+      }
+    ],
+    "notes": "Paper and poster submissions under review. Poster eligibility differs from paper eligibility.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026",
+        "text": "3 Dec 2026 - 8 Dec 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026"
+  },
+  {
+    "id": "cepr-finland-2026",
+    "series_id": "cepr-finland",
+    "name": "Navigating Monetary Policy by the Northern Lights",
+    "organizers": [
+      "Bank of Finland / CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-17",
+    "event_end": "2026-12-18",
+    "city": "Saariselkä",
+    "country": "Finland",
+    "region": "Europe",
+    "topics": [
+      "Monetary policy",
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "cepr-finland-2026-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
+        "evidence": null
+      }
+    ],
+    "notes": "Attendance limited to presenters. Source contains an old notification year; no deadline inferred.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
+        "text": "17 Dec 2026 - 18 Dec 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights"
+  },
+  {
+    "id": "steg-2027",
+    "series_id": "steg",
+    "name": "STEG Annual Conference and Theme Workshops",
+    "organizers": [
+      "CEPR / STEG"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-01-06",
+    "event_end": "2027-01-09",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "topics": [
+      "Growth"
+    ],
+    "source_url": "https://cepr.org/events/steg-annual-conference-theme-workshops-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "steg-2027-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/steg-annual-conference-theme-workshops-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "Research on structural transformation and growth in low-income countries; source states submissions are closed.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/steg-annual-conference-theme-workshops-2027",
+        "text": "6 Jan 2027 - 9 Jan 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/steg-annual-conference-theme-workshops-2027"
+  },
+  {
+    "id": "rba-quant-2026",
+    "series_id": "rba-quant",
+    "name": "RBA Quantitative Macroeconomics Workshop",
+    "organizers": [
+      "Reserve Bank of Australia"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-12-09",
+    "event_end": "2026-12-11",
+    "city": "Sydney",
+    "country": "Australia",
+    "region": "Oceania",
+    "topics": [
+      "General macro",
+      "International macro",
+      "Computational macro"
+    ],
+    "source_url": "https://www.rba.gov.au/publications/workshops/research/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "rba-quant-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-08-28",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.rba.gov.au/publications/workshops/research/",
+        "evidence": {
+          "url": "https://www.rba.gov.au/publications/workshops/research/",
+          "text": "Friday, 28 August 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18T15:49:00+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.rba.gov.au/publications/workshops/research/",
+        "text": "9–11 December 2026"
+      },
+      "deadline": {
+        "url": "https://www.rba.gov.au/publications/workshops/research/",
+        "text": "Friday, 28 August 2026"
+      }
+    },
+    "history": []
+  },
+  {
+    "id": "rba-cem-2026",
+    "series_id": "cem",
+    "name": "Continuing Education in Macroeconometrics Workshop",
+    "organizers": [
+      "RBA / SNDE / CAMA"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-11-17",
+    "event_end": "2026-11-18",
+    "city": "Sydney",
+    "country": "Australia",
+    "region": "Oceania",
+    "topics": [
+      "Computational macro",
+      "Business cycles"
+    ],
+    "source_url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "rba-cem-2026-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-07-31",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/",
+        "evidence": {
+          "url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/",
+          "text": "Deadline: July 31, 2026"
+        }
+      }
+    ],
+    "notes": "Includes contributed research papers as well as masterclasses.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18T15:49:00+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/",
+        "text": "17–18 November 2026"
+      },
+      "deadline": {
+        "url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/",
+        "text": "Deadline: July 31, 2026"
+      }
+    },
+    "history": []
+  },
+  {
+    "id": "nber-macroannual-2027",
+    "series_id": "nber-macroannual",
+    "name": "NBER Annual Conference on Macroeconomics",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-29",
+    "event_end": "2027-04-30",
+    "city": "Cambridge, MA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.nber.org/conferences/annual-conference-macroeconomics-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-macroannual-2027-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/annual-conference-macroeconomics-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "Attendance by invitation. No open submission call verified.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/annual-conference-macroeconomics-2027",
+        "text": "April 29-30, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/annual-conference-macroeconomics-2027 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnectio"
+  },
+  {
+    "id": "nber-deficits-2027",
+    "series_id": null,
+    "name": "Long-Term Budget Deficits: Economic Effects and Potential Responses",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-05-20",
+    "event_end": "2027-05-21",
+    "city": "Washington, DC",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "Fiscal policy",
+      "Macro-finance"
+    ],
+    "source_url": "https://www.nber.org/calls-papers-and-proposals/call-papers-long-term-budget-deficits-economic-effects-and-potential-responses",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-deficits-2027-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-08-31",
+        "deadline_time": "23:59",
+        "deadline_timezone": "America/New_York",
+        "state": "closed",
+        "source_url": "https://www.nber.org/calls-papers-and-proposals/call-papers-long-term-budget-deficits-economic-effects-and-potential-responses",
+        "evidence": {
+          "url": "https://www.nber.org/calls-papers-and-proposals/call-papers-long-term-budget-deficits-economic-effects-and-potential-responses",
+          "text": "11:59 pm ET on Monday, August 31, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/calls-papers-and-proposals/call-papers-long-term-budget-deficits-economic-effects-and-potential-responses",
+        "text": "May 20–21, 2027"
+      },
+      "deadline": {
+        "url": "https://www.nber.org/calls-papers-and-proposals/call-papers-long-term-budget-deficits-economic-effects-and-potential-responses",
+        "text": "11:59 pm ET on Monday, August 31, 2026"
+      }
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /calls-papers-and-proposals/call-papers-long-term-budget-deficits-economic-effects-and-potential-responses (Caused by",
+    "supporting_urls": [
+      "https://www.nber.org/conferences/long-term-budget-deficits-economic-effects-and-potential-responses-spring-2027"
+    ]
+  },
+  {
+    "id": "nber-energy-2026",
+    "series_id": null,
+    "name": "Energy Markets and the Macroeconomy",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-10",
+    "event_end": "2026-12-11",
+    "city": "Cambridge, MA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "Business cycles"
+    ],
+    "source_url": "https://www.nber.org/conferences/energy-markets-and-macroeconomy-fall-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-energy-2026-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.nber.org/conferences/energy-markets-and-macroeconomy-fall-2026",
+        "evidence": null
+      }
+    ],
+    "notes": "Source states the submission deadline has passed.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/energy-markets-and-macroeconomy-fall-2026",
+        "text": "December 10-11, 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/energy-markets-and-macroeconomy-fall-2026 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConne"
+  },
+  {
+    "id": "nber-ifm-2026",
+    "series_id": "nber-ifm",
+    "name": "International Finance and Macroeconomics Program Meeting",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-23",
+    "event_end": null,
+    "city": "Cambridge, MA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "International macro"
+    ],
+    "source_url": "https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-fall-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "nber-ifm-2026-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-fall-2026",
+        "evidence": null
+      }
+    ],
+    "notes": "Attendance by invitation. No open submission call verified.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-fall-2026",
+        "text": "October 23, 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/international-finance-and-macroeconomics-program-meeting-fall-2026 (Caused by NameResolutionError(\"<urll"
+  },
+  {
+    "id": "imf-polak-2026",
+    "series_id": "imf-polak",
+    "name": "Jacques Polak Annual Research Conference",
+    "organizers": [
+      "International Monetary Fund"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-12",
+    "event_end": "2026-11-13",
+    "city": "Washington, DC",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "International macro",
+      "Growth"
+    ],
+    "source_url": "https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "imf-polak-2026-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference",
+        "evidence": null
+      }
+    ],
+    "notes": "Theme: technology, geopolitics and a multipolar world. Submission status unconfirmed.",
+    "discovered_at": "2026-09-18",
+    "last_checked": "2026-09-18T15:49:00+00:00",
+    "last_verified": "2026-09-18",
+    "verification_method": "manual primary-source review",
+    "health": "fetch_failed",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference",
+        "text": "November 12-13, 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "check_error": "403 Client Error: Forbidden for url: https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference"
+  },
+  {
+    "id": "event-27e24e647282e2",
+    "series_id": null,
+    "name": "Macroeconomic Effects of Population Aging, Fall 2026",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-09-18",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.nber.org/conferences/macroeconomic-effects-population-aging-fall-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-27e24e647282e2-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/macroeconomic-effects-population-aging-fall-2026",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/macroeconomic-effects-population-aging-fall-2026",
+        "text": "September 18, 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  },
+  {
+    "id": "event-8e6fdd5af7f8e4",
+    "series_id": null,
+    "name": "Economic Fluctuations and Growth Program Meeting, Fall 2026",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-06",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Growth",
+      "Business cycles"
+    ],
+    "source_url": "https://www.nber.org/conferences/economic-fluctuations-and-growth-program-meeting-fall-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-8e6fdd5af7f8e4-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.nber.org/conferences/economic-fluctuations-and-growth-program-meeting-fall-2026",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/economic-fluctuations-and-growth-program-meeting-fall-2026",
+        "text": "November 6, 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  },
+  {
+    "id": "event-d368355e1c0699",
+    "series_id": null,
+    "name": "Monetary Economics Program Meeting, Fall 2026",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-13",
+    "event_end": null,
+    "city": "San Francisco, CA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.nber.org/conferences/monetary-economics-program-meeting-fall-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-d368355e1c0699-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.nber.org/conferences/monetary-economics-program-meeting-fall-2026",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/monetary-economics-program-meeting-fall-2026",
+        "text": "November 13, 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  },
+  {
+    "id": "event-36b86856e7ad16",
+    "series_id": null,
+    "name": "Economic Fluctuations and Growth Program Meeting, Winter 2027",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-02-26",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Growth",
+      "Business cycles"
+    ],
+    "source_url": "https://www.nber.org/conferences/economic-fluctuations-and-growth-program-meeting-winter-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-36b86856e7ad16-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/economic-fluctuations-and-growth-program-meeting-winter-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/economic-fluctuations-and-growth-program-meeting-winter-2027",
+        "text": "February 26, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  },
+  {
+    "id": "event-4336ab89bbab2a",
+    "series_id": null,
+    "name": "Monetary Economics Program Meeting, Spring 2027",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-03-05",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.nber.org/conferences/monetary-economics-program-meeting-spring-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-4336ab89bbab2a-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/monetary-economics-program-meeting-spring-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/monetary-economics-program-meeting-spring-2027",
+        "text": "March 5, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  },
+  {
+    "id": "event-7160ce3ec751c3",
+    "series_id": null,
+    "name": "International Finance and Macroeconomics Program Meeting, Spring 2027",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-03-19",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-spring-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-7160ce3ec751c3-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-spring-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-spring-2027",
+        "text": "March 19, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  },
+  {
+    "id": "event-56cf2845d5a54d",
+    "series_id": null,
+    "name": "Microeconomic Policies and Economic Growth, Spring 2027",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-01",
+    "event_end": "2027-04-02",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Growth"
+    ],
+    "source_url": "https://www.nber.org/conferences/microeconomic-policies-and-economic-growth-spring-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-56cf2845d5a54d-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/microeconomic-policies-and-economic-growth-spring-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/microeconomic-policies-and-economic-growth-spring-2027",
+        "text": "April 1-2, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  },
+  {
+    "id": "event-9865ca59ac105d",
+    "series_id": null,
+    "name": "Productivity, Innovation, and Entrepreneurship, Spring 2027",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-23",
+    "event_end": null,
+    "city": "Cambridge, MA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "Growth"
+    ],
+    "source_url": "https://www.nber.org/conferences/productivity-innovation-and-entrepreneurship-spring-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-9865ca59ac105d-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/productivity-innovation-and-entrepreneurship-spring-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/productivity-innovation-and-entrepreneurship-spring-2027",
+        "text": "April 23, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  },
+  {
+    "id": "event-58c979ff5ff5b8",
+    "series_id": null,
+    "name": "Heterogeneous-Agent Macroeconomics Workshop, Spring 2027",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-06-09",
+    "event_end": "2027-06-11",
+    "city": "Cambridge, MA",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "General macro",
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://www.nber.org/conferences/heterogeneous-agent-macroeconomics-workshop-spring-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-58c979ff5ff5b8-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/heterogeneous-agent-macroeconomics-workshop-spring-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/heterogeneous-agent-macroeconomics-workshop-spring-2027",
+        "text": "June 9-11, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T15:51:02+00:00",
+    "last_checked": "2026-09-18T15:51:02+00:00",
+    "last_verified": "2026-09-18T15:51:02+00:00",
+    "verification_method": "deterministic source extraction"
+  }
+]

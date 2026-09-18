@@ -1,0 +1,1 @@
+{"name":"macro-conferences","private":true,"type":"module","scripts":{"build":"python3 scripts/build.py","test":"python3 -m unittest discover -s tests -v && node --test tests/logic.test.js","preview":"python3 -m http.server 8000 --directory dist"}}

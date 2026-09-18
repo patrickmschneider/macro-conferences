@@ -1,0 +1,254 @@
+version: 1
+sources:
+- id: nber-calls
+  name: NBER calls for papers
+  url: https://www.nber.org/calls-papers-and-proposals
+  adapter: nber
+  enabled: true
+  max_pages: 1
+- id: nber-events
+  name: NBER conferences
+  url: https://www.nber.org/api/v1/conference_listing/contentType/conference/_/_/search?eventType=upcoming&perPage=100
+  adapter: nber-json
+  enabled: true
+  max_pages: 2
+- id: cepr-calls
+  name: CEPR calls for papers
+  url: https://cepr.org/events/open-calls-papers
+  adapter: cepr
+  enabled: true
+  max_pages: 2
+- id: cepr-events
+  name: CEPR forthcoming events
+  url: https://cepr.org/events/forthcoming-events
+  adapter: cepr
+  enabled: true
+  max_pages: 7
+- id: cepr-heterogeneity
+  name: Macroeconomic Policies with Heterogeneous Agents (3rd edition)
+  url: https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: nber-isom
+  name: 50th International Seminar on Macroeconomics
+  url: https://www.nber.org/50th-annual-international-seminar-macroeconomics
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: nber-hf
+  name: Household Finance Working Group Meeting
+  url: https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: franco-german-fiscal
+  name: Franco-German Fiscal Policy Seminar
+  url: https://cepr.org/events/2026-franco-german-fiscal-policy-seminar
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: sed
+  name: Society for Economic Dynamics Annual Meeting
+  url: https://economicdynamics.org/
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: res
+  name: Royal Economic Society Annual Conference
+  url: https://res.org.uk/event-listing/res2027/
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cepr-hf
+  name: CEPR European Conference on Household Finance
+  url: https://cepr.org/events/cepr-european-conference-household-finance-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cepr-mef
+  name: CEPR Monetary Economics and Fluctuations Symposium
+  url: https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cepr-imf
+  name: CEPR International Macroeconomics and Finance Programme Meeting
+  url: https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cepr-mg
+  name: CEPR Macroeconomics and Growth Annual Symposium
+  url: https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cepr-ireland
+  name: Macro-Finance and Financial Stability Policies
+  url: https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: empirical-monetary
+  name: Workshop on Empirical Monetary Economics
+  url: https://cepr.org/events/workshop-empirical-monetary-economics-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cepr-paris
+  name: CEPR Paris Symposium
+  url: https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cepr-finland
+  name: Navigating Monetary Policy by the Northern Lights
+  url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: steg
+  name: STEG Annual Conference and Theme Workshops
+  url: https://cepr.org/events/steg-annual-conference-theme-workshops-2027
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: rba-quant
+  name: RBA Quantitative Macroeconomics Workshop
+  url: https://www.rba.gov.au/publications/workshops/research/
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cem
+  name: Continuing Education in Macroeconometrics Workshop
+  url: https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: nber-macroannual
+  name: NBER Annual Conference on Macroeconomics
+  url: https://www.nber.org/conferences/annual-conference-macroeconomics-2027
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: nber-ifm
+  name: International Finance and Macroeconomics Program Meeting
+  url: https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-fall-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: imf-polak
+  name: Jacques Polak Annual Research Conference
+  url: https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: cebra
+  name: CEBRA Annual Meeting
+  url: https://cebra.org/events/annual-meeting/
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: sce
+  name: Computing in Economics and Finance
+  url: https://comp-econ.com/
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: wams
+  name: Workshop of the Australasian Macroeconomics Society
+  url: https://www.ausmacro.com/workshops/
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: netspar
+  name: Netspar International Pension Workshop
+  url: https://www.netspar.nl/agenda/ipw-international-pension-workshop-2026/
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: bse-macrofinance
+  name: 'BSE Summer Forum: Macroeconomics and Finance'
+  url: https://bse.eu/summer-forum/workshops/macroeconomics-and-finance
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: bse-macrodevelopment
+  name: 'BSE Summer Forum: Macro-development'
+  url: https://sites.google.com/bse.eu/summerforum2026/home
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: midwest
+  name: Midwest Macroeconomics Meetings
+  url: https://www.depts.ttu.edu/economics/news-announcements/midwest-macroeconomics-meetings-2026.php
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: nber-si
+  name: 'NBER Summer Institute: macro programmes'
+  url: https://www.nber.org/conferences/summer-institute-2026
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: ecb-annual
+  name: ECB Annual Research Conference
+  url: https://www.ecb.europa.eu/press/conferences/html/index.en.html
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: ipra
+  name: International Pension Research Association Conference
+  url: https://www.cepar.edu.au/event/12th-international-pension-research-association-ipra-conference
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: ifs-hf
+  name: LSE–IFS–UCL–CEPR–Imperial Household Finance Workshop
+  url: https://ifs.org.uk/events/lse-ifs-ucl-cepr-imperial-business-school-workshop-household-finance-0
+  adapter: watch
+  enabled: true
+  max_pages: 1
+- id: eea
+  name: EEA Congress
+  url: https://www.eeassoc.org/
+  adapter: watch
+  enabled: false
+  max_pages: 1
+- id: es
+  name: Econometric Society regional meetings
+  url: https://www.econometricsociety.org/
+  adapter: watch
+  enabled: false
+  max_pages: 1
+- id: aea
+  name: ASSA / AEA Annual Meeting
+  url: https://www.aeaweb.org/conference/
+  adapter: watch
+  enabled: false
+  max_pages: 1
+- id: essim
+  name: European Summer Symposium in International Macroeconomics
+  url: https://cepr.org/events
+  adapter: watch
+  enabled: false
+  max_pages: 1
+- id: carnegie
+  name: Carnegie-Rochester-NYU Conference
+  url: https://www.carnegie-rochester.rochester.edu/
+  adapter: watch
+  enabled: false
+  max_pages: 1
+- id: eabcn
+  name: EABCN research conferences
+  url: https://eabcn.org/
+  adapter: watch
+  enabled: false
+  max_pages: 1
+- id: laef
+  name: LAEF research conferences
+  url: https://laef.ucsb.edu/
+  adapter: watch
+  enabled: false
+  max_pages: 1
