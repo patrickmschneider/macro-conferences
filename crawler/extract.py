@@ -16,18 +16,20 @@ def dates(text):
 
 def clean(html):
  s=BeautifulSoup(html,'html.parser')
- for tag in s.select('script,style,nav,footer,header,aside,.share,.related-content'): tag.decompose()
  main=s.find('main') or s.find('article') or s
  h=main.find('h1') or s.find('h1')
- title=h.get_text(' ',strip=True) if h else ''
+ meta=s.find('meta',property='og:title')
+ title=h.get_text(' ',strip=True) if h else meta.get('content','') if meta else s.title.get_text(' ',strip=True) if s.title else ''
+ for tag in s.select('script,style,nav,footer,aside,.share,.related-content'):tag.decompose()
+ for tag in s.select('header'):
+  if not tag.find_parent(['main','article']) and not tag.find('h1'):tag.decompose()
  text=' '.join(main.stripped_strings)
- # Related cards must never supply another conference's dates.
- text=re.split(r'\b(?:Related Events|Related Content|Upcoming events in series|Themes & Issues)\b',text)[0]
+ text=re.split(r'\b(?:Related Events|Related Content|Upcoming events in series|Themes & Issues|Event Navigation)\b',text)[0]
  return title,re.sub(r'\s+',' ',text).strip(),s
 
 def deadline(text):
  # Bound each clause to its first explicit date. A registration deadline never qualifies.
- anchors=r'(?:submission deadline(?:\s+is)?|deadline for (?:paper )?submissions(?:\s+is|\s+was)?|(?:papers?|abstracts?)\s+(?:must be |should be |to be )?(?:uploaded|submitted)|submit\s+(?:a |your |the )?(?:paper|abstract)|upload a pdf|closes)'
+ anchors=r'(?:submission deadline(?:\s+is)?|deadline for (?:paper )?submissions(?:\s+is|\s+was)?|(?:papers?|abstracts?)\s+(?:must be |should be |to be )?(?:uploaded|submitted)|submit\s+(?:a |your |the )?(?:paper|abstract)|upload a pdf|(?:email|send) (?:a )?draft of (?:their|your) paper|closes)'
  hits=[]
  for m in re.finditer(anchors,text,re.I):
   if re.search(r'registration|booking|notification',text[max(0,m.start()-35):m.start()],re.I): continue
@@ -44,7 +46,7 @@ def deadline(text):
 
 def event_dates(text):
  # Explicit date ranges, or a labelled DATE line on NBER conference pages.
- pats=[rf'(?P<m>{M})\s+(?P<d>\d{{1,2}})\s*[–—-]\s*(?P<e>\d{{1,2}}),?\s+(?P<y>20\d{{2}})',rf'(?P<d>\d{{1,2}})\s*[–—-]\s*(?P<e>\d{{1,2}})\s+(?P<m>{M})\s+(?P<y>20\d{{2}})']
+ pats=[rf'(?P<m>{M})\s+(?P<d>\d{{1,2}})\s*(?:[–—&-]|and)\s*(?:(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+)?(?P<e>\d{{1,2}}),?\s+(?P<y>20\d{{2}})',rf'(?P<d>\d{{1,2}})\s*(?:[–—&-]|and)\s*(?:(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+)?(?P<e>\d{{1,2}})\s+(?P<m>{M}),?\s+(?P<y>20\d{{2}})']
  for p in pats:
   m=re.search(p,text[:1100],re.I)
   if m:
@@ -57,18 +59,18 @@ def event_dates(text):
  if m:
   a,b=dates(m[1]),dates(m[2])
   if a and b: return a[0][0],b[0][0],m.group()
- m=re.search(r'\bDATE\s+(.{1,65})',text)
+ m=re.search(r'\b(?:DATE|Date & Time|Date:)\s+(.{1,65})',text)
  if m and dates(m[1]): return dates(m[1])[0][0],None,dates(m[1])[0][1]
  return None,None,None
 
 TOPICS={
  'General macro':r'macroeconom|economic dynamics', 'Monetary policy':r'monetary|inflation|central bank',
- 'Fiscal policy':r'fiscal|sovereign debt|budget deficit','International macro':r'international macro|open econom|tariff|global imbalance',
+ 'Fiscal policy':r'fiscal|sovereign debt|budget deficit','International macro':r'international macro|open econom|tariff|global imbalance|international economics|international.*dollar',
  'Growth':r'growth|productivity|structural transformation','Business cycles':r'business cycle|fluctuation',
- 'Macro-finance':r'macro.?finance','Financial stability':r'financial stability|macroprudential|banking',
- 'Labour macro':r'labo[u]?r market|labo[u]?r macro','Heterogeneous agents':r'heterogen|inequality',
+ 'Macro-finance':r'macro.?finance|nonbank financial|non-bank financial|money markets|financial markets|bank funding','Financial stability':r'financial stability|macroprudential|banking',
+ 'Labour macro':r'labo[u]?r market|labo[u]?r macro','Heterogeneous agents':r'heterogen|inequality|micro\s*(?:for|4)\s*macro',
  'Computational macro':r'computational|macroeconometric|dynamic equilibrium',
- 'Household finance':r'household finance|household saving|consumer credit|mortgage',
+ 'Household finance':r'household finance|household saving|consumer (?:credit|finance)|mortgage|auto lending',
  'Pensions and retirement':r'pension|retirement|population ag[ei]ing'}
 def topics(text): return [k for k,v in TOPICS.items() if re.search(v,text,re.I)]
 def extract(html,url,organizer):
@@ -98,5 +100,5 @@ def discover(html,url):
  for a in s.select('a[href]'):
   u=urljoin(url,a['href']).split('#')[0]; label=a.get_text(' ',strip=True)
   if urlparse(u).hostname!=urlparse(url).hostname: continue
-  if topics(label) and len(label)>12 and not re.search(r'/papers/|/people/|/research/|/programs-projects/|/brd|/macroannual|\.pdf|event-series|programme-areas',u): links.append(u)
+  if topics(label) and len(label)>12 and not re.search(r'/papers/|/people/|/programs-projects/|/brd|/macroannual|\.pdf|event-series|programme-areas',u): links.append(u)
  return sorted(set(links))

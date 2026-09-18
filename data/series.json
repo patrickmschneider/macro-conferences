@@ -520,5 +520,20 @@
     "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
     "review_status": "pending",
     "monitoring": "not yet automated"
+  },
+  {
+    "id": "e61-m4m",
+    "name": "Micro for Macro (M4M)",
+    "organizer": "e61 Institute / UNSW",
+    "topics": [
+      "Heterogeneous agents",
+      "Household finance",
+      "Monetary policy"
+    ],
+    "region": "Oceania",
+    "url": "https://e61.in/events/",
+    "inclusion_rationale": "Academic micro-to-macro research meeting; the 2026 programme includes Kaplan, Nakamura, Steinsson and Violante.",
+    "review_status": "verified",
+    "monitoring": "institutional event discovery"
   }
 ]

@@ -419,3 +419,17 @@ The first release is complete when a visitor can use the tracker inside Patrick�
 It must also maintain a broader record of upcoming events and monitored series, update on a daily target cadence, disclose stale sources, preserve source evidence, and operate without a routine human approval queue. Claims about comprehensive coverage or long-term unattended reliability must be supported by the coverage audit and actual operational observation.
 
 Excluded from the initial release: accounts, community submissions, newsletters, Twitter scraping, personalised recommendations, numerical prestige rankings, and comprehensive coverage of all economics.
+
+
+### Institutional breadth update — 18 September 2026
+
+Treat all major macroeconomic fields as permanent scope, with household finance, heterogeneity and pensions as additional priorities. Central-bank coverage must include the Federal Reserve Board and all 12 regional Feds, BoE, ECB, major European national central banks, BoC, RBA, RBNZ and BIS. Include e61 Institute’s research conferences, particularly Micro for Macro. Monitor academic research conferences and workshops, rather than treating every institutional event or speech as a conference opportunity.
+
+Staged actions for this expansion:
+1. Register official institutional calendars and source-specific discovery rules; record a latest check for every enabled source.
+2. Publish only editions with explicit event-date evidence; preserve ambiguous and PDF-only announcements as leads. Keep unknown submission deadlines visibly unknown.
+3. Validate representative extracted events and merge alternate official announcements of the same edition. Add regression coverage for structured dates, date ranges and source discovery.
+4. Expose blocked fetches and successful fetches with no usable links separately. Repair these gaps with official alternative sources and document adapters.
+5. Run the expanded collection unattended on GitHub Actions, rotate bounded checks fairly across candidates, and review persistent coverage gaps after observing scheduled runs.
+
+Institution registration and successful event discovery are separate acceptance criteria. Comprehensive coverage remains an open goal, even when every named institution is registered.

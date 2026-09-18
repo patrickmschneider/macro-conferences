@@ -117,9 +117,13 @@ sources:
 - id: rba-quant
   name: RBA Quantitative Macroeconomics Workshop
   url: https://www.rba.gov.au/publications/workshops/research/
-  adapter: watch
+  adapter: research-events
   enabled: true
   max_pages: 1
+  organizer: Reserve Bank of Australia
+  link_pattern: /publications/(?:workshops|confs)/
+  max_candidates: 8
+  coverage_group: Central banks and e61
 - id: cem
   name: Continuing Education in Macroeconometrics Workshop
   url: https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/
@@ -193,11 +197,15 @@ sources:
   enabled: true
   max_pages: 1
 - id: ecb-annual
-  name: ECB Annual Research Conference
+  name: European Central Bank conferences
   url: https://www.ecb.europa.eu/press/conferences/html/index.en.html
-  adapter: watch
+  adapter: research-events
   enabled: true
   max_pages: 1
+  organizer: European Central Bank
+  link_pattern: /press/conferences/html/20\d{6}[^/]*\.en\.html
+  max_candidates: 20
+  coverage_group: Central banks and e61
 - id: ipra
   name: International Pension Research Association Conference
   url: https://www.cepar.edu.au/event/12th-international-pension-research-association-ipra-conference
@@ -252,3 +260,415 @@ sources:
   adapter: watch
   enabled: false
   max_pages: 1
+- id: boe
+  name: Bank of England
+  url: https://www.bankofengland.co.uk/news/events
+  organizer: Bank of England
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /events/20\d{2}/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-board
+  name: Federal Reserve Board
+  url: https://www.federalreserve.gov/conferences.htm
+  organizer: Federal Reserve Board
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /conferences/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-boston
+  name: Federal Reserve Bank of Boston
+  url: https://www.bostonfed.org/news-and-events/events.aspx
+  organizer: Federal Reserve Bank of Boston
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /events/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-newyork
+  name: Federal Reserve Bank of New York
+  url: https://www.newyorkfed.org/newsevents/events/index
+  organizer: Federal Reserve Bank of New York
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:research/conference|newsevents/events)/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-philadelphia
+  name: Federal Reserve Bank of Philadelphia
+  url: https://www.philadelphiafed.org/calendar-of-events
+  organizer: Federal Reserve Bank of Philadelphia
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /calendar-of-events/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-cleveland
+  name: Federal Reserve Bank of Cleveland
+  url: https://www.clevelandfed.org/events
+  organizer: Federal Reserve Bank of Cleveland
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /events/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-richmond
+  name: Federal Reserve Bank of Richmond
+  url: https://www.richmondfed.org/conferences_and_events
+  organizer: Federal Reserve Bank of Richmond
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /conferences_and_events/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-atlanta
+  name: Federal Reserve Bank of Atlanta
+  url: https://www.atlantafed.org/news-and-events/events
+  organizer: Federal Reserve Bank of Atlanta
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /events/20\d{2}/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-chicago
+  name: Federal Reserve Bank of Chicago
+  url: https://www.chicagofed.org/Home/events/upcoming-events
+  organizer: Federal Reserve Bank of Chicago
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /events/20\d{2}/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-stlouis
+  name: Federal Reserve Bank of St. Louis
+  url: https://www.stlouisfed.org/research/specialized-research-conferences
+  organizer: Federal Reserve Bank of St. Louis
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:research|events)/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: fed-minneapolis
+  name: Federal Reserve Bank of Minneapolis
+  url: https://www.minneapolisfed.org/economic-research/conferences
+  organizer: Federal Reserve Bank of Minneapolis
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:events|conferences|institute)/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+  listing_urls:
+  - https://www.minneapolisfed.org/institute/conferences
+- id: fed-kansascity
+  name: Federal Reserve Bank of Kansas City
+  url: https://www.kansascityfed.org/research/
+  organizer: Federal Reserve Bank of Kansas City
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:research|events)/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+  listing_urls:
+  - https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+- id: fed-dallas
+  name: Federal Reserve Bank of Dallas
+  url: https://www.dallasfed.org/events
+  organizer: Federal Reserve Bank of Dallas
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:research/events|events)/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+  listing_urls:
+  - https://www.dallasfed.org/research/events
+- id: fed-sanfrancisco
+  name: Federal Reserve Bank of San Francisco
+  url: https://www.frbsf.org/news-and-media/events/
+  organizer: Federal Reserve Bank of San Francisco
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:news-and-media/events|economic-research/events)/
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: bank-canada
+  name: Bank of Canada
+  url: https://www.bankofcanada.ca/research/engaging-with-the-research-community/conferences-workshops/
+  organizer: Bank of Canada
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:20\d{2}/|research/)
+  region: North America
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: rbnz
+  name: Reserve Bank of New Zealand
+  url: https://www.rbnz.govt.nz/research-and-publications/research
+  organizer: Reserve Bank of New Zealand
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:research|news-and-events|events)/
+  region: Oceania
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: bis-research
+  name: Bank for International Settlements
+  url: https://www.bis.org/forum/research.htm
+  organizer: Bank for International Settlements
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:events|forum|am_conferences)/
+  region: Global
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: bis-events
+  name: BIS events
+  url: https://www.bis.org/media/events
+  organizer: BIS events
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /events/
+  region: Global
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: bis-americas
+  name: BIS Americas research conferences
+  url: https://www.bis.org/am_conferences/index.htm
+  organizer: BIS Americas research conferences
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:events|am_conferences)/
+  region: Global
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: bundesbank
+  name: Deutsche Bundesbank
+  url: https://www.bundesbank.de/en/bundesbank/research/conferences
+  organizer: Deutsche Bundesbank
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /research/conferences/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: banque-france
+  name: Banque de France
+  url: https://www.banque-france.fr/en/publications-and-research/economic-research/conferences-and-research-seminars
+  organizer: Banque de France
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:events|evenements|conferences|publications-and-research)/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: banca-italia
+  name: Banca d’Italia
+  url: https://www.bancaditalia.it/media/agenda/index.html
+  organizer: Banca d’Italia
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:media/agenda|pubblicazioni/altri-atti-convegni)/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: banco-espana
+  name: Banco de España
+  url: https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/
+  organizer: Banco de España
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /conferencias/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: snb
+  name: Swiss National Bank
+  url: https://www.snb.ch/en/services-events/events/scientific-conferences/research_conference_overview
+  organizer: Swiss National Bank
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /services-events/events/scientific-conferences/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: riksbank
+  name: Sveriges Riksbank
+  url: https://www.riksbank.se/en-gb/press-and-published/conferences/
+  organizer: Sveriges Riksbank
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /conferences/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: norges
+  name: Norges Bank
+  url: https://www.norges-bank.no/en/topics/Research/Conferences/
+  organizer: Norges Bank
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:Conferences|conferences)/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: bank-finland
+  name: Bank of Finland
+  url: https://www.suomenpankki.fi/en/research/seminars-and-conferences/
+  organizer: Bank of Finland
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:events|seminars-and-conferences)/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: dnb
+  name: De Nederlandsche Bank
+  url: https://www.dnb.nl/en/research/dnb-research-conferences/
+  organizer: De Nederlandsche Bank
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:research|events|general-news)/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+  listing_urls:
+  - https://www.dnb.nl/en/research/dnb-research-conferences/annual-research-conferences/
+  - https://www.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-workshops/
+- id: oenb
+  name: Oesterreichische Nationalbank
+  url: https://www.oenb.at/Termine.html
+  organizer: Oesterreichische Nationalbank
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:Termine|en/Calendar|en/Monetary-Policy)/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: bank-ireland
+  name: Central Bank of Ireland
+  url: https://www.centralbank.ie/research-exchange/research-engagement-programme/research-events-seminars
+  organizer: Central Bank of Ireland
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /(?:events|research-exchange)/
+  region: Europe
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61
+- id: e61
+  name: e61 Institute
+  url: https://e61.in/events/
+  organizer: e61 Institute
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  max_candidates: 8
+  link_pattern: /events/
+  region: Oceania
+  scope: Academic macro, household finance and pensions conferences; excludes speeches,
+    press briefings, training and standalone seminars.
+  coverage_group: Central banks and e61

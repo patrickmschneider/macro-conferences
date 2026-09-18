@@ -793,7 +793,10 @@
       }
     },
     "history": [],
-    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/workshop-empirical-monetary-economics-2026"
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+    "supporting_urls": [
+      "https://www.banque-france.fr/en/events/workshop-empirical-monetary-economics-2026"
+    ]
   },
   {
     "id": "cepr-paris-2026",
@@ -971,8 +974,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -985,7 +988,10 @@
         "text": "Friday, 28 August 2026"
       }
     },
-    "history": []
+    "history": [],
+    "supporting_urls": [
+      "https://www.rba.gov.au/publications/workshops/research/2026/"
+    ]
   },
   {
     "id": "rba-cem-2026",
@@ -1023,8 +1029,8 @@
     ],
     "notes": "Includes contributed research papers as well as masterclasses.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1687,5 +1693,897 @@
     "last_checked": "2026-09-18T15:53:47+00:00",
     "last_verified": "2026-09-18T15:53:47+00:00",
     "verification_method": "source evidence recheck"
+  },
+  {
+    "id": "event-f09cba243eaa28",
+    "series_id": null,
+    "name": "CHCS Annual Employment Conference",
+    "organizers": [
+      "Federal Reserve Bank of Atlanta"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-01",
+    "event_end": "2026-10-02",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Labour macro",
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://www.atlantafed.org/news-and-events/events/2026/10/01/chcs-annual-employment-conference",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-f09cba243eaa28-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.atlantafed.org/news-and-events/events/2026/10/01/chcs-annual-employment-conference",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.atlantafed.org/news-and-events/events/2026/10/01/chcs-annual-employment-conference",
+        "text": "October 1-2, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "fed-atlanta"
+  },
+  {
+    "id": "event-4e98143bde68b2",
+    "series_id": null,
+    "name": "Annual Research Conference: Networks, Inflation, and Monetary Policy Transmission 1&2 October 2026",
+    "organizers": [
+      "Sveriges Riksbank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-01",
+    "event_end": "2026-10-02",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.riksbank.se/en-gb/press-and-published/conferences/20262/annual-research-conference-networks-inflation-and-monetary-policy-transmission-1-2-october-2026/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-4e98143bde68b2-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.riksbank.se/en-gb/press-and-published/conferences/20262/annual-research-conference-networks-inflation-and-monetary-policy-transmission-1-2-october-2026/",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.riksbank.se/en-gb/press-and-published/conferences/20262/annual-research-conference-networks-inflation-and-monetary-policy-transmission-1-2-october-2026/",
+        "text": "1&2 October 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "riksbank"
+  },
+  {
+    "id": "event-040024a7749672",
+    "series_id": "e61-m4m",
+    "name": "M4M Micro for Macro 2026: Call for Papers",
+    "organizers": [
+      "e61 Institute"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-14",
+    "event_end": "2026-12-15",
+    "city": "Sydney",
+    "country": "Australia",
+    "region": "Oceania",
+    "topics": [
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://e61.in/events/m4m-micro-for-macro-2026-call-for-papers/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-040024a7749672-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-07-17",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://e61.in/events/m4m-micro-for-macro-2026-call-for-papers/",
+        "evidence": {
+          "url": "https://e61.in/events/m4m-micro-for-macro-2026-call-for-papers/",
+          "text": "email a draft of their paper to m4m@e61.in by 17 July, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://e61.in/events/m4m-micro-for-macro-2026-call-for-papers/",
+        "text": "startDate: 2026-12-14T00:00:00+11:00; endDate: 2026-12-15T23:59:59+11:00",
+        "kind": "jsonld",
+        "event_name": "M4M Micro for Macro 2026: Call for Papers",
+        "values": {
+          "startDate": "2026-12-14T00:00:00+11:00",
+          "endDate": "2026-12-15T23:59:59+11:00"
+        }
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "e61"
+  },
+  {
+    "id": "event-6bc0ec2d33f14a",
+    "series_id": null,
+    "name": "5th CEMLA/Dallas Fed Financial Stability Workshop",
+    "organizers": [
+      "Federal Reserve Bank of Dallas"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-11-12",
+    "event_end": "2026-11-13",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Financial stability"
+    ],
+    "source_url": "https://www.dallasfed.org/events/2026/26cemla",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-6bc0ec2d33f14a-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-07-31",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.dallasfed.org/events/2026/26cemla",
+        "evidence": {
+          "url": "https://www.dallasfed.org/events/2026/26cemla",
+          "text": "Submit papers to fsworkshop@cemla.org with subject line “Submission — FSW” by July 31, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.dallasfed.org/events/2026/26cemla",
+        "text": "November 12 – 13, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "fed-dallas"
+  },
+  {
+    "id": "event-066c8c0fc531b8",
+    "series_id": null,
+    "name": "5th IFC workshop on \"Data science in central banking\"",
+    "organizers": [
+      "BIS events"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-03-23",
+    "event_end": "2027-03-25",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy",
+      "Financial stability"
+    ],
+    "source_url": "https://www.bis.org/events/20270323-5th-ifc-workshop-data-science-central-banking",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-066c8c0fc531b8-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-11-30",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.bis.org/events/20270323-5th-ifc-workshop-data-science-central-banking",
+        "evidence": {
+          "url": "https://www.bis.org/events/20270323-5th-ifc-workshop-data-science-central-banking",
+          "text": "submission deadline (abstracts): 30 November 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.bis.org/events/20270323-5th-ifc-workshop-data-science-central-banking",
+        "text": "23–25 March 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "bis-events"
+  },
+  {
+    "id": "event-376450e9231301",
+    "series_id": null,
+    "name": "AMEC Symposium on The Secular Rise in Markups: Measurement, Causes, and Macroeconomic Implications",
+    "organizers": [
+      "Federal Reserve Bank of New York"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-16",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.newyorkfed.org/research/conference/2026/amec-symposium-markups",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-376450e9231301-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.newyorkfed.org/research/conference/2026/amec-symposium-markups",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.newyorkfed.org/research/conference/2026/amec-symposium-markups",
+        "text": "October 16, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "fed-newyork"
+  },
+  {
+    "id": "event-1acbac478110fa",
+    "series_id": null,
+    "name": "2026 Conference on Real-Time Data Analysis, Methods, and Applications",
+    "organizers": [
+      "Federal Reserve Bank of Philadelphia"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-09",
+    "event_end": "2026-10-10",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.philadelphiafed.org/calendar-of-events/2026-conference-on-real-time-data-analysis-methods-and-applications",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-1acbac478110fa-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-06-15",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.philadelphiafed.org/calendar-of-events/2026-conference-on-real-time-data-analysis-methods-and-applications",
+        "evidence": {
+          "url": "https://www.philadelphiafed.org/calendar-of-events/2026-conference-on-real-time-data-analysis-methods-and-applications",
+          "text": "Submission deadline: June 15, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.philadelphiafed.org/calendar-of-events/2026-conference-on-real-time-data-analysis-methods-and-applications",
+        "text": "October 09 - 10, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "fed-philadelphia"
+  },
+  {
+    "id": "event-9895dc0e2634af",
+    "series_id": null,
+    "name": "Call for papers: 16th Workshop on Exchange Rates",
+    "organizers": [
+      "BIS events"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-12-10",
+    "event_end": "2026-12-11",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy",
+      "Financial stability"
+    ],
+    "source_url": "https://www.bis.org/events/20261210-call-papers-16th-workshop-exchange-rates",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-9895dc0e2634af-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.bis.org/events/20261210-call-papers-16th-workshop-exchange-rates",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.bis.org/events/20261210-call-papers-16th-workshop-exchange-rates",
+        "text": "10–11 December 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "bis-events"
+  },
+  {
+    "id": "event-0f1a549b1b5a15",
+    "series_id": null,
+    "name": "Fifth Annual Workshop on the Macroeconomic Implications of Migration",
+    "organizers": [
+      "Federal Reserve Bank of Dallas"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-10-02",
+    "event_end": "2026-10-03",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.dallasfed.org/events/2026/26migration",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-0f1a549b1b5a15-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.dallasfed.org/events/2026/26migration",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.dallasfed.org/events/2026/26migration",
+        "text": "October 2 – 3, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "fed-dallas"
+  },
+  {
+    "id": "event-3f60aa46e59597",
+    "series_id": null,
+    "name": "Tenth Public Investors Conference",
+    "organizers": [
+      "BIS events"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-17",
+    "event_end": "2026-11-18",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro",
+      "Monetary policy",
+      "Pensions and retirement"
+    ],
+    "source_url": "https://www.bis.org/events/20261117-tenth-public-investors-conference",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-3f60aa46e59597-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.bis.org/events/20261117-tenth-public-investors-conference",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.bis.org/events/20261117-tenth-public-investors-conference",
+        "text": "17–18 November 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "bis-events"
+  },
+  {
+    "id": "event-238368b460bbc1",
+    "series_id": null,
+    "name": "Call for papers: Workshop on banking and banking regulation",
+    "organizers": [
+      "BIS events"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-11-17",
+    "event_end": "2026-11-18",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Financial stability"
+    ],
+    "source_url": "https://www.bis.org/events/20261117-call-papers-workshop-banking-and-banking-regulation",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-238368b460bbc1-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.bis.org/events/20261117-call-papers-workshop-banking-and-banking-regulation",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.bis.org/events/20261117-call-papers-workshop-banking-and-banking-regulation",
+        "text": "17–18 November 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "bis-events"
+  },
+  {
+    "id": "event-042664073d33e6",
+    "series_id": null,
+    "name": "Conference on Diversity, Equity and Inclusion in Economics, Finance, and Central Banking – Call for papers",
+    "organizers": [
+      "European Central Bank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-03-22",
+    "event_end": "2027-03-23",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy",
+      "Financial stability"
+    ],
+    "source_url": "https://www.ecb.europa.eu/press/conferences/html/20270322_edi.en.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-042664073d33e6-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-10-30",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.ecb.europa.eu/press/conferences/html/20270322_edi.en.html",
+        "evidence": {
+          "url": "https://www.ecb.europa.eu/press/conferences/html/20270322_edi.en.html",
+          "text": "Submission deadline: 30 October 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.ecb.europa.eu/press/conferences/html/20270322_edi.en.html",
+        "text": "22 and 23 March 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:21:35+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-7b05cbf8b19068",
+    "series_id": null,
+    "name": "Challenges to Monetary Policy: University of Leeds and Bank of England Workshop",
+    "organizers": [
+      "Bank of England / University of Leeds"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-02-17",
+    "event_end": "2027-02-18",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.bankofengland.co.uk/events/2027/february/challenges-to-monetary-policy-university-of-leeds-and-boe-workshop",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-7b05cbf8b19068-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-12-10",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.bankofengland.co.uk/events/2027/february/challenges-to-monetary-policy-university-of-leeds-and-boe-workshop",
+        "evidence": {
+          "url": "https://www.bankofengland.co.uk/events/2027/february/challenges-to-monetary-policy-university-of-leeds-and-boe-workshop",
+          "text": "Submission deadline: 10 December 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.bankofengland.co.uk/events/2027/february/challenges-to-monetary-policy-university-of-leeds-and-boe-workshop",
+        "text": "17-18 February 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:26:23+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "source evidence recheck",
+    "source_id": "boe"
+  },
+  {
+    "id": "event-7dcb1b3d78d0aa",
+    "series_id": null,
+    "name": "Shocks, Inequality, and Trade-offs: Monetary Policy in a Heterogeneous Economy",
+    "organizers": [
+      "De Nederlandsche Bank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-10",
+    "event_end": "2026-11-11",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy",
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://www.dnb.nl/en/research/dnb-research-conferences/annual-research-conferences/2026-shocks-inequality-and-trade-offs-monetary-policy-in-a-heterogeneous-economy/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-7dcb1b3d78d0aa-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.dnb.nl/en/research/dnb-research-conferences/annual-research-conferences/2026-shocks-inequality-and-trade-offs-monetary-policy-in-a-heterogeneous-economy/",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.dnb.nl/en/research/dnb-research-conferences/annual-research-conferences/2026-shocks-inequality-and-trade-offs-monetary-policy-in-a-heterogeneous-economy/",
+        "text": "10-11 November, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "dnb"
+  },
+  {
+    "id": "event-322c8f2ce7df6f",
+    "series_id": null,
+    "name": "Inflation: Drivers and Dynamics 2026 Conference",
+    "organizers": [
+      "European Central Bank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-09-24",
+    "event_end": "2026-09-25",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.ecb.europa.eu/press/conferences/html/20260924_inflation_conference.en.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-322c8f2ce7df6f-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.ecb.europa.eu/press/conferences/html/20260924_inflation_conference.en.html",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.ecb.europa.eu/press/conferences/html/20260924_inflation_conference.en.html",
+        "text": "24 and Friday, 25 September 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-704caa3abd1298",
+    "series_id": null,
+    "name": "ECB Conference on Monetary Policy 2026: bridging science and practice",
+    "organizers": [
+      "European Central Bank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-05",
+    "event_end": "2026-10-06",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.ecb.europa.eu/press/conferences/html/20261005_monetary_policy_conf.en.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-704caa3abd1298-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.ecb.europa.eu/press/conferences/html/20261005_monetary_policy_conf.en.html",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.ecb.europa.eu/press/conferences/html/20261005_monetary_policy_conf.en.html",
+        "text": "5 and Tuesday, 6 October 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-2043ffc28c2d11",
+    "series_id": null,
+    "name": "ECB Conference on Money Markets 2026",
+    "organizers": [
+      "European Central Bank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-05",
+    "event_end": "2026-11-06",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Macro-finance"
+    ],
+    "source_url": "https://www.ecb.europa.eu/press/conferences/html/20261105-money-markets.en.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-2043ffc28c2d11-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.ecb.europa.eu/press/conferences/html/20261105-money-markets.en.html",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.ecb.europa.eu/press/conferences/html/20261105-money-markets.en.html",
+        "text": "5 and Friday, 6 November 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-3d69cc348e3d3d",
+    "series_id": null,
+    "name": "European System of Central Banks Research Cluster 3 – Call for papers",
+    "organizers": [
+      "European Central Bank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-23",
+    "event_end": "2026-11-24",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.ecb.europa.eu/press/conferences/html/20261123_escb_research_cluster3.en.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-3d69cc348e3d3d-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-06-29",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.ecb.europa.eu/press/conferences/html/20261123_escb_research_cluster3.en.html",
+        "evidence": {
+          "url": "https://www.ecb.europa.eu/press/conferences/html/20261123_escb_research_cluster3.en.html",
+          "text": "Submission deadline: 29 June 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.ecb.europa.eu/press/conferences/html/20261123_escb_research_cluster3.en.html",
+        "text": "23 and Tuesday, 24 November 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-62834aed8219e7",
+    "series_id": null,
+    "name": "Conference on Financial Stability and Macroprudential Policy 2026 – Call for papers",
+    "organizers": [
+      "European Central Bank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-02",
+    "event_end": "2026-12-03",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Financial stability"
+    ],
+    "source_url": "https://www.ecb.europa.eu/press/conferences/html/20261202_financial_stability.en.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-62834aed8219e7-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-06-15",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.ecb.europa.eu/press/conferences/html/20261202_financial_stability.en.html",
+        "evidence": {
+          "url": "https://www.ecb.europa.eu/press/conferences/html/20261202_financial_stability.en.html",
+          "text": "Submission deadline: 15 June 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.ecb.europa.eu/press/conferences/html/20261202_financial_stability.en.html",
+        "text": "2 and Thursday, 3 December 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-18T17:26:24+00:00",
+    "last_verified": "2026-09-18T17:26:24+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "ecb-annual"
   }
 ]

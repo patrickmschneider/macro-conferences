@@ -1,6 +1,7 @@
 import copy,re
 from datetime import date
 from .extract import clean, deadline, dates
+from .research_events import structured_date_evidence
 
 def norm(s): return re.sub(r'\s+',' ',s).strip().casefold()
 def verify(old,html,stamp):
@@ -9,7 +10,7 @@ def verify(old,html,stamp):
  if re.search('blocked|access denied|just a moment',title,re.I): raise ValueError('Access blocked')
  # Evidence fragments can have different whitespace, but cannot disappear unnoticed.
  evidence=[r['evidence'].get('event_dates')]+[c.get('evidence') for c in r['calls'] if c.get('deadline')]
- supported=all(e and norm(e['text']) in norm(text) for e in evidence)
+ supported=all(e and (structured_date_evidence(html,e) if e.get('kind')=='jsonld' else norm(e['text']) in norm(text)) for e in evidence)
  new_date,quote,certainty=deadline(text)
  if len(r['calls'])==1 and new_date and not r['calls'][0].get('deadline') and new_date<=r['event_start'] and supported:
   c=r['calls'][0]; c.update(deadline=new_date,evidence={'url':r['source_url'],'text':quote},state='open')
@@ -20,7 +21,7 @@ def verify(old,html,stamp):
    before=r['calls'][0]['deadline']; r['calls'][0]['deadline']=new_date
    r['calls'][0]['evidence']={'url':r['source_url'],'text':quote}; r['calls'][0]['deadline_time']=None; r['calls'][0]['deadline_timezone']=None
    r['history'].append({'at':stamp,'field':'deadline','old':before,'new':new_date,'evidence':quote})
-   supported=norm(r['evidence']['event_dates']['text']) in norm(text)
+   e=r['evidence']['event_dates'];supported=structured_date_evidence(html,e) if e.get('kind')=='jsonld' else norm(e['text']) in norm(text)
   else: certainty='conflict'
  if certainty=='conflict': supported=False
  if supported:

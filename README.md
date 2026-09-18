@@ -23,6 +23,7 @@ Open http://localhost:8000. The static output is `dist/`.
 python -m crawler.run
 # A bounded development pilot:
 python -m crawler.run --source nber-calls --limit 20
+python -m crawler.run --group "Central banks and e61" --limit 150
 python scripts/build.py
 ```
 
@@ -30,13 +31,13 @@ The daily workflow targets 06:23 UTC and also supports manual dispatch. It valid
 
 ## Current scope and limits
 
-This is an initial release, not a claim of comprehensive coverage. Seed records were reviewed against primary announcements on 18 September 2026. Series inventory includes explicitly marked coverage leads. NBER’s public JSON listing feeds discovery; NBER/CEPR page extraction is conservative; other sources currently provide leads and evidence rechecks, not general automated publication. Some sources block automated access (CEPR did so in the local pilot). PDF-only announcements require further work. Unparsed candidates are retained in `data/candidates.json`.
+This is an initial release, not a claim of comprehensive coverage. Seed records were reviewed against primary announcements on 18 September 2026. Series inventory includes explicitly marked coverage leads. NBER’s public JSON listing feeds discovery; NBER/CEPR page extraction is conservative; 33 central-bank and e61 listings now use an institutional research-event adapter, with per-source URL rules, academic relevance checks, explicit date evidence and bounded discovery. Remaining watch-only sources provide leads and evidence rechecks. Some sources block automated access (CEPR did so in the local pilot). PDF-only announcements require further work. Unparsed candidates are retained in `data/candidates.json`. Bounded work prioritises candidates not yet checked, then the oldest checks; one large calendar cannot consume the whole run. Source status distinguishes a successful fetch from usable candidate discovery. Institutional registration is not a claim of complete event coverage.
 
 A successful fetch is not a successful verification. `last_checked` records attempts; `last_verified` changes only when retained source excerpts still occur or a supported update is reconciled. This verifies the stored critical facts, not every sentence on a source page. Critical conflicts are withheld from open calls; stale records older than 14 days are also excluded from that view. Calendar entries preserve stable UIDs. Revisions/cancellations and disputed records use the same UID; provider refresh delays are outside our control.
 
 ## Add or improve a source
 
-Edit `sources.yaml`. `adapter: nber` or `cepr` allows conservative publication; `watch` only collects candidate links. `enabled: false` means an unverified coverage lead. Use a primary announcement source and record the academic inclusion rationale in `data/series.json`. Add concise source fixtures and tests when extending extraction rules. Never enable generic prose extraction on a new site without verifying representative outputs.
+Edit `sources.yaml`. `adapter: nber`, `cepr` or `research-events` allows conservative publication; `watch` only collects candidate links. `enabled: false` means an unverified coverage lead. Use a primary announcement source and record the academic inclusion rationale in `data/series.json`. Add concise source fixtures and tests when extending extraction rules. Never enable generic prose extraction on a new site without verifying representative outputs.
 
 Do not run `scripts/seed.py` or `scripts/inventory.py` during updates: they reproduce the original research seed and overwrite current data.
 

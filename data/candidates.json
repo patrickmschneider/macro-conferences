@@ -118,5 +118,1992 @@
     "url": "https://www.ecb.europa.eu/press/conferences/html/150625_methis.en.html",
     "source": "ecb-annual",
     "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.federalreserve.gov/conferences/global-research-forum-on-international-macroeconomics-and-finance.htm",
+    "source": "fed-board",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/newsevents/events/markets/2026/1116-2026",
+    "source": "fed-newyork",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.philadelphiafed.org/calendar-of-events/10th-annual-fintech-conference",
+    "source": "fed-philadelphia",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.richmondfed.org/conferences_and_events/exploring_economics",
+    "source": "fed-richmond",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-09-17-2026-macro-trade-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/~/media/assets/events/economic-research-conferences/micro-macro-conference-agenda.pdf",
+    "source": "fed-minneapolis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/economic-symposium-conference-proceedings/",
+    "source": "fed-kansascity",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.dallasfed.org/events/2026/26bankfunding",
+    "source": "fed-dallas",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.frbsf.org/news-and-media/events/center-pacific-basin-studies/2026/11/2026-pacific-basin-research-conference/",
+    "source": "fed-sanfrancisco",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.bankofcanada.ca/wp-content/uploads/2025/11/econdat-fall-2025-meeting.pdf",
+    "source": "bank-canada",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.bis.org/events/20271021-conference-use-financial-statements-compiling-official-statistics",
+    "source": "bis-events",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/conference-diversity-equity-and-inclusion-economics-finance-and-central-banking-0",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.bancaditalia.it/media/agenda/2026-09-21_9-workshop-banca-d-italia-cepr-le-politiche-e-le-istituzioni-del-mercato-del-lavoro/",
+    "source": "banca-italia",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/5th-banco-de-espana-cemfi-uimp-conference-on-the-spanish-economy-housing-and-institutions-challenges-and-opportunities-for-spain.html",
+    "source": "banco-espana",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.snb.ch/en/services-events/events/scientific-conferences/snb_research_conference/sem_2026_10_02",
+    "source": "snb",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.norges-bank.no/en/topics/Research/Conferences/conference-heterogeneity-expectations-and-economic-adjustment/",
+    "source": "norges",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.suomenpankki.fi/en/news-and-topical/events/calendar/?c=16",
+    "source": "bank-finland",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.dnb.nl/en/research/dnb-research-conferences/annual-research-conferences/",
+    "source": "dnb",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.oenb.at/Termine/2026/2026-10-05-oenb-suerf-jvi-yale-program-on-financial-stability-conference.html",
+    "source": "oenb",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.centralbank.ie/docs/default-source/financial-system/financial-stability/events/2015/banking-credit-and-macro-prudential-policy/workshop-programme.pdf?sfvrsn=255da41d_4",
+    "source": "bank-ireland",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/research/conference/2026/nbfi-conference",
+    "source": "fed-newyork",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.philadelphiafed.org/calendar-of-events/higher-education-finance-research-conference",
+    "source": "fed-philadelphia",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.richmondfed.org/conferences_and_events/2026/202608_coreweek",
+    "source": "fed-richmond",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-05-14-2026-firm-dynamics-macroeconomics.pdf",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/-/media/assets/events/economic-research-conferences/growth-development-agenda.pdf?rev=35878392c41d4f7296567b21cfb16856",
+    "source": "fed-minneapolis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.frbsf.org/news-and-media/events/conferences/2026/10/conference-on-macro-finance-research-2026/",
+    "source": "fed-sanfrancisco",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.bancaditalia.it/media/agenda/2026-09-24_conferenza-su-macroeconomic-modelling-in-times-of-uncertainty/",
+    "source": "banca-italia",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/evento-conmemorativo-del-25-aniversario-de-la-revista-de-estabilidad-financiera.html",
+    "source": "banco-espana",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.norges-bank.no/en/topics/Research/Conferences/conference-rome-october/",
+    "source": "norges",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.suomenpankki.fi/en/news-and-topical/events/calendar/events/conferences-and-workshops/2026/2026-12-17-18-cepr-bof/",
+    "source": "bank-finland",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-workshops/",
+    "source": "dnb",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.oenb.at/Termine/2026/2026-10-09-deutsche-rentenkommission.html",
+    "source": "oenb",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-04-02-2026-macro-labor-conference.pdf",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/macroeconomic-policy-perspectives",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.dallasfed.org/events/2026/26international",
+    "source": "fed-dallas",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/12th-bdf-boe-bdi-international-macroeconomics-workshop-new-risks-international-macro-and-finance",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.bancaditalia.it/media/agenda/2026-09-28_china-workshop-2026/",
+    "source": "banca-italia",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/joint-13th-cepr-economic-history-symposium--11th-banco-de-espana-economic-history-seminar.html",
+    "source": "banco-espana",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.riksbank.se/en-gb/press-and-published/conferences/20262/fifth-phd-workshop-in-money-and-finance-may-19th-2026/",
+    "source": "riksbank",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.norges-bank.no/en/topics/Research/Conferences/norges-bank-research-workshop--women-in-central-banking/",
+    "source": "norges",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/newsevents/events/regional_outreach/2026/0930-2026",
+    "source": "fed-newyork",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.philadelphiafed.org/calendar-of-events/the-sixth-biennial-conference-on-auto-lending",
+    "source": "fed-philadelphia",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-11-1314-2025-macro.pdf?sc_lang=en&hash=ED002C926CF491F76CC598E60D72293F",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/-/media/files/research/events/2016_10-18/monetary-implementation-long-run-10182016.pdf?rev=caad30f80b8e48589b564b592858abdb",
+    "source": "fed-minneapolis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/banque-de-france-climate-economics-workshop",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.bancaditalia.it/media/agenda/2026-10-08_seconda-conferenza-su-applied-macroeconomics/",
+    "source": "banca-italia",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/1st-workshop-on-financial-intermediation--banco-de-espana.html",
+    "source": "banco-espana",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.norges-bank.no/en/topics/Research/Conferences/business-cycles-in-small-open-economies/",
+    "source": "norges",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/newsevents/events/markets/2026/0922-2026",
+    "source": "fed-newyork",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-10242025-econometrics-applied-time-series-workshop.pdf?sc_lang=en&hash=C83AA7CE58708559161655095C4EACB0",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/-/media/files/research/events/2015-09-25/agenda_09-25-15.pdf?rev=98e8fb635fb740bdba2c04d39479ed4f",
+    "source": "fed-minneapolis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.dallasfed.org/research/events/2026/26globalhousing",
+    "source": "fed-dallas",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/role-protectionism-and-fragmentation-macroeconomics",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/18th-research-workshop-banco-de-espana-cemfi.html",
+    "source": "banco-espana",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.norges-bank.no/en/topics/about/conferences/",
+    "source": "norges",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-workshops/13-february-2026-dnb-labour-market-network-event/",
+    "source": "dnb",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-10102025-human-capital-macroeconomics.pdf?sc_lang=en&hash=F83BB505E254E4EA92BF1D90EA370797",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/system-applied-microeconomics-conference",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/workshop-international-capital-flows-and-financial-policies-0",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/joint-4th-annual-workshop-of-the-escb-research-cluster-on-climate-change--and-ngfs-expert-network-on-research.html",
+    "source": "banco-espana",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-09-1819-2025-macro-trade-workshop.pdf?sc_lang=en&hash=2B686B220571B38CB85FE09F5E48F9CE",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/recursive-methods-in-economic-dynamics",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/2nd-bdf-nbm-nbr-annual-international-conference-policy-coordination-eu-convergence-fiscal-space-and",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/22nd-escb-emerging-markets-workshop-hosted-by-banco-de-espana.html",
+    "source": "banco-espana",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-09-4-5-2025-macrofinance.pdf?sc_lang=en&hash=D379E29CB130BF0493B262D670FAEB60",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/-/media/files/research/events/midwest_macro_agenda_nov2013.pdf?rev=d0211bbed3ac4c399bd8edb7bc15b261",
+    "source": "fed-minneapolis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/13th-asset-pricing-workshop",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/8th-annual-research-conference-economics-of-artificial-intelligence.html",
+    "source": "banco-espana",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/newsevents/events/regional_outreach/2026/0624-2026",
+    "source": "fed-newyork",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-032725-macro-labor-conference.pdf?sc_lang=en&hash=8BE96487BE78CBC431037B9C182104A2",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/labor-markets-and-the-business-cycle-in-the-aftermath-of-the-great-recession",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/european-summer-symposium-international-macroeconomics-essim-0",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-111424-macro-inequality-conference.pdf?sc_lang=en&hash=494BD304AB66CA59A51ED56F83B7488A",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/joint-bread-minneapolis-fed-conference-on-finance-and-development",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/1st-dual-venue-transatlantic-workshop-energy-and-nature-finance",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20251031_fiscal_policy_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-102524-applied-time-series-econometrics-workshop.pdf?sc_lang=en&hash=3BCBFE575643339980FB1D21F246C525",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-in-honor-of-thomas-sargent-and-christopher-sims",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/conference-advances-causal-inference-macroeconomic-policies",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20251020_we_are_in.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-092624-human-capital-macro-conference.pdf?sc_lang=en&hash=F36BF98D33706488468FE45B41A486BC",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-in-honor-of-gary-stern",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/international-macroeconomics-historical-perspective",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20251117_dei.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-051524-monetary-financial-workshop.pdf?sc_lang=en&hash=F56558D27CD416D6DB79B538BBA8A088",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/rogerson-wright-shimer",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/escb-research-cluster-monetary-economics-ninth-annual-workshop",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20251014_mppg_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/research/conference/2026/2026-cyber-risk-financial-stability",
+    "source": "fed-newyork",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-041824-macro-labor-conference.pdf",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/minnesota-applied-micro-workshop",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/effects-monetary-policy-theory-measured-expectations",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20221013_joint_BoC_ECB_FEDNY_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/research/conference/2026/amec-symposium-on-the-k-shaped-economy",
+    "source": "fed-newyork",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-110923-macroeconomics-inequality.pdf",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/monetary-policy-and-financial-frictions-conference",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/research-conference-climate-and-nature-related-risks-economic-and-financial-system",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20251006_monetary_policy_conf.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/newsevents/events/research/sixth_annual_wrkshp",
+    "source": "fed-newyork",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-102723-applied-time-series-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Document announcement: PDF adapter required",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/developing-a-regional-view-of-the-midwest-economy-breaking-down-barriers",
+    "source": "fed-minneapolis",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/uncovering-costs-high-inflation",
+    "source": "banque-france",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:26:24+00:00"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20250922_joint_boc_ecb_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/medialibrary/media/newsevents/events/research/2002/afford.pdf",
+    "source": "fed-newyork",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-101923-macroeconomics-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/macroeconomics-without-frontiers",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/first-bdf-eui-joint-european-workshop",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.newyorkfed.org/research/conference/1999/workshop",
+    "source": "fed-newyork",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-092923-macroeconomics-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/models-of-monetary-economies-ii-the-next-generation",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/3rd-paris-conference-macroeconomics-expectations",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20250626_abm4policy.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.newyorkfed.org/newsevents/events/banking/1997/infosecurity",
+    "source": "fed-newyork",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-091523-human-capital-macroeconomics.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/advances-in-dynamic-economics",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/digital-currency-ii-conference",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20250612_european_financial_integration.en.html",
+    "source": "ecb-annual",
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-09-18T17:21:35+00:00"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-060123-macro-labor-conference.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/great-depressions-of-the-20th-century-conference",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/9th-amse-bdf-workshop-macroeconomics",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20241127_macroeconomic_modelling.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-050423-st-louis-advances-in-research.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/productivity-and-the-industrial-revolution",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/banque-de-france-fondation-france-japon-lab-spring-workshop",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20241015_mppg_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-042023-trade-macroeconomics-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/endogenous-incompleteness-conference",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/workshop-international-capital-flows-and-financial-policies",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20241001_boc_ecb_nyfed.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-041423-applied-time-series-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-the-law-and-economics-of-federalism",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/11th-bdf-boe-bdi-international-macroeconomics-workshop-fault-lines-international-macro-landscape",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20240919_9th_ecb_annual_research_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-102122-applied-time-series-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/the-organization-of-transactions-in-a-market-economy",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/conference-diversity-equity-and-inclusion-economics-finance-and-central-banking",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20240723_ecb_imf_imfer.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-092222-human-capital-growth.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-the-foundations-of-policy-toward-electronic-money",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/third-edition-banque-de-france-empirical-corporate-finance-workshop",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20240701_ecb_forum_on_central_banking.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-051922-applied-microeconomics.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-aggregation-and-propagation-of-cyclical-shocks",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/13eme-atelier-empirical-monetary-economics",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20240701_7th_workshop_awg_mpag.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-050522-st-louis-advances-in-research.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-simulation-based-inference-in-econometrics-methods-and-applications",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/financial-intermediation-and-monetary-policy-recent-trends-and-new-challenges",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20240618_european_financial_integration.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-042122-macro-trade-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/the-lucas-expectations-anniversary-conference",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/worlds-apart-international-macro-changing-world",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20240425_Champ_network.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-041522-applied-time-series-workshop.pdf",
+    "source": "fed-stlouis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-finance-fluctuations-and-development",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/10th-bdf-boe-bdi-international-macroeconomics-workshop-structural-factors-global-economy",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20231218_6th_fiscal_policy_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-micro-and-macro-perspectives-on-the-aggregate-labor-market",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/5th-international-capital-flows-and-financial-policies-workshop",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20231123_cepr_ecb_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-research-and-training-in-computational-economics",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/global-monetary-policy-spillovers",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20231017_5th_ecb_imf_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-macroeconomics-with-heterogenous-agents-incomplete-markets",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/analyzing-post-pandemic-inflation",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20230920_4th_joint_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/midwest-econometrics-group",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/prizes-monetary-economics-and-finance-academic-workshop",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20230717_9th_CESEE_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-economics-and-politics",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/macroeconomics-expectations",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20230612_12th_conference_on_forecasting_techniques.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-economic-growth-and-development",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/european-summer-symposium-international-macroeconomics-essim",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20230522_ecb_eiopa_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-monetary-theory-and-financial-intermediation",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/impact-climate-risk-and-biodiversity-loss-financial-stability-and-monetary-policy-conference",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20230426_suerf_bdi_ecb_eib_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/modeling-north-american-economic-integration",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/inflation-composition-and-monetary-stabilization",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20221121_16_ecb_cepr_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/-/media/files/research/events/1990_06-28/1990_06-28_program.pdf?rev=1d25639c685b481ead8d0a46f165210b",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/when-are-households-rationally-attentive-information-central-bank-role-macroeconomic-uncertainty",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20221117_joint_ecb_esrb_research_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/international-perspectives-on-debt-growth-and-business-cycles",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/innovate-borrow-how-intangibles-shape-finance-and-growth",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20221114_diversity_equity_inclusion.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/nonlinear-rational-expectations-modeling-group",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/beyond-expectations-monetary-policy-and-term-premia",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20221107_joint_ECB_EUC_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/models-of-economic-growth-and-development",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/sovereign-bond-market-fragmentation-and-monetary-policy-euro-area",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20221021_MPPG_research_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/financial-history-conference",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/overdelivery-premium-when-monetary-policy-decisions-exceed-market-expectations",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20221010_mon_pol_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/economic-research/conferences/the-thirtieth-nber-nsf-seminar-on-bayesian-inference-in-econometrics",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/monetary-policy-transmission-heterogenous-across-euro-area-countries-and-over-time-reassessment",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20220920_workshop_fiscal_policy_and_climate_change.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.minneapolisfed.org/events/2026/2026-institute-research-conference",
+    "source": "fed-minneapolis",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/risk-appetite-and-monetary-transmission",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20220912_7th_ecb_annual_research_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/spend-what-you-learn-heterogeneous-agents-sentiments-and-aggregate-demand",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20220721_joint_advanced_analytics_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/transition-risk-and-pricing-residential-mortgage-backed-securities",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20220531_Green_Swan.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/heterogeneity-expectations-and-house-price-dynamics",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20220512_12th_intl_research_forum_on_mon_pol.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/heterogeneous-sovereign-debt-crisis-costs",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20220406_joint_ECB_EC_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/climate-risk-bank-lending-and-monetary-policy",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20211216_7th_conference_hfcs.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/effects-monetary-policy-theory-measured-expectations",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20211202_5th_fiscal_policy_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/carbon-pricing-and-monetary-policy-estimated-macro-climate-model",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20211111_joint_ECB_FEDNY_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/exploring-macroeconomic-consequences-nature-degradation-scenario-based-approach-applied-french",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20211108_money_markets.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/disentangling-euro-area-monetary-policy-time-varying-volatility",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20211104_we_are_in.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/leverage-regulation-and-housing-inequality-0",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20211103_joint_BoE_ECB_DAFM_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/green-transition-inflationary",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20211019_CEBRA_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/bank-resolution-regimes-and-systemic-risk",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20211011_conferenceonmonetarypolicy.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/imperfect-banking-competition-and-propagation-uncertainty-shocks",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20210830_6th_ecb_annual_research_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/indebted-supply-and-monetary-policy-theory-financial-dominance",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20210615_11th_conference_on_forecasting_techniques.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/bridging-gap-macroeconomic-analysis-energy-transition-combining-medium-and-long-term-approaches",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20210614_cepr_ebrd_ecb_symposium.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/skewed-dynamic-linear-models-markov-switching-measuring-and-forecasting-macroeconomic-risks",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20210527_joint_EC_ECB_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/macroeconomic-implications-carbon-pricing-announcements-evidence-eu-ets",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20210322_ecb_rfs_macrofinance_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/uncertainty-and-business-cycle-when-inflation-high",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20210303_ccp_risk_management.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/bridging-gap-macroeconomic-analysis-energy-transition-combining-medium-and-long-term-approaches-0",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20201123_money_markets.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/macroeconomic-materiality-nature-case-study-agriculture",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20201019_conferenceonmonetarypolicy.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/distributional-effects-conventional-monetary-policy-and-forward-guidance",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20201016_tracking_the_economy.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/evenements/measuring-households-inflation-expectations-euro-area-effect-panel-conditioning",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20200922_ecb_compnet.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/did-unconventional-monetary-and-fiscal-policies-contribute-post-pandemic-inflation-surge",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20200903_5th_ecb_annual_research_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/firms-inflation-and-wage-expectations-during-inflation-surge",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20200326_intl_research_forum_on_mon_pol.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/macroeconomic-effects-climate-policy-uncertainty",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20200303_eu_capital_markets_union.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/evaluating-monetary-policy-counterfactuals-when-do-we-need-structural-models",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20200205_macroprud_stress_testing.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/evenements/us-monetary-policy-shock-spillovers",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191219_4th_fiscal_policy_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/trade-fragmentation-inflationary-pressures-and-monetary-policy",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191219_9th_workshop_exchange_rates.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/monetary-stabilization-multi-sector-economy-adding-words-action",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191216_6th_conference_hfcs.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/evenements/geopolitical-risk-and-inflation-role-energy-markets",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191216_4th_macroprud_pol_and_res_conf.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/when-does-monetary-policy-matter-not-all-policy-statements-are-alike",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191202_ECB_CEPR_15th_joint_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/cbdc-financed-fiscal-stimulus",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191126_payments_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/fr/evenements/corporate-bond-stock-correlation-and-monetary-policy",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191121_joint_ECB_FED_NY_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/consumption-wealth-and-income-inequality-taile-tai",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191114_CEPR_programme_meeting.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/evenements/security-losses-interbank-markets-and-monetary-policy-transmission-evidence-eurozone",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191111_ecb_money_market_workshop_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/financial-conditions-and-macroeconomy-two-factor-view",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191105_joint_ECB_FED_conference_for_BEMs.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/inflation-macroeconomic-shocks-and-data-releases-0",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191010_joint_ECB_BdI_research_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/trouble-rational-expectations-heterogeneous-agent-models-challenge-macroeconomics-0",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20191007_mo_po_conf_bridg_science_and_practice.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/cultivating-productivity-through-regulation-case-pesticide-bans-france",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20190923_inflation_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/evenements/monetary-policy-euro-area-when-phillips-curves-are-curves",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20190905_4th_ecb_annual_research_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/leverage-regulation-and-housing-inequality",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20190704_Challenges_in_the_digital_age.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/non-constant-demand-elasticities-firm-dynamics-and-monetary-non-neutrality-role-demand-shocks",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20190701_13th_ecb_central_banking_seminar.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/consumption-response-borrowing-constraints-mortgage-market",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20190612_8th_CESEE_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/european-sovereign-debt-risk-management-role-european-debt-agency",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20190521_ECB_colloquium.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/strike-while-iron-hot-optimal-monetary-policy-nonlinear-phillips-curve",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20190328_financial_intermediation_regulation_and_economic_policy.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/monetary-fiscal-interactions-united-states",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20190321_Money_Macro_Workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/fragmented-monetary-unions",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181217_workshop_on_household_heterogeneity.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/doubling-down-synergy-ccyb-release-and-monetary-policy-easing",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181217_Monpol_and_financial_stability_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/unwinding-quantitative-easing-state-dependency-and-household-heterogeneity",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181206_ECB_CEPR_14th_joint_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/risk-inflation-dispersion-euro-area",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181129_glresfor_intl_macroec_fin.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/global-footprints-monetary-policies",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181128_investment_technological_transformation_and_skills.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/macroeconomic-expectations-and-cognitive-noise-structural-issues-seminar-series",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181106_workshop_on_money_markets.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/inflation-persistence-noisy-information",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181105_mging_fin_cris.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/effect-monetary-policy-inflation-heterogeneity-along-income-distribution",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181031_ESRB_ECB_IMF_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.banque-france.fr/en/events/demographics-wealth-and-global-imbalances-twenty-first-century",
+    "source": "banque-france",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20181029_mo_po_conf_bridg_science_and_practice.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180925_3rd_ecb_annual_research_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180906_2nd_annual_ws_finstab_mprudreg_mprudspvrn.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180709_ecb_central_banking_seminar.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180710_ecb_cbi_macroprudential_research_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180618_ecb_forum_on_central_banking.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180618_10th_ecb_workshop_forecasting.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180517_3rd_mp_policy_research_conf.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180516_the_future_of_central_banking.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180503_fost_bkingun_capmarkun.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20180323_10thconf_intl_research.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20171214_5th_conference_hfcs.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20171212_ECB_CEPR_13th_joint_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20171130_ECB-BdI_digital_transformation_of_the_retail_payments_ecosystem.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20171120_fiscal_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20171117_Joint_ECB_BdP_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20171106_workshop_on_money_markets.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20171103_ECB_BoG_1st_ESCB_research_cluster_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20171023_credit_banking_mopo.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170929_advances_in_short_term_forecasting.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170925_2nd_ecb_annual_research_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170921_inflation_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170911_monetary_policy_workshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170710_ECB-MNB_macroprudential_instruments.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170626_ecb_forum_on_central_banking.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170519_financial_integration.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170511_2nd_mp_policy_research_conf.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170626_ecb_forum_on_central_banking_call.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170313_fostering_innovation.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20170131_into_the_future.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20161215_financial_determinants_foreign_exchange_rates.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20161213_ECB_CEPR_Labour_Market_Workshop_Wage_Developments_in_the_aftermath_of_the_crisis.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20161110_fiscal_policy_during_and_after_the_crisis.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20161103_Fed_Chic_ECB.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20161027_monetary_policy_pass_through.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20161024_joint_ECB_IMF_workshop_money_markets_implementation_infrastructure.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20161020_CESS2_budapest.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20160928_1st_ecb_annual_research_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20160902_fourth_ecb_cbrt_conference.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20160603_ecb_9th_workshop_forecasting.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20151104_mp_policy_research.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20160425_financialintegration.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20160421_prod_ext_rebal.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20160418_ecb_workshop_on_non_standard_monetary_policy_measures_conf.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20151217_job_creation_after_the_crisis.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20151207_money_markets_and_central_bank_balance_sheets.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20151119_debt_overhang.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20140613_call_forecasting_techniques.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20140508_call_emerging_markets_finance.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20140407_workshop_on_using_big_data.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20131217_ws_labour_market.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20131216_findetfxr.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20131115_ws_banking_regulation_and_supervision.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20131017_hfc_con.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20130627_ws_exchange_rates.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20130626_ws_supervision_insights.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20130607_multi_country_modelling.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20130408_roundtable.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20130319_post_trade_harmonisation.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20121217_intmacfin.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20121312_Ref_EU_Fisc_Gov.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20121213_smbusfin.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20121213_fin_det_exch_rates_2.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20120910_exliqmmf.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20121008_ecb_fed.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/20120830_cmt.en.html",
+    "source": "ecb-annual",
+    "reason": "Deferred by run budget"
   }
 ]
