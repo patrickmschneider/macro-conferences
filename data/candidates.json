@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "url": "https://cebra.org/indirect-consumer-inflation-expectations/",
+    "source": "cebra",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://cebra.org/programs/idd/",
+    "source": "cebra",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://cebra.org/programs/ifm/",
+    "source": "cebra",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://cebra.org/programs/itm/",
+    "source": "cebra",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-economic-fluctuations-and-growth-program-meeting",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-economic-growth-and-long-run-macroeconomic-development",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-household-finance",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-inequality-and-macroeconomics",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-international-finance-and-macroeconomics-data-session",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-international-finance-macroeconomics",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-international-trade-macroeconomics",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-macroeconomics-and-productivity",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-macroeconomics-within-and-across-borders",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.nber.org/conferences/si-2026-micro-and-macro-perspectives-aggregate-labor-market",
+    "source": "nber-si",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/ecbforum/html/index.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/130425_finintst.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/130905_9th_cbworkshop.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/131128_heterogeneity.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/131203_cooperation.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/140429_cfp_ecb_imf.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/141020_ws_stdevmmk.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/150310_sbm.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/150427_financialintegration.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/conferences/html/150625_methis.en.html",
+    "source": "ecb-annual",
+    "reason": "Discovery lead: no trusted event adapter yet"
+  }
+]

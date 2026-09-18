@@ -1,19 +1,325 @@
 {
   "state": "partial",
-  "last_run": "2026-09-18T15:51:02+00:00",
+  "last_run": "2026-09-18T15:53:47+00:00",
   "last_successful_run": "2026-09-18T15:45:50+00:00",
   "sources": [
+    {
+      "id": "nber-calls",
+      "name": "NBER calls for papers",
+      "url": "https://www.nber.org/calls-papers-and-proposals",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "discovery",
+      "candidate_links": 4
+    },
     {
       "id": "nber-events",
       "name": "NBER conferences",
       "url": "https://www.nber.org/api/v1/conference_listing/contentType/conference/_/_/search?eventType=upcoming&perPage=100",
-      "checked_at": "2026-09-18T15:51:02+00:00",
+      "checked_at": "2026-09-18T15:53:47+00:00",
       "state": "ok",
       "mode": "discovery",
       "candidate_links": 19
+    },
+    {
+      "id": "cepr-calls",
+      "name": "CEPR calls for papers",
+      "url": "https://cepr.org/events/open-calls-papers",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "discovery",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/open-calls-papers"
+    },
+    {
+      "id": "cepr-events",
+      "name": "CEPR forthcoming events",
+      "url": "https://cepr.org/events/forthcoming-events",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "discovery",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/forthcoming-events"
+    },
+    {
+      "id": "cepr-heterogeneity",
+      "name": "Macroeconomic Policies with Heterogeneous Agents (3rd edition)",
+      "url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition"
+    },
+    {
+      "id": "nber-isom",
+      "name": "50th International Seminar on Macroeconomics",
+      "url": "https://www.nber.org/50th-annual-international-seminar-macroeconomics",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "nber-hf",
+      "name": "Household Finance Working Group Meeting",
+      "url": "https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "franco-german-fiscal",
+      "name": "Franco-German Fiscal Policy Seminar",
+      "url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/2026-franco-german-fiscal-policy-seminar"
+    },
+    {
+      "id": "sed",
+      "name": "Society for Economic Dynamics Annual Meeting",
+      "url": "https://economicdynamics.org/",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "res",
+      "name": "Royal Economic Society Annual Conference",
+      "url": "https://res.org.uk/event-listing/res2027/",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "cepr-hf",
+      "name": "CEPR European Conference on Household Finance",
+      "url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/cepr-european-conference-household-finance-2026"
+    },
+    {
+      "id": "cepr-mef",
+      "name": "CEPR Monetary Economics and Fluctuations Symposium",
+      "url": "https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0"
+    },
+    {
+      "id": "cepr-imf",
+      "name": "CEPR International Macroeconomics and Finance Programme Meeting",
+      "url": "https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026"
+    },
+    {
+      "id": "cepr-mg",
+      "name": "CEPR Macroeconomics and Growth Annual Symposium",
+      "url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026"
+    },
+    {
+      "id": "cepr-ireland",
+      "name": "Macro-Finance and Financial Stability Policies",
+      "url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026"
+    },
+    {
+      "id": "empirical-monetary",
+      "name": "Workshop on Empirical Monetary Economics",
+      "url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/workshop-empirical-monetary-economics-2026"
+    },
+    {
+      "id": "cepr-paris",
+      "name": "CEPR Paris Symposium",
+      "url": "https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026"
+    },
+    {
+      "id": "cepr-finland",
+      "name": "Navigating Monetary Policy by the Northern Lights",
+      "url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights"
+    },
+    {
+      "id": "steg",
+      "name": "STEG Annual Conference and Theme Workshops",
+      "url": "https://cepr.org/events/steg-annual-conference-theme-workshops-2027",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://cepr.org/events/steg-annual-conference-theme-workshops-2027"
+    },
+    {
+      "id": "rba-quant",
+      "name": "RBA Quantitative Macroeconomics Workshop",
+      "url": "https://www.rba.gov.au/publications/workshops/research/",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "cem",
+      "name": "Continuing Education in Macroeconometrics Workshop",
+      "url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "nber-macroannual",
+      "name": "NBER Annual Conference on Macroeconomics",
+      "url": "https://www.nber.org/conferences/annual-conference-macroeconomics-2027",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "nber-ifm",
+      "name": "International Finance and Macroeconomics Program Meeting",
+      "url": "https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-fall-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "imf-polak",
+      "name": "Jacques Polak Annual Research Conference",
+      "url": "https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference"
+    },
+    {
+      "id": "cebra",
+      "name": "CEBRA Annual Meeting",
+      "url": "https://cebra.org/events/annual-meeting/",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 4
+    },
+    {
+      "id": "sce",
+      "name": "Computing in Economics and Finance",
+      "url": "https://comp-econ.com/",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "wams",
+      "name": "Workshop of the Australasian Macroeconomics Society",
+      "url": "https://www.ausmacro.com/workshops/",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "netspar",
+      "name": "Netspar International Pension Workshop",
+      "url": "https://www.netspar.nl/agenda/ipw-international-pension-workshop-2026/",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "bse-macrofinance",
+      "name": "BSE Summer Forum: Macroeconomics and Finance",
+      "url": "https://bse.eu/summer-forum/workshops/macroeconomics-and-finance",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "bse-macrodevelopment",
+      "name": "BSE Summer Forum: Macro-development",
+      "url": "https://sites.google.com/bse.eu/summerforum2026/home",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "midwest",
+      "name": "Midwest Macroeconomics Meetings",
+      "url": "https://www.depts.ttu.edu/economics/news-announcements/midwest-macroeconomics-meetings-2026.php",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "nber-si",
+      "name": "NBER Summer Institute: macro programmes",
+      "url": "https://www.nber.org/conferences/summer-institute-2026",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 12
+    },
+    {
+      "id": "ecb-annual",
+      "name": "ECB Annual Research Conference",
+      "url": "https://www.ecb.europa.eu/press/conferences/html/index.en.html",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 178
+    },
+    {
+      "id": "ipra",
+      "name": "International Pension Research Association Conference",
+      "url": "https://www.cepar.edu.au/event/12th-international-pension-research-association-ipra-conference",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "ok",
+      "mode": "watch only",
+      "candidate_links": 0
+    },
+    {
+      "id": "ifs-hf",
+      "name": "LSE–IFS–UCL–CEPR–Imperial Household Finance Workshop",
+      "url": "https://ifs.org.uk/events/lse-ifs-ucl-cepr-imperial-business-school-workshop-household-finance-0",
+      "checked_at": "2026-09-18T15:53:47+00:00",
+      "state": "failed",
+      "mode": "watch only",
+      "error": "403 Client Error: Forbidden for url: https://ifs.org.uk/events/lse-ifs-ucl-cepr-imperial-business-school-workshop-household-finance-0"
     }
   ],
-  "added": 14,
-  "verified": 23,
-  "message": "23 event records verified; 14 added; 0 source checks failed. Watch-only sources collect leads but do not yet publish new events."
+  "added": 0,
+  "verified": 22,
+  "message": "22 event records verified; 0 added; 15 source checks failed. Watch-only sources collect leads but do not yet publish new events."
 }
