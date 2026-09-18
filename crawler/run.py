@@ -44,7 +44,9 @@ def main():
    if record['source_url'].split('/')[2] not in domains: continue
   try: records[i]=verify(record,fetcher.get(record['source_url']),stamp)
   except Exception as ex:
-   records[i]['last_checked']=stamp; records[i]['health']='fetch_failed'; records[i]['check_error']=str(ex)[:200]
+   records[i]['last_checked']=stamp
+   if records[i]['health']!='needs_verification': records[i]['health']='fetch_failed'
+   records[i]['check_error']=str(ex)[:200]
  pending=[]; seen=set()
  for url,source in candidates:
   if url in seen: continue

@@ -30,7 +30,7 @@ The daily workflow targets 06:23 UTC and also supports manual dispatch. It valid
 
 ## Current scope and limits
 
-This is an initial release, not a claim of comprehensive coverage. Seed records were reviewed against primary announcements on 18 September 2026. Series inventory includes explicitly marked coverage leads. NBER/CEPR extraction is conservative; other sources currently provide leads and evidence rechecks, not general automated publication. Some sources block automated access (CEPR did so in the local pilot). PDF-only announcements require further work. Unparsed candidates are retained in `data/candidates.json`.
+This is an initial release, not a claim of comprehensive coverage. Seed records were reviewed against primary announcements on 18 September 2026. Series inventory includes explicitly marked coverage leads. NBER’s public JSON listing feeds discovery; NBER/CEPR page extraction is conservative; other sources currently provide leads and evidence rechecks, not general automated publication. Some sources block automated access (CEPR did so in the local pilot). PDF-only announcements require further work. Unparsed candidates are retained in `data/candidates.json`.
 
 A successful fetch is not a successful verification. `last_checked` records attempts; `last_verified` changes only when retained source excerpts still occur or a supported update is reconciled. This verifies the stored critical facts, not every sentence on a source page. Critical conflicts are withheld from open calls; stale records older than 14 days are also excluded from that view. Calendar entries preserve stable UIDs. Revisions/cancellations and disputed records use the same UID; provider refresh delays are outside our control.
 

@@ -9,7 +9,7 @@ const tags=r=>`<div class="tags">${r.topics.map(t=>`<span class="tag">${escape(t
 const dates=r=>r.event_start?fmt(r.event_start)+(r.event_end&&r.event_end!==r.event_start?' – '+fmt(r.event_end):''):'Dates unannounced';
 function deadlineCell(r,c){
  const state=effectiveState(c);const days=c.deadline?Math.round((day(c.deadline)-day(today()))/86400000):null;
- const urgency=state==='open'&&days<=7?'urgent':state==='open'&&days<=30?'soon':'';
+ const urgency=state==='open'&&days<=7?'urgent':state==='open'&&days<=14?'soon':state==='open'&&days<=30?'month':'';
  return `<div class="deadline ${urgency}">${c.deadline?fmt(c.deadline):'—'}</div>${state==='open'&&days!==null?`<span class="countdown ${urgency}">${days===0?'Due today':days===1?'1 day left':days+' days left'}</span>`:`<span class="badge">${stateLabel[state]||'Unconfirmed'}</span>`}${c.deadline_time?`<span class="meta">${escape(c.deadline_time)} ${escape(c.deadline_timezone||'(zone unspecified)')}</span>`:''}${view==='open'?`<p class="call-kind">${escape(c.kind)}</p>`:''}`;
 }
 function render(){

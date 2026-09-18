@@ -11,6 +11,9 @@ def verify(old,html,stamp):
  evidence=[r['evidence'].get('event_dates')]+[c.get('evidence') for c in r['calls'] if c.get('deadline')]
  supported=all(e and norm(e['text']) in norm(text) for e in evidence)
  new_date,quote,certainty=deadline(text)
+ if len(r['calls'])==1 and new_date and not r['calls'][0].get('deadline') and new_date<=r['event_start'] and supported:
+  c=r['calls'][0]; c.update(deadline=new_date,evidence={'url':r['source_url'],'text':quote},state='open')
+  r['history'].append({'at':stamp,'field':'deadline','old':None,'new':new_date,'evidence':quote})
  if len(r['calls'])==1 and new_date and r['calls'][0].get('deadline') and new_date!=r['calls'][0]['deadline']:
   # Conflicting old and new dates are not extensions unless the source explicitly says so.
   if re.search(r'deadline\s+(?:has been\s+)?extended|extended\s+(?:submission\s+)?deadline',text,re.I) and new_date>=r['calls'][0]['deadline'] and new_date<=r['event_start']:
@@ -23,6 +26,7 @@ def verify(old,html,stamp):
  if supported:
   r['last_verified']=stamp; r['health']='verified'
   r['verification_method']='source evidence recheck'
+  r.pop('check_error',None)
  else: r['health']='needs_verification'
  # Never infer cancellations from a generic word elsewhere in a page.
  if re.search(r'(?:this|the) (?:conference|event|workshop) (?:has been|is) cancel(?:l)?ed',text,re.I):

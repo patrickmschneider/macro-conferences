@@ -34,6 +34,10 @@ class PipelineTests(unittest.TestCase):
  def test_validation(self): self.assertTrue(validate(read('data/conferences.json')))
  def test_duplicate(self):
   r=copy.deepcopy(self.seed); r['name']='Changed title';self.assertTrue(duplicate(r,self.seed))
+ def test_new_call_on_known_event(self):
+  r=copy.deepcopy(self.seed);r['calls'][0].update(deadline=None,evidence=None,state='unknown')
+  html='<h1>Macroeconomic Policies</h1><p>'+r['evidence']['event_dates']['text']+'</p><p>Submission deadline: 20 September 2026</p>'
+  result=verify(r,html,'2026-09-18');self.assertEqual(result['calls'][0]['deadline'],'2026-09-20');self.assertEqual(result['calls'][0]['state'],'open')
  def test_program_and_cfp_merge(self):
   a=copy.deepcopy(self.seed); b=copy.deepcopy(a); a.update(name='50th International Seminar on Macroeconomics',organizers=['NBER / Central Bank'],source_url='https://example.org/cfp'); b.update(name='International Seminar on Macroeconomics, 2027',organizers=['NBER'],source_url='https://example.org/program')
   self.assertTrue(duplicate(a,b))

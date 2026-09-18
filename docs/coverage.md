@@ -22,10 +22,10 @@ Reviewed primary sources include NBER CFPs and programme pages, CEPR CFPs and se
 1. Coverage inventory: initial inventory complete; comprehensive coverage gate remains open.
 2. Schema and seed: representative seed complete; core invariants validated in Python.
 3. Interface: implemented, including filters, series and update status; actual Google Sites embed validation pending.
-4. Extraction pilot: NBER live evidence rechecks work; CEPR blocked locally. Regression tests cover conservative failure cases.
+4. Extraction pilot: NBER live evidence rechecks and JSON-feed discovery work; CEPR blocked locally. Regression tests cover conservative failure cases.
 5. Broader automation: daily workflow implemented; watch-only sources and unverified flagship leads remain incomplete.
 6. Calendars: generated and tested for dates, UIDs, UTC conversion and folding; real calendar-client subscription testing pending.
-7. Deployment: see repository Actions and Pages; Google Sites embedding requires the site editor.
+7. Deployment: initial Pages deployment succeeded at https://patrickmschneider.github.io/macro-conferences/ . Google Sites embedding requires the site editor; no controllable browser was available in this session.
 8. Operational observation: ongoing after deployment. No claim of weeks of unattended operation.
 
 ## Maintenance policy
