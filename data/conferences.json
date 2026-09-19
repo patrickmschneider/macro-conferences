@@ -36,7 +36,7 @@
     ],
     "notes": "Papers or extended abstracts. Source gives a cutoff time but no time zone.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -88,8 +88,8 @@
     ],
     "notes": "Detailed abstract or draft paper. Submissions must not be under consideration at another journal; submission includes consideration for a JIE special issue.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -103,7 +103,6 @@
       }
     },
     "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /50th-annual-international-seminar-macroeconomics (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection",
     "supporting_urls": [
       "https://www.nber.org/conferences/international-seminar-macroeconomics-2027"
     ]
@@ -143,8 +142,8 @@
     ],
     "notes": "Open paper submission; attendance is by invitation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -157,8 +156,7 @@
         "text": "11:59 pm Eastern time on October 8, 2026"
       }
     },
-    "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/household-finance-working-group-meeting-fall-2026 (Caused by NameResolutionError(\"<urllib3.connection.HT"
+    "history": []
   },
   {
     "id": "franco-german-fiscal-2026",
@@ -196,7 +194,7 @@
     ],
     "notes": "Theme: artificial intelligence, productivity and public finances. Papers in English.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -249,8 +247,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -264,7 +262,6 @@
       }
     },
     "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /calls-papers-and-proposals/demographic-forces-and-us-labor-market-dynamics (Caused by NameResolutionError(\"<urllib3.",
     "supporting_urls": [
       "https://www.nber.org/conferences/demographic-forces-and-us-labor-market-dynamics-spring-2027"
     ]
@@ -304,8 +301,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -318,8 +315,7 @@
         "text": "11:59 pm Eastern time on December 16, 2026"
       }
     },
-    "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/tariffs-and-economic-performance-spring-2027 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSCo"
+    "history": []
   },
   {
     "id": "nber-labor-power-2027",
@@ -356,8 +352,8 @@
     ],
     "notes": "Papers that will be published by May 2027 are not eligible. Open to researchers without NBER affiliation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -368,7 +364,6 @@
       "deadline": null
     },
     "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /calls-papers-and-proposals/measuring-and-modeling-market-power-labor-market (Caused by NameResolutionError(\"<urllib3",
     "supporting_urls": [
       "https://www.nber.org/conferences/measuring-and-modeling-market-power-labor-market-spring-2027"
     ]
@@ -407,8 +402,8 @@
     ],
     "notes": "2027 meeting announced; call for papers forthcoming.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -468,8 +463,8 @@
     ],
     "notes": "General paper submissions open in October 2026. Broad economics conference.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -519,7 +514,7 @@
     ],
     "notes": "Policy event in Bern on 7 October; research conference in Gerzensee on 8–9 October.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -569,7 +564,7 @@
     ],
     "notes": "Source states submissions are closed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -581,7 +576,7 @@
       "deadline": null
     },
     "history": [],
-    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0"
+    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0"
   },
   {
     "id": "cepr-imf-2026",
@@ -619,7 +614,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -634,7 +629,7 @@
       }
     },
     "history": [],
-    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026"
+    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026"
   },
   {
     "id": "cepr-mg-2026",
@@ -672,7 +667,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -725,7 +720,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -740,7 +735,7 @@
       }
     },
     "history": [],
-    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026"
+    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026"
   },
   {
     "id": "cepr-empirical-monetary-2026",
@@ -778,7 +773,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -793,7 +788,7 @@
       }
     },
     "history": [],
-    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/workshop-empirical-monetary-economics-2026",
+    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/workshop-empirical-monetary-economics-2026",
     "supporting_urls": [
       "https://www.banque-france.fr/en/events/workshop-empirical-monetary-economics-2026"
     ]
@@ -830,7 +825,7 @@
     ],
     "notes": "Paper and poster submissions under review. Poster eligibility differs from paper eligibility.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -877,7 +872,7 @@
     ],
     "notes": "Attendance limited to presenters. Source contains an old notification year; no deadline inferred.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -889,7 +884,7 @@
       "deadline": null
     },
     "history": [],
-    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights"
+    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights"
   },
   {
     "id": "steg-2027",
@@ -923,7 +918,7 @@
     ],
     "notes": "Research on structural transformation and growth in low-income countries; source states submissions are closed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -974,8 +969,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1029,8 +1024,8 @@
     ],
     "notes": "Includes contributed research papers as well as masterclasses.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1077,8 +1072,8 @@
     ],
     "notes": "Attendance by invitation. No open submission call verified.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1088,8 +1083,7 @@
       },
       "deadline": null
     },
-    "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/annual-conference-macroeconomics-2027 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnectio"
+    "history": []
   },
   {
     "id": "nber-deficits-2027",
@@ -1127,8 +1121,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1142,7 +1136,6 @@
       }
     },
     "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /calls-papers-and-proposals/call-papers-long-term-budget-deficits-economic-effects-and-potential-responses (Caused by",
     "supporting_urls": [
       "https://www.nber.org/conferences/long-term-budget-deficits-economic-effects-and-potential-responses-spring-2027"
     ]
@@ -1179,8 +1172,8 @@
     ],
     "notes": "Source states the submission deadline has passed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1190,8 +1183,7 @@
       },
       "deadline": null
     },
-    "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/energy-markets-and-macroeconomy-fall-2026 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConne"
+    "history": []
   },
   {
     "id": "nber-ifm-2026",
@@ -1225,8 +1217,8 @@
     ],
     "notes": "Attendance by invitation. No open submission call verified.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1236,8 +1228,7 @@
       },
       "deadline": null
     },
-    "history": [],
-    "check_error": "HTTPSConnectionPool(host='www.nber.org', port=443): Max retries exceeded with url: /conferences/international-finance-and-macroeconomics-program-meeting-fall-2026 (Caused by NameResolutionError(\"<urll"
+    "history": []
   },
   {
     "id": "imf-polak-2026",
@@ -1272,7 +1263,7 @@
     ],
     "notes": "Theme: technology, geopolitics and a multipolar world. Submission status unconfirmed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -1373,8 +1364,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1418,8 +1409,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1464,8 +1455,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1509,8 +1500,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1554,8 +1545,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1599,8 +1590,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1644,8 +1635,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1690,8 +1681,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-18T15:53:47+00:00",
-    "last_verified": "2026-09-18T15:53:47+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1735,8 +1726,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-atlanta"
   },
@@ -1780,8 +1771,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "riksbank"
   },
@@ -1834,8 +1825,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "e61"
   },
@@ -1882,8 +1873,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-dallas"
   },
@@ -1931,8 +1922,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -1976,8 +1967,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-newyork"
   },
@@ -2024,8 +2015,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-philadelphia"
   },
@@ -2070,8 +2061,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2115,8 +2106,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-dallas"
   },
@@ -2162,8 +2153,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2207,8 +2198,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2256,8 +2247,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2304,8 +2295,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:23+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "boe"
   },
@@ -2350,9 +2341,9 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
-    "verification_method": "deterministic source extraction",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
+    "verification_method": "source evidence recheck",
     "source_id": "dnb"
   },
   {
@@ -2395,9 +2386,9 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
-    "verification_method": "deterministic source extraction",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
+    "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
   {
@@ -2440,9 +2431,9 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
-    "verification_method": "deterministic source extraction",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
+    "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
   {
@@ -2485,9 +2476,9 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
-    "verification_method": "deterministic source extraction",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
+    "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
   {
@@ -2533,9 +2524,9 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
-    "verification_method": "deterministic source extraction",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
+    "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
   {
@@ -2581,9 +2572,55 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-18T17:26:24+00:00",
-    "last_verified": "2026-09-18T17:26:24+00:00",
-    "verification_method": "deterministic source extraction",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
+    "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-b2f131f8b0c0d9",
+    "series_id": null,
+    "name": "Artificial Intelligence, Digitization, and Financial Markets, Fall 2026",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-14",
+    "event_end": "2026-12-15",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Macro-finance"
+    ],
+    "source_url": "https://www.nber.org/conferences/artificial-intelligence-digitization-and-financial-markets-fall-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-b2f131f8b0c0d9-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/conferences/artificial-intelligence-digitization-and-financial-markets-fall-2026",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/conferences/artificial-intelligence-digitization-and-financial-markets-fall-2026",
+        "text": "December 14-15, 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-19T11:12:48+00:00",
+    "last_checked": "2026-09-19T11:12:48+00:00",
+    "last_verified": "2026-09-19T11:12:48+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "nber-events"
   }
 ]
