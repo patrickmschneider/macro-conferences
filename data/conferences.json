@@ -26,7 +26,7 @@
         "deadline": "2026-09-20",
         "deadline_time": "23:59",
         "deadline_timezone": null,
-        "state": "open",
+        "state": "closed",
         "source_url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
         "evidence": {
           "url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
@@ -36,10 +36,10 @@
     ],
     "notes": "Papers or extended abstracts. Source gives a cutoff time but no time zone.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
-    "health": "fetch_failed",
+    "health": "needs_verification",
     "evidence": {
       "event_dates": {
         "url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
@@ -88,8 +88,8 @@
     ],
     "notes": "Detailed abstract or draft paper. Submissions must not be under consideration at another journal; submission includes consideration for a JIE special issue.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -142,8 +142,8 @@
     ],
     "notes": "Open paper submission; attendance is by invitation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -184,7 +184,7 @@
         "deadline": "2026-10-09",
         "deadline_time": null,
         "deadline_timezone": null,
-        "state": "open",
+        "state": "closed",
         "source_url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
         "evidence": {
           "url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
@@ -194,10 +194,10 @@
     ],
     "notes": "Theme: artificial intelligence, productivity and public finances. Papers in English.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-18",
-    "verification_method": "manual primary-source review",
-    "health": "fetch_failed",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
     "evidence": {
       "event_dates": {
         "url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
@@ -208,8 +208,7 @@
         "text": "submitted by 9 October 2026"
       }
     },
-    "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/2026-franco-german-fiscal-policy-seminar"
+    "history": []
   },
   {
     "id": "nber-demographics-2027",
@@ -247,8 +246,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -301,8 +300,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -352,8 +351,8 @@
     ],
     "notes": "Papers that will be published by May 2027 are not eligible. Open to researchers without NBER affiliation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -402,8 +401,8 @@
     ],
     "notes": "2027 meeting announced; call for papers forthcoming.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -463,7 +462,7 @@
     ],
     "notes": "General paper submissions open in October 2026. Broad economics conference.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-28T14:11:52+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -514,10 +513,10 @@
     ],
     "notes": "Policy event in Bern on 7 October; research conference in Gerzensee on 8–9 October.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-18",
-    "verification_method": "manual primary-source review",
-    "health": "fetch_failed",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
     "evidence": {
       "event_dates": {
         "url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
@@ -528,8 +527,7 @@
         "text": "Thursday 18 June 2026"
       }
     },
-    "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/cepr-european-conference-household-finance-2026"
+    "history": []
   },
   {
     "id": "cepr-mef-2026",
@@ -564,7 +562,7 @@
     ],
     "notes": "Source states submissions are closed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -614,7 +612,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -629,7 +627,7 @@
       }
     },
     "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026"
+    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/event-series/international-macroeconomics-and-finance-programme-annual-meeting/cepr-0"
   },
   {
     "id": "cepr-mg-2026",
@@ -667,10 +665,10 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-18",
-    "verification_method": "manual primary-source review",
-    "health": "fetch_failed",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
     "evidence": {
       "event_dates": {
         "url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
@@ -681,8 +679,7 @@
         "text": "Tuesday 30th June 2026, 18:00 CEST"
       }
     },
-    "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026"
+    "history": []
   },
   {
     "id": "cepr-ireland-2026",
@@ -720,10 +717,10 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-18",
-    "verification_method": "manual primary-source review",
-    "health": "fetch_failed",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
     "evidence": {
       "event_dates": {
         "url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
@@ -734,8 +731,7 @@
         "text": "submitted by 23 June 2026"
       }
     },
-    "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026"
+    "history": []
   },
   {
     "id": "cepr-empirical-monetary-2026",
@@ -773,10 +769,10 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-18",
-    "verification_method": "manual primary-source review",
-    "health": "fetch_failed",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
     "evidence": {
       "event_dates": {
         "url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
@@ -788,7 +784,6 @@
       }
     },
     "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/workshop-empirical-monetary-economics-2026",
     "supporting_urls": [
       "https://www.banque-france.fr/en/events/workshop-empirical-monetary-economics-2026"
     ]
@@ -825,7 +820,7 @@
     ],
     "notes": "Paper and poster submissions under review. Poster eligibility differs from paper eligibility.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -837,7 +832,7 @@
       "deadline": null
     },
     "history": [],
-    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026"
+    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026"
   },
   {
     "id": "cepr-finland-2026",
@@ -872,10 +867,10 @@
     ],
     "notes": "Attendance limited to presenters. Source contains an old notification year; no deadline inferred.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-18",
-    "verification_method": "manual primary-source review",
-    "health": "fetch_failed",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
     "evidence": {
       "event_dates": {
         "url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
@@ -883,8 +878,7 @@
       },
       "deadline": null
     },
-    "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights"
+    "history": []
   },
   {
     "id": "steg-2027",
@@ -918,7 +912,7 @@
     ],
     "notes": "Research on structural transformation and growth in low-income countries; source states submissions are closed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -969,8 +963,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1024,7 +1018,7 @@
     ],
     "notes": "Includes contributed research papers as well as masterclasses.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-27T12:13:38+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -1072,8 +1066,8 @@
     ],
     "notes": "Attendance by invitation. No open submission call verified.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1121,8 +1115,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1172,8 +1166,8 @@
     ],
     "notes": "Source states the submission deadline has passed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1217,8 +1211,8 @@
     ],
     "notes": "Attendance by invitation. No open submission call verified.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1263,7 +1257,7 @@
     ],
     "notes": "Theme: technology, geopolitics and a multipolar world. Submission status unconfirmed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -1364,8 +1358,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1409,8 +1403,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1455,8 +1449,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1500,8 +1494,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1545,8 +1539,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1590,8 +1584,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1635,8 +1629,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1681,8 +1675,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1726,8 +1720,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-atlanta"
   },
@@ -1771,8 +1765,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "riksbank"
   },
@@ -1825,7 +1819,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-28T14:11:52+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "e61"
@@ -1873,8 +1867,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-dallas"
   },
@@ -1922,8 +1916,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -1967,8 +1961,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-newyork"
   },
@@ -2015,8 +2009,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-philadelphia"
   },
@@ -2061,8 +2055,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2106,8 +2100,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-dallas"
   },
@@ -2153,8 +2147,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2198,8 +2192,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2247,8 +2241,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2295,8 +2289,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:23+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "boe"
   },
@@ -2341,8 +2335,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "dnb"
   },
@@ -2431,8 +2425,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2476,8 +2470,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2524,8 +2518,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2572,7 +2566,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
     "last_verified": "2026-09-20T11:37:05+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
@@ -2618,9 +2612,394 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-19T11:12:48+00:00",
-    "last_checked": "2026-09-29T13:07:39+00:00",
-    "last_verified": "2026-09-29T13:07:39+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "nber-events"
+  },
+  {
+    "id": "event-8bcc8ebc6f640e",
+    "series_id": null,
+    "name": "New York FED-ECB Workshop on Nonbank Financial Institutions",
+    "organizers": [
+      "Federal Reserve Bank of New York"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-11-13",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Macro-finance"
+    ],
+    "source_url": "https://www.newyorkfed.org/research/conference/2026/nyfed-ecb-workshop-nbfi",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-8bcc8ebc6f640e-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.newyorkfed.org/research/conference/2026/nyfed-ecb-workshop-nbfi",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.newyorkfed.org/research/conference/2026/nyfed-ecb-workshop-nbfi",
+        "text": "November 13, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-30T12:47:49+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "fed-newyork"
+  },
+  {
+    "id": "event-cddb30623cab90",
+    "series_id": null,
+    "name": "Inflation: The 34th NBER-TCER-CEPR TRIO Conference",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-03-06",
+    "event_end": "2027-03-07",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.nber.org/calls-papers-and-proposals/inflation-34th-nber-tcer-cepr-trio-conference",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-cddb30623cab90-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-11-20",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.nber.org/calls-papers-and-proposals/inflation-34th-nber-tcer-cepr-trio-conference",
+        "evidence": {
+          "url": "https://www.nber.org/calls-papers-and-proposals/inflation-34th-nber-tcer-cepr-trio-conference",
+          "text": "Papers submitted to the JJIE will undergo the normal journal reviewing process. The deadline for submitting papers is 11:59pm Eastern time on November 20, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/calls-papers-and-proposals/inflation-34th-nber-tcer-cepr-trio-conference",
+        "text": "March 6-7, 2027"
+      },
+      "deadline": {
+        "url": "https://www.nber.org/calls-papers-and-proposals/inflation-34th-nber-tcer-cepr-trio-conference",
+        "text": "Papers submitted to the JJIE will undergo the normal journal reviewing process. The deadline for submitting papers is 11:59pm Eastern time on November 20, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-30T12:47:49+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "nber-calls"
+  },
+  {
+    "id": "event-c1975966ac416a",
+    "series_id": null,
+    "name": "6th WE_ARE_IN Macroeconomics and Finance Conference",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-22",
+    "event_end": "2026-10-23",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://cepr.org/events/6th-wearein-macroeconomics-and-finance-conference",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-c1975966ac416a-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/6th-wearein-macroeconomics-and-finance-conference",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/6th-wearein-macroeconomics-and-finance-conference",
+        "text": "22 Oct 2026 - 23 Oct 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-30T12:47:49+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "cepr-events"
+  },
+  {
+    "id": "event-19e417ff00479b",
+    "series_id": null,
+    "name": "CEPR-Tsinghua Conference – Global Imbalances: Origins, Consequences, and Policy",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-23",
+    "event_end": "2026-10-24",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "International macro"
+    ],
+    "source_url": "https://cepr.org/events/cepr-tsinghua-conference-global-imbalances-origins-consequences-and-policy",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-19e417ff00479b-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/cepr-tsinghua-conference-global-imbalances-origins-consequences-and-policy",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/cepr-tsinghua-conference-global-imbalances-origins-consequences-and-policy",
+        "text": "23 Oct 2026 - 24 Oct 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-30T12:47:49+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "cepr-events"
+  },
+  {
+    "id": "event-36f547418f061b",
+    "series_id": null,
+    "name": "Frontier Research on Fiscal Policy",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-10-15",
+    "event_end": "2026-10-16",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Fiscal policy"
+    ],
+    "source_url": "https://cepr.org/events/frontier-research-fiscal-policy",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-36f547418f061b-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/frontier-research-fiscal-policy",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/frontier-research-fiscal-policy",
+        "text": "15 Oct 2026 - 16 Oct 2026"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-30T12:47:49+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "cepr-events"
+  },
+  {
+    "id": "event-b194fc95cd46e8",
+    "series_id": null,
+    "name": "5th ASB/Banco Central de Chile/CEPR/ERSA Workshop on Macroeconomic Policy in Emerging Markets",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-01-14",
+    "event_end": "2027-01-15",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://cepr.org/events/5th-asbbanco-central-de-chileceprersa-workshop-macroeconomic-policy-emerging-markets",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-b194fc95cd46e8-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-09-15",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://cepr.org/events/5th-asbbanco-central-de-chileceprersa-workshop-macroeconomic-policy-emerging-markets",
+        "evidence": {
+          "url": "https://cepr.org/events/5th-asbbanco-central-de-chileceprersa-workshop-macroeconomic-policy-emerging-markets",
+          "text": "Submission deadline: Sunday, 15 September 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/5th-asbbanco-central-de-chileceprersa-workshop-macroeconomic-policy-emerging-markets",
+        "text": "14 Jan 2027 - 15 Jan 2027"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/5th-asbbanco-central-de-chileceprersa-workshop-macroeconomic-policy-emerging-markets",
+        "text": "Submission deadline: Sunday, 15 September 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-30T12:47:49+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "cepr-events"
+  },
+  {
+    "id": "event-e851638b640312",
+    "series_id": null,
+    "name": "Financial Stability in the Era of Artificial Intelligence and Digital Finance",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-03-18",
+    "event_end": "2027-03-19",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Financial stability"
+    ],
+    "source_url": "https://cepr.org/events/financial-stability-era-artificial-intelligence-and-digital-finance",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-e851638b640312-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-11-02",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://cepr.org/events/financial-stability-era-artificial-intelligence-and-digital-finance",
+        "evidence": {
+          "url": "https://cepr.org/events/financial-stability-era-artificial-intelligence-and-digital-finance",
+          "text": "Submission deadline: November 2, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/financial-stability-era-artificial-intelligence-and-digital-finance",
+        "text": "18 Mar 2027 - 19 Mar 2027"
+      },
+      "deadline": {
+        "url": "https://cepr.org/events/financial-stability-era-artificial-intelligence-and-digital-finance",
+        "text": "Submission deadline: November 2, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-30T12:47:49+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "cepr-events"
+  },
+  {
+    "id": "event-2fba5bab95f3a9",
+    "series_id": null,
+    "name": "The Macroeconomics of Climate and Environmental Change",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-02-03",
+    "event_end": "2027-02-04",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://cepr.org/events/macroeconomics-climate-and-environmental-change",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-2fba5bab95f3a9-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/macroeconomics-climate-and-environmental-change",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/events/macroeconomics-climate-and-environmental-change",
+        "text": "3 Feb 2027 - 4 Feb 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-09-30T12:47:49+00:00",
+    "last_checked": "2026-09-30T12:47:49+00:00",
+    "last_verified": "2026-09-30T12:47:49+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "cepr-events"
   }
 ]
