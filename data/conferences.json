@@ -36,7 +36,7 @@
     ],
     "notes": "Papers or extended abstracts. Source gives a cutoff time but no time zone.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "needs_verification",
@@ -88,8 +88,8 @@
     ],
     "notes": "Detailed abstract or draft paper. Submissions must not be under consideration at another journal; submission includes consideration for a JIE special issue.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -142,8 +142,8 @@
     ],
     "notes": "Open paper submission; attendance is by invitation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -194,8 +194,8 @@
     ],
     "notes": "Theme: artificial intelligence, productivity and public finances. Papers in English.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -246,8 +246,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -300,8 +300,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -351,8 +351,8 @@
     ],
     "notes": "Papers that will be published by May 2027 are not eligible. Open to researchers without NBER affiliation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -401,8 +401,8 @@
     ],
     "notes": "2027 meeting announced; call for papers forthcoming.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -462,10 +462,10 @@
     ],
     "notes": "General paper submissions open in October 2026. Broad economics conference.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-10-05T14:59:07+00:00",
     "verification_method": "source evidence recheck",
-    "health": "verified",
+    "health": "needs_verification",
     "evidence": {
       "event_dates": {
         "url": "https://res.org.uk/event-listing/res2027/",
@@ -513,8 +513,8 @@
     ],
     "notes": "Policy event in Bern on 7 October; research conference in Gerzensee on 8–9 October.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -562,7 +562,7 @@
     ],
     "notes": "Source states submissions are closed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -612,7 +612,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -665,8 +665,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -717,8 +717,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -769,7 +769,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-10-04T12:33:45+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -820,7 +820,7 @@
     ],
     "notes": "Paper and poster submissions under review. Poster eligibility differs from paper eligibility.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -857,20 +857,23 @@
       {
         "id": "cepr-finland-2026-papers",
         "kind": "Paper submission",
-        "deadline": null,
+        "deadline": "2026-11-20",
         "deadline_time": null,
         "deadline_timezone": null,
         "state": "closed",
         "source_url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
-        "evidence": null
+        "evidence": {
+          "url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
+          "text": "Closes 20 Nov 2026"
+        }
       }
     ],
     "notes": "Attendance limited to presenters. Source contains an old notification year; no deadline inferred.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-03T11:50:02+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
-    "health": "fetch_failed",
+    "health": "verified",
     "evidence": {
       "event_dates": {
         "url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
@@ -878,8 +881,15 @@
       },
       "deadline": null
     },
-    "history": [],
-    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights"
+    "history": [
+      {
+        "at": "2026-10-06T13:26:44+00:00",
+        "field": "deadline",
+        "old": null,
+        "new": "2026-11-20",
+        "evidence": "Closes 20 Nov 2026"
+      }
+    ]
   },
   {
     "id": "steg-2027",
@@ -913,7 +923,7 @@
     ],
     "notes": "Research on structural transformation and growth in low-income countries; source states submissions are closed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "needs_verification",
@@ -964,8 +974,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1019,7 +1029,7 @@
     ],
     "notes": "Includes contributed research papers as well as masterclasses.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-27T12:13:38+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -1067,8 +1077,8 @@
     ],
     "notes": "Attendance by invitation. No open submission call verified.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1116,8 +1126,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1167,8 +1177,8 @@
     ],
     "notes": "Source states the submission deadline has passed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1212,8 +1222,8 @@
     ],
     "notes": "Attendance by invitation. No open submission call verified.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1258,10 +1268,10 @@
     ],
     "notes": "Theme: technology, geopolitics and a multipolar world. Submission status unconfirmed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-09-18",
-    "verification_method": "manual primary-source review",
-    "health": "fetch_failed",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
+    "verification_method": "source evidence recheck",
+    "health": "verified",
     "evidence": {
       "event_dates": {
         "url": "https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference",
@@ -1269,8 +1279,7 @@
       },
       "deadline": null
     },
-    "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference"
+    "history": []
   },
   {
     "id": "event-27e24e647282e2",
@@ -1359,8 +1368,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1404,8 +1413,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1450,8 +1459,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1495,8 +1504,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1540,8 +1549,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1585,8 +1594,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1630,8 +1639,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1676,8 +1685,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1818,9 +1827,9 @@
       }
     },
     "history": [],
-    "health": "verified",
+    "health": "needs_verification",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-10-05T14:59:07+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "e61"
@@ -1868,8 +1877,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-dallas"
   },
@@ -1917,8 +1926,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -1962,8 +1971,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-newyork"
   },
@@ -2010,8 +2019,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-philadelphia"
   },
@@ -2056,8 +2065,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2148,8 +2157,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2193,8 +2202,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2242,8 +2251,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2290,8 +2299,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:23+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "boe"
   },
@@ -2336,8 +2345,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "dnb"
   },
@@ -2426,8 +2435,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2471,8 +2480,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2519,8 +2528,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2567,7 +2576,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-20T11:37:05+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
@@ -2613,8 +2622,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-19T11:12:48+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "nber-events"
   },
@@ -2658,8 +2667,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-newyork"
   },
@@ -2710,8 +2719,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
-    "last_verified": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
+    "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "nber-calls"
   },
@@ -2756,7 +2765,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "deterministic source extraction",
     "source_id": "cepr-events"
@@ -2802,7 +2811,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "deterministic source extraction",
     "source_id": "cepr-events",
@@ -2847,12 +2856,13 @@
       "deadline": null
     },
     "history": [],
-    "health": "verified",
+    "health": "fetch_failed",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-10-05T14:59:07+00:00",
     "verification_method": "source evidence recheck",
-    "source_id": "cepr-events"
+    "source_id": "cepr-events",
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/frontier-research-fiscal-policy"
   },
   {
     "id": "event-b194fc95cd46e8",
@@ -2901,7 +2911,7 @@
     "history": [],
     "health": "fetch_failed",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "deterministic source extraction",
     "source_id": "cepr-events",
@@ -2952,12 +2962,13 @@
       }
     },
     "history": [],
-    "health": "verified",
+    "health": "fetch_failed",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-10-05T14:59:07+00:00",
     "verification_method": "source evidence recheck",
-    "source_id": "cepr-events"
+    "source_id": "cepr-events",
+    "check_error": "429 Client Error: Too Many Requests for url: https://cepr.org/events/financial-stability-era-artificial-intelligence-and-digital-finance"
   },
   {
     "id": "event-2fba5bab95f3a9",
@@ -3000,7 +3011,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "deterministic source extraction",
     "source_id": "cepr-events",
@@ -3047,7 +3058,7 @@
     "history": [],
     "health": "fetch_failed",
     "discovered_at": "2026-10-01T13:33:31+00:00",
-    "last_checked": "2026-10-05T14:59:07+00:00",
+    "last_checked": "2026-10-06T13:26:44+00:00",
     "last_verified": "2026-10-03T11:50:02+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "cepr-events",
