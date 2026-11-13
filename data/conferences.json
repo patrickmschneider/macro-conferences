@@ -36,7 +36,7 @@
     ],
     "notes": "Papers or extended abstracts. Source gives a cutoff time but no time zone.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "needs_verification",
@@ -88,7 +88,7 @@
     ],
     "notes": "Detailed abstract or draft paper. Submissions must not be under consideration at another journal; submission includes consideration for a JIE special issue.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-11-01T13:38:08+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -143,7 +143,7 @@
     ],
     "notes": "Open paper submission; attendance is by invitation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-10-08T13:44:16+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -196,7 +196,7 @@
     ],
     "notes": "Theme: artificial intelligence, productivity and public finances. Papers in English.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-10-07T13:37:41+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -249,8 +249,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -303,8 +303,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -317,7 +317,10 @@
         "text": "11:59 pm Eastern time on December 16, 2026"
       }
     },
-    "history": []
+    "history": [],
+    "supporting_urls": [
+      "https://www.nber.org/calls-papers-and-proposals/tariffs-and-economic-performance"
+    ]
   },
   {
     "id": "nber-labor-power-2027",
@@ -354,8 +357,8 @@
     ],
     "notes": "Papers that will be published by May 2027 are not eligible. Open to researchers without NBER affiliation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -404,8 +407,8 @@
     ],
     "notes": "2027 meeting announced; call for papers forthcoming.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -465,8 +468,8 @@
     ],
     "notes": "General paper submissions open in October 2026. Broad economics conference.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -669,7 +672,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-10-07T13:37:41+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -684,7 +687,10 @@
       }
     },
     "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026"
+    "check_error": "Host refused earlier requests in this run",
+    "supporting_urls": [
+      "https://cepr.org/events/event-series/macroeconomics-and-growth-symposium/cepr-macroeconomics-and-growth-annual-8"
+    ]
   },
   {
     "id": "cepr-ireland-2026",
@@ -722,7 +728,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-10-07T13:37:41+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -737,7 +743,7 @@
       }
     },
     "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026"
+    "check_error": "Host refused earlier requests in this run"
   },
   {
     "id": "cepr-empirical-monetary-2026",
@@ -775,7 +781,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-10-04T12:33:45+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -793,7 +799,7 @@
     "supporting_urls": [
       "https://www.banque-france.fr/en/events/workshop-empirical-monetary-economics-2026"
     ],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/workshop-empirical-monetary-economics-2026"
+    "check_error": "Host refused earlier requests in this run"
   },
   {
     "id": "cepr-paris-2026",
@@ -827,7 +833,7 @@
     ],
     "notes": "Paper and poster submissions under review. Poster eligibility differs from paper eligibility.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -839,7 +845,7 @@
       "deadline": null
     },
     "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026"
+    "check_error": "Host refused earlier requests in this run"
   },
   {
     "id": "cepr-finland-2026",
@@ -877,7 +883,7 @@
     ],
     "notes": "Attendance limited to presenters. Source contains an old notification year; no deadline inferred.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -897,7 +903,10 @@
         "evidence": "Closes 20 Nov 2026"
       }
     ],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights"
+    "check_error": "Host refused earlier requests in this run",
+    "supporting_urls": [
+      "https://www.suomenpankki.fi/en/news-and-topical/events/calendar/events/conferences-and-workshops/2026/2026-12-17-18-cepr-bof/"
+    ]
   },
   {
     "id": "steg-2027",
@@ -931,7 +940,7 @@
     ],
     "notes": "Research on structural transformation and growth in low-income countries; source states submissions are closed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "needs_verification",
@@ -943,7 +952,7 @@
       "deadline": null
     },
     "history": [],
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/steg-annual-conference-theme-workshops-2027"
+    "check_error": "Host refused earlier requests in this run"
   },
   {
     "id": "rba-quant-2026",
@@ -982,8 +991,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1037,7 +1046,7 @@
     ],
     "notes": "Includes contributed research papers as well as masterclasses.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-09-27T12:13:38+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -1085,8 +1094,8 @@
     ],
     "notes": "Attendance by invitation. No open submission call verified.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1134,8 +1143,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1185,8 +1194,8 @@
     ],
     "notes": "Source states the submission deadline has passed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1276,8 +1285,8 @@
     ],
     "notes": "Theme: technology, geopolitics and a multipolar world. Submission status unconfirmed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1421,8 +1430,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1478,8 +1487,8 @@
     ],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1523,8 +1532,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1568,8 +1577,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1613,8 +1622,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1658,8 +1667,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1704,8 +1713,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1848,8 +1857,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "e61"
   },
@@ -1896,8 +1905,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-dallas"
   },
@@ -1945,8 +1954,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2084,8 +2093,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2176,8 +2185,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2221,8 +2230,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2270,8 +2279,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2318,8 +2327,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:23+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "boe"
   },
@@ -2547,8 +2556,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2595,7 +2604,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-09-20T11:37:05+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
@@ -2641,8 +2650,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-19T11:12:48+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "nber-events"
   },
@@ -2686,8 +2695,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-newyork"
   },
@@ -2738,8 +2747,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "nber-calls"
   },
@@ -2931,11 +2940,11 @@
     "history": [],
     "health": "fetch_failed",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "deterministic source extraction",
     "source_id": "cepr-events",
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/5th-asbbanco-central-de-chileceprersa-workshop-macroeconomic-policy-emerging-markets"
+    "check_error": "Host refused earlier requests in this run"
   },
   {
     "id": "event-e851638b640312",
@@ -2984,11 +2993,14 @@
     "history": [],
     "health": "fetch_failed",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-10-07T13:37:41+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "cepr-events",
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/financial-stability-era-artificial-intelligence-and-digital-finance"
+    "check_error": "Host refused earlier requests in this run",
+    "supporting_urls": [
+      "https://www.bundesbank.de/en/bundesbank/research/conferences/financial-stability-in-the-era-of-artificial-intelligence-and-digital-finance-1008394"
+    ]
   },
   {
     "id": "event-2fba5bab95f3a9",
@@ -3031,11 +3043,11 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "deterministic source extraction",
     "source_id": "cepr-events",
-    "check_error": "403 Client Error: Forbidden for url: https://cepr.org/events/macroeconomics-climate-and-environmental-change"
+    "check_error": "Host refused earlier requests in this run"
   },
   {
     "id": "event-ecc3c31eea2f8d",
@@ -3261,10 +3273,13 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-10-22T12:06:47+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
-    "source_id": "bis-events"
+    "source_id": "bis-events",
+    "supporting_urls": [
+      "https://cepr.org/events/banking-regulation-and-market-based-finance-interconnectedness-risk-migration-and-regulatory"
+    ]
   },
   {
     "id": "event-8a593e75ffba83",
@@ -3307,8 +3322,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-10-29T13:21:33+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -3352,9 +3367,1617 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-09T16:39:58+00:00",
-    "last_checked": "2026-11-13T14:43:38+00:00",
-    "last_verified": "2026-11-13T14:43:38+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-d65f0fd141f006",
+    "series_id": "cebra",
+    "name": "CEBRA Annual Meeting 2027",
+    "organizers": [
+      "Central Bank Research Association"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-07-07",
+    "event_end": "2027-07-09",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "Monetary policy",
+      "Financial stability"
+    ],
+    "source_url": "https://cebra.org/call-for-papers/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-d65f0fd141f006-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cebra.org/call-for-papers/",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cebra.org/call-for-papers/",
+        "text": "July 7–9, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "cebra"
+  },
+  {
+    "id": "event-a03561f531e867",
+    "series_id": "eea",
+    "name": "EEA-ESEM Prague 2027",
+    "organizers": [
+      "European Economic Association / Econometric Society"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-08-23",
+    "event_end": "2027-08-27",
+    "city": null,
+    "country": null,
+    "region": "Europe",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.eeassoc.org/events/eea-esem-prague-2027",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-a03561f531e867-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.eeassoc.org/events/eea-esem-prague-2027",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.eeassoc.org/events/eea-esem-prague-2027",
+        "text": "23rd August 2027 - 27th August 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "eea"
+  },
+  {
+    "id": "event-25d502bb7a4b7f",
+    "series_id": "es",
+    "name": "2026 Australasia Meeting, South Australia",
+    "organizers": [
+      "Econometric Society"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-24",
+    "event_end": "2026-11-27",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2026/11/24/2026-Australasia-Meeting-South-Australia",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-25d502bb7a4b7f-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2026/11/24/2026-Australasia-Meeting-South-Australia",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.econometricsociety.org/regional-activities/schedule/2026/11/24/2026-Australasia-Meeting-South-Australia",
+        "text": "take place from 24 November to 27 November 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "es"
+  },
+  {
+    "id": "event-ffa9648649fb50",
+    "series_id": "aea",
+    "name": "ASSA Annual Meeting 2027",
+    "organizers": [
+      "Allied Social Science Associations"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-01-03",
+    "event_end": "2027-01-05",
+    "city": null,
+    "country": null,
+    "region": "North America",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.aeaweb.org/conference/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-ffa9648649fb50-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.aeaweb.org/conference/",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.aeaweb.org/conference/",
+        "text": "January 3–5, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "aea"
+  },
+  {
+    "id": "event-c7145488fc9a2b",
+    "series_id": "laef",
+    "name": "2nd LAEF-HKU Joint Conference on Growth and Inequality",
+    "organizers": [
+      "Laboratory for Aggregate Economics and Finance (UCSB)"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-04",
+    "event_end": "2026-12-05",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "Growth",
+      "Heterogeneous agents"
+    ],
+    "source_url": "https://laef.ucsb.edu/events/2nd-laef-hku-joint-conference-growth-and-inequality",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-c7145488fc9a2b-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://laef.ucsb.edu/events/2nd-laef-hku-joint-conference-growth-and-inequality",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://laef.ucsb.edu/events/2nd-laef-hku-joint-conference-growth-and-inequality",
+        "text": "December 4 - 5, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "laef"
+  },
+  {
+    "id": "event-202c841420a28c",
+    "series_id": null,
+    "name": "Federal Reserve Day-After Conference on Financial Markets and Institutions",
+    "organizers": [
+      "Federal Reserve Board"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-01-06",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Macro-finance"
+    ],
+    "source_url": "https://www.federalreserve.gov/conferences/federal-reserve-day-after-conference-on-financial-markets-and-institutions.htm",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-202c841420a28c-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.federalreserve.gov/conferences/federal-reserve-day-after-conference-on-financial-markets-and-institutions.htm",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.federalreserve.gov/conferences/federal-reserve-day-after-conference-on-financial-markets-and-institutions.htm",
+        "text": "will be held at the Federal Reserve Board of Governors on January 6th, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "fed-board"
+  },
+  {
+    "id": "event-d3634b09302967",
+    "series_id": "miami-macro",
+    "name": "Miami Macro 2027",
+    "organizers": [
+      "University of Miami"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-02-05",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": "North America",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.noahwilliams.xyz/conferences/miamimacro27",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-d3634b09302967-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-12-15",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.noahwilliams.xyz/conferences/miamimacro27",
+        "evidence": {
+          "url": "https://www.noahwilliams.xyz/conferences/miamimacro27",
+          "text": "Submission deadline December 15, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.noahwilliams.xyz/conferences/miamimacro27",
+        "text": "will meet in person on the University of Miami campus in Coral Gables on February 5, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "miami-macro"
+  },
+  {
+    "id": "event-5a6a2aa660dc18",
+    "series_id": null,
+    "name": "Fintech and Digital Currencies RPN Annual Meeting 2026",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-26",
+    "event_end": "2026-11-27",
+    "city": "Gerzensee",
+    "country": "Switzerland",
+    "region": "Europe",
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://cepr.org/events/fintech-and-digital-currencies-rpn-annual-meeting-2026",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-5a6a2aa660dc18-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/fintech-and-digital-currencies-rpn-annual-meeting-2026",
+        "evidence": null
+      }
+    ],
+    "notes": "Dates from the CEPR events feed. Check the event page for any call for papers.",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/rss/events",
+        "kind": "feed",
+        "item_url": "https://cepr.org/events/fintech-and-digital-currencies-rpn-annual-meeting-2026",
+        "values": {
+          "event_start": "2026-11-26T08:00:00+0000",
+          "event_end": "2026-11-27T18:00:00+0000"
+        },
+        "text": "Fintech and Digital Currencies RPN Annual Meeting 2026: event_start 2026-11-26T08:00:00+0000; event_end 2026-11-27T18:00:00+0000"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "events feed",
+    "source_id": "cepr-rss"
+  },
+  {
+    "id": "event-fcb1d59b8f118b",
+    "series_id": "sce",
+    "name": "Computing in Economics and Finance (CEF) 2027",
+    "organizers": [
+      "Society for Computational Economics"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-06-28",
+    "event_end": "2027-06-30",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "Computational macro"
+    ],
+    "source_url": "https://comp-econ.com/save-the-date-33rd-annual-conference/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-fcb1d59b8f118b-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://comp-econ.com/save-the-date-33rd-annual-conference/",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://comp-econ.com/save-the-date-33rd-annual-conference/",
+        "text": "June 28 to 30, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "sce"
+  },
+  {
+    "id": "event-f555122d70d44b",
+    "series_id": "es",
+    "name": "2026 European Winter Meeting, Warsaw, Poland",
+    "organizers": [
+      "Econometric Society"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-02",
+    "event_end": "2026-12-04",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2026/12/02/2026-European-Winter-Meeting-Warsaw-Poland",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-f555122d70d44b-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2026/12/02/2026-European-Winter-Meeting-Warsaw-Poland",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.econometricsociety.org/regional-activities/schedule/2026/12/02/2026-European-Winter-Meeting-Warsaw-Poland",
+        "text": "take place from December 2 to 4, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "es"
+  },
+  {
+    "id": "event-d0d8624d435283",
+    "series_id": "laef",
+    "name": "5th XAmsterdam Macroeconomic Workshop",
+    "organizers": [
+      "Laboratory for Aggregate Economics and Finance (UCSB)"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-12-16",
+    "event_end": "2026-12-17",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://laef.ucsb.edu/events/5th-xamsterdam-macroeconomic-workshop",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-d0d8624d435283-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-10-24",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://laef.ucsb.edu/events/5th-xamsterdam-macroeconomic-workshop",
+        "evidence": {
+          "url": "https://laef.ucsb.edu/events/5th-xamsterdam-macroeconomic-workshop",
+          "text": "submission deadline is October 24, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://laef.ucsb.edu/events/5th-xamsterdam-macroeconomic-workshop",
+        "text": "16-17 December, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "laef"
+  },
+  {
+    "id": "event-e089611affcd77",
+    "series_id": null,
+    "name": "Spring Conference 2027: Macroeconomic Stabilization in the Presence of Fiscal and Geopolitical Risks Deutsche Bundesbank – Danmarks Nationalbank – Norges Bank",
+    "organizers": [
+      "Deutsche Bundesbank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-06-03",
+    "event_end": "2027-06-04",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro",
+      "Fiscal policy"
+    ],
+    "source_url": "https://www.bundesbank.de/en/bundesbank/research/conferences/spring-conference-2027-macroeconomic-stabilization-in-the-presence-of-fiscal-and-geopolitical-risks-636648",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-e089611affcd77-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.bundesbank.de/en/bundesbank/research/conferences/spring-conference-2027-macroeconomic-stabilization-in-the-presence-of-fiscal-and-geopolitical-risks-636648",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/spring-conference-2027-macroeconomic-stabilization-in-the-presence-of-fiscal-and-geopolitical-risks-636648",
+        "text": "03.06.2027 – 04.06.2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "bundesbank"
+  },
+  {
+    "id": "event-5248c193151f51",
+    "series_id": null,
+    "name": "9th ANNUAL RESEARCH CONFERENCE Structural change in the international monetary system: Challenges for central banks",
+    "organizers": [
+      "Banco de España"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-30",
+    "event_end": "2026-12-01",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/9th-annual-research-conference-structural-change-in-the-international-monetary-system-challenges-for-central-banks.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-5248c193151f51-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/9th-annual-research-conference-structural-change-in-the-international-monetary-system-challenges-for-central-banks.html",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/9th-annual-research-conference-structural-change-in-the-international-monetary-system-challenges-for-central-banks.html",
+        "text": "30 November 2026 - 1 December 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "banco-espana"
+  },
+  {
+    "id": "event-e5a51339077afb",
+    "series_id": "es",
+    "name": "2027 North American Winter Meeting, Washington, DC",
+    "organizers": [
+      "Econometric Society"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-01-03",
+    "event_end": "2027-01-05",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2027/01/03/2027-North-American-Winter-Meeting-Washington-DC",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-e5a51339077afb-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2027/01/03/2027-North-American-Winter-Meeting-Washington-DC",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.econometricsociety.org/regional-activities/schedule/2027/01/03/2027-North-American-Winter-Meeting-Washington-DC",
+        "text": "take place in Washington, DC from January 3-5, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "es"
+  },
+  {
+    "id": "event-622e32b42a71b6",
+    "series_id": "laef",
+    "name": "2027 St. Louis Fed-Wash U-LAEF Macro-Labor Conference",
+    "organizers": [
+      "Laboratory for Aggregate Economics and Finance (UCSB)"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-08",
+    "event_end": "2027-04-09",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://laef.ucsb.edu/events/2027-st-louis-fed-wash-u-laef-macro-labor-conference",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-622e32b42a71b6-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://laef.ucsb.edu/events/2027-st-louis-fed-wash-u-laef-macro-labor-conference",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://laef.ucsb.edu/events/2027-st-louis-fed-wash-u-laef-macro-labor-conference",
+        "text": "2027 St. Louis Fed-Wash U-LAEF Macro-Labor Conference Image April 8, 2027 April 9, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "laef"
+  },
+  {
+    "id": "event-3e908f6393b9c7",
+    "series_id": null,
+    "name": "Bank Funding Conference: Bank Funding in the Age of Instant Finance",
+    "organizers": [
+      "Federal Reserve Bank of Dallas"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-13",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Macro-finance"
+    ],
+    "source_url": "https://www.dallasfed.org/events/2026/26bankfunding",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-3e908f6393b9c7-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.dallasfed.org/events/2026/26bankfunding",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.dallasfed.org/events/2026/26bankfunding",
+        "text": "Bank Funding Conference: Bank Funding in the Age of Instant Finance November 13, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "fed-dallas"
+  },
+  {
+    "id": "event-85aed126318fe8",
+    "series_id": null,
+    "name": "Micro-Macro Labor Economics Annual Conference",
+    "organizers": [
+      "Federal Reserve Bank of San Francisco"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-12-11",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.frbsf.org/news-and-media/events/conferences/2026/12/conference-micro-macro-labor-economics-2026/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-85aed126318fe8-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.frbsf.org/news-and-media/events/conferences/2026/12/conference-micro-macro-labor-economics-2026/",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.frbsf.org/news-and-media/events/conferences/2026/12/conference-micro-macro-labor-economics-2026/",
+        "text": "Conference Date Friday, Dec 11, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "fed-sanfrancisco"
+  },
+  {
+    "id": "event-26ceef8b6bb765",
+    "series_id": null,
+    "name": "19th Research Workshop Banco de España-CEMFI",
+    "organizers": [
+      "Banco de España"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-11-16",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro",
+      "Labour macro",
+      "Household finance"
+    ],
+    "source_url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/19th-research-workshop-banco-de-espana-cemfi.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-26ceef8b6bb765-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/19th-research-workshop-banco-de-espana-cemfi.html",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/19th-research-workshop-banco-de-espana-cemfi.html",
+        "text": "19th Research Workshop Banco de España-CEMFI Information 16 November 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "banco-espana"
+  },
+  {
+    "id": "event-80f17a3b20235e",
+    "series_id": null,
+    "name": "PhD Student Workshop on Microeconomic Policies & Economic Growth",
+    "organizers": [
+      "NBER"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-03-31",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Growth"
+    ],
+    "source_url": "https://www.nber.org/calls-papers-and-proposals/phd-student-workshop-microeconomic-policies-economic-growth",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-80f17a3b20235e-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.nber.org/calls-papers-and-proposals/phd-student-workshop-microeconomic-policies-economic-growth",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.nber.org/calls-papers-and-proposals/phd-student-workshop-microeconomic-policies-economic-growth",
+        "text": "PhD Student Workshop on Microeconomic Policies & Economic Growth March 31, 2027"
+      },
+      "deadline": null
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "nber-calls"
+  },
+  {
+    "id": "event-28c38e16830b23",
+    "series_id": "es",
+    "name": "2027 CSW Asia Meeting, Lahore, Pakistan",
+    "organizers": [
+      "Econometric Society"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-01-14",
+    "event_end": "2027-01-16",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2027/01/14/2027-CSW-Asia-Meeting-Lahore-Pakistan",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-28c38e16830b23-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2027/01/14/2027-CSW-Asia-Meeting-Lahore-Pakistan",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.econometricsociety.org/regional-activities/schedule/2027/01/14/2027-CSW-Asia-Meeting-Lahore-Pakistan",
+        "text": "take place at Lahore University of Management Sciences (LUMS) in Lahore, Pakistan. CSW-AMES: Jan 14-16, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "es"
+  },
+  {
+    "id": "event-737f04ec374986",
+    "series_id": "laef",
+    "name": "6th Labor Markets and Macroeconomic Outcomes",
+    "organizers": [
+      "Laboratory for Aggregate Economics and Finance (UCSB)"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-16",
+    "event_end": "2027-04-17",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro",
+      "Labour macro"
+    ],
+    "source_url": "https://laef.ucsb.edu/events/6th-labor-markets-and-macroeconomic-outcomes",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-737f04ec374986-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://laef.ucsb.edu/events/6th-labor-markets-and-macroeconomic-outcomes",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://laef.ucsb.edu/events/6th-labor-markets-and-macroeconomic-outcomes",
+        "text": "6th Labor Markets and Macroeconomic Outcomes Image April 16, 2027 April 17, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "laef"
+  },
+  {
+    "id": "event-34f5ade84759e9",
+    "series_id": null,
+    "name": "Call for Papers: 2026 Pacific Basin Research Conference",
+    "organizers": [
+      "Federal Reserve Bank of San Francisco"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-20",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro",
+      "Monetary policy",
+      "Fiscal policy",
+      "International macro",
+      "Growth"
+    ],
+    "source_url": "https://www.frbsf.org/news-and-media/events/center-pacific-basin-studies/2026/11/2026-pacific-basin-research-conference/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-34f5ade84759e9-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-08-15",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "closed",
+        "source_url": "https://www.frbsf.org/news-and-media/events/center-pacific-basin-studies/2026/11/2026-pacific-basin-research-conference/",
+        "evidence": {
+          "url": "https://www.frbsf.org/news-and-media/events/center-pacific-basin-studies/2026/11/2026-pacific-basin-research-conference/",
+          "text": "Submission deadline: August 15, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.frbsf.org/news-and-media/events/center-pacific-basin-studies/2026/11/2026-pacific-basin-research-conference/",
+        "text": "Conference Date Friday, Nov 20, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "fed-sanfrancisco"
+  },
+  {
+    "id": "event-8ce9e7d6587bf7",
+    "series_id": "es",
+    "name": "2027 Africa Meeting, Kampala, Uganda",
+    "organizers": [
+      "Econometric Society"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-06-02",
+    "event_end": "2027-06-05",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2027/06/02/2027-Africa-Meeting-Kampala-Uganda",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-8ce9e7d6587bf7-papers",
+        "kind": "Paper submission",
+        "deadline": "2026-11-15",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2027/06/02/2027-Africa-Meeting-Kampala-Uganda",
+        "evidence": {
+          "url": "https://www.econometricsociety.org/regional-activities/schedule/2027/06/02/2027-Africa-Meeting-Kampala-Uganda",
+          "text": "submission deadline of November 15, 2026"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.econometricsociety.org/regional-activities/schedule/2027/06/02/2027-Africa-Meeting-Kampala-Uganda",
+        "text": "take place from 2 June to 5 June 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "es"
+  },
+  {
+    "id": "event-0d8da8c5d8768d",
+    "series_id": "laef",
+    "name": "15th Advances in Macro-Finance Tepper-LAEF Conference at CMU",
+    "organizers": [
+      "Laboratory for Aggregate Economics and Finance (UCSB)"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-23",
+    "event_end": "2027-04-24",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro",
+      "Macro-finance"
+    ],
+    "source_url": "https://laef.ucsb.edu/events/15th-advances-macro-finance-tepper-laef-conference-cmu",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-0d8da8c5d8768d-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://laef.ucsb.edu/events/15th-advances-macro-finance-tepper-laef-conference-cmu",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://laef.ucsb.edu/events/15th-advances-macro-finance-tepper-laef-conference-cmu",
+        "text": "15th Advances in Macro-Finance Tepper-LAEF Conference at CMU Image April 23, 2027 April 24, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "laef"
+  },
+  {
+    "id": "event-952007788a6610",
+    "series_id": null,
+    "name": "Productivity and Jobs Task Force Conference",
+    "organizers": [
+      "Federal Reserve Bank of San Francisco"
+    ],
+    "event_type": "Conference",
+    "event_start": "2026-11-16",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "Growth"
+    ],
+    "source_url": "https://www.frbsf.org/news-and-media/events/2026/11/productivity-and-jobs-task-force-conference/",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-952007788a6610-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://www.frbsf.org/news-and-media/events/2026/11/productivity-and-jobs-task-force-conference/",
+        "evidence": null
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.frbsf.org/news-and-media/events/2026/11/productivity-and-jobs-task-force-conference/",
+        "text": "Conference Date Monday, Nov 16, 2026"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "fed-sanfrancisco"
+  },
+  {
+    "id": "event-3e9a28451fca0f",
+    "series_id": null,
+    "name": "Bonn–Oxford–European Commission Macro Workshop (in collaboration with CEPR): Uneven Impacts of Geoeconomic Shifts",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2026-12-03",
+    "event_end": "2026-12-04",
+    "city": "Brussels",
+    "country": "Belgium",
+    "region": "Europe",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://cepr.org/events/bonn-oxford-european-commission-macro-workshop-collaboration-cepr-uneven-impacts-geoeconomic",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-3e9a28451fca0f-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/bonn-oxford-european-commission-macro-workshop-collaboration-cepr-uneven-impacts-geoeconomic",
+        "evidence": null
+      }
+    ],
+    "notes": "Dates from the CEPR events feed. Check the event page for any call for papers.",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/rss/events",
+        "kind": "feed",
+        "item_url": "https://cepr.org/events/bonn-oxford-european-commission-macro-workshop-collaboration-cepr-uneven-impacts-geoeconomic",
+        "values": {
+          "event_start": "2026-12-03T00:00:00+0000",
+          "event_end": "2026-12-04T00:00:00+0000"
+        },
+        "text": "Bonn–Oxford–European Commission Macro Workshop (in collaboration with CEPR): Uneven Impacts of Geoeconomic Shifts: event_start 2026-12-03T00:00:00+0000; event_end 2026-12-04T00:00:00+0000"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "events feed",
+    "source_id": "cepr-rss"
+  },
+  {
+    "id": "event-513aff84aafbb1",
+    "series_id": "es",
+    "name": "2027 North American Summer Meeting, Baltimore, MD",
+    "organizers": [
+      "Econometric Society"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-06-10",
+    "event_end": "2027-06-13",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2027/06/10/2027-North-American-Summer-Meeting-Baltimore-MD",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-513aff84aafbb1-papers",
+        "kind": "Paper submission",
+        "deadline": "2027-02-01",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "not_yet_open",
+        "source_url": "https://www.econometricsociety.org/regional-activities/schedule/2027/06/10/2027-North-American-Summer-Meeting-Baltimore-MD",
+        "evidence": {
+          "url": "https://www.econometricsociety.org/regional-activities/schedule/2027/06/10/2027-North-American-Summer-Meeting-Baltimore-MD",
+          "text": "submission deadline of February 1, 2027"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.econometricsociety.org/regional-activities/schedule/2027/06/10/2027-North-American-Summer-Meeting-Baltimore-MD",
+        "text": "take place from June 10 to 13, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "es"
+  },
+  {
+    "id": "event-97e1610fdf6dca",
+    "series_id": "laef",
+    "name": "Workshop on Families and Intergenerational Macroeconomics",
+    "organizers": [
+      "Laboratory for Aggregate Economics and Finance (UCSB)"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-05-21",
+    "event_end": "2027-05-22",
+    "city": null,
+    "country": null,
+    "region": "Global",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://laef.ucsb.edu/events/workshop-families-and-intergenerational-macroeconomics",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-97e1610fdf6dca-papers",
+        "kind": "Paper submission",
+        "deadline": "2027-01-15",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://laef.ucsb.edu/events/workshop-families-and-intergenerational-macroeconomics",
+        "evidence": {
+          "url": "https://laef.ucsb.edu/events/workshop-families-and-intergenerational-macroeconomics",
+          "text": "closes January 15, 2027"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://laef.ucsb.edu/events/workshop-families-and-intergenerational-macroeconomics",
+        "text": "May 21-22, 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "laef"
+  },
+  {
+    "id": "event-587297463ef86a",
+    "series_id": null,
+    "name": "Workshop on International Macroeconomics and Finance 2027 – Call for papers",
+    "organizers": [
+      "European Central Bank"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-07-02",
+    "event_end": null,
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro",
+      "International macro"
+    ],
+    "source_url": "https://www.ecb.europa.eu/press/conferences/html/20270702_workshop_on_intl_macroeconomics_and_finance.en.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-587297463ef86a-papers",
+        "kind": "Paper submission",
+        "deadline": "2027-01-31",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.ecb.europa.eu/press/conferences/html/20270702_workshop_on_intl_macroeconomics_and_finance.en.html",
+        "evidence": {
+          "url": "https://www.ecb.europa.eu/press/conferences/html/20270702_workshop_on_intl_macroeconomics_and_finance.en.html",
+          "text": "Submission deadline: 31 January 2027"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.ecb.europa.eu/press/conferences/html/20270702_workshop_on_intl_macroeconomics_and_finance.en.html",
+        "text": "take place in Zurich on Friday, 2 July 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-017d041b619404",
+    "series_id": null,
+    "name": "Central Banking Research Workshop",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-02-18",
+    "event_end": "2027-02-19",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Asia",
+    "topics": [
+      "Monetary policy",
+      "Financial stability"
+    ],
+    "source_url": "https://cepr.org/events/central-banking-research-workshop",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-017d041b619404-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/central-banking-research-workshop",
+        "evidence": null
+      }
+    ],
+    "notes": "Dates from the CEPR events feed. Check the event page for any call for papers.",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/rss/events",
+        "kind": "feed",
+        "item_url": "https://cepr.org/events/central-banking-research-workshop",
+        "values": {
+          "event_start": "2027-02-18T00:00:00+0000",
+          "event_end": "2027-02-19T00:00:00+0000"
+        },
+        "text": "Central Banking Research Workshop: event_start 2027-02-18T00:00:00+0000; event_end 2027-02-19T00:00:00+0000"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "events feed",
+    "source_id": "cepr-rss"
+  },
+  {
+    "id": "event-c5d9535e3e0db5",
+    "series_id": null,
+    "name": "Fifth High-Level Conference on Global Risk, Uncertainty, and Volatility Risk and Uncertainty in an Era of Technological Transformation",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-05-11",
+    "event_end": "2027-05-12",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "region": "Europe",
+    "topics": [
+      "Growth"
+    ],
+    "source_url": "https://cepr.org/events/fifth-high-level-conference-global-risk-uncertainty-and-volatility-risk-and-uncertainty-era",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-c5d9535e3e0db5-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/fifth-high-level-conference-global-risk-uncertainty-and-volatility-risk-and-uncertainty-era",
+        "evidence": null
+      }
+    ],
+    "notes": "Dates from the CEPR events feed. Check the event page for any call for papers.",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/rss/events",
+        "kind": "feed",
+        "item_url": "https://cepr.org/events/fifth-high-level-conference-global-risk-uncertainty-and-volatility-risk-and-uncertainty-era",
+        "values": {
+          "event_start": "2027-05-11T01:00:00+0100",
+          "event_end": "2027-05-12T01:00:00+0100"
+        },
+        "text": "Fifth High-Level Conference on Global Risk, Uncertainty, and Volatility Risk and Uncertainty in an Era of Technological Transformation: event_start 2027-05-11T01:00:00+0100; event_end 2027-05-12T01:00:00+0100"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "events feed",
+    "source_id": "cepr-rss"
+  },
+  {
+    "id": "event-e0fc118b6b8e2e",
+    "series_id": null,
+    "name": "5th Bocconi-CEPR Finance Workshop: Banking and Corporate Finance",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Workshop",
+    "event_start": "2027-05-13",
+    "event_end": "2027-05-13",
+    "city": "Milan",
+    "country": "Italy",
+    "region": "Europe",
+    "topics": [
+      "Financial stability"
+    ],
+    "source_url": "https://cepr.org/events/5th-bocconi-cepr-finance-workshop-banking-and-corporate-finance",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-e0fc118b6b8e2e-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/5th-bocconi-cepr-finance-workshop-banking-and-corporate-finance",
+        "evidence": null
+      }
+    ],
+    "notes": "Dates from the CEPR events feed. Check the event page for any call for papers.",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/rss/events",
+        "kind": "feed",
+        "item_url": "https://cepr.org/events/5th-bocconi-cepr-finance-workshop-banking-and-corporate-finance",
+        "values": {
+          "event_start": "2027-05-13T01:00:00+0100",
+          "event_end": "2027-05-13T01:00:00+0100"
+        },
+        "text": "5th Bocconi-CEPR Finance Workshop: Banking and Corporate Finance: event_start 2027-05-13T01:00:00+0100; event_end 2027-05-13T01:00:00+0100"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "events feed",
+    "source_id": "cepr-rss"
+  },
+  {
+    "id": "event-18bc671d032fbe",
+    "series_id": null,
+    "name": "34th CEPR European Summer Symposium in International Macroeconomics (ESSIM)",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-05-26",
+    "event_end": "2027-05-28",
+    "city": "Tarragona",
+    "country": "Spain",
+    "region": "Europe",
+    "topics": [
+      "General macro",
+      "International macro"
+    ],
+    "source_url": "https://cepr.org/events/34th-cepr-european-summer-symposium-international-macroeconomics-essim",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-18bc671d032fbe-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/34th-cepr-european-summer-symposium-international-macroeconomics-essim",
+        "evidence": null
+      }
+    ],
+    "notes": "Dates from the CEPR events feed. Check the event page for any call for papers.",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/rss/events",
+        "kind": "feed",
+        "item_url": "https://cepr.org/events/34th-cepr-european-summer-symposium-international-macroeconomics-essim",
+        "values": {
+          "event_start": "2027-05-26T01:00:00+0100",
+          "event_end": "2027-05-28T01:00:00+0100"
+        },
+        "text": "34th CEPR European Summer Symposium in International Macroeconomics (ESSIM): event_start 2027-05-26T01:00:00+0100; event_end 2027-05-28T01:00:00+0100"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "events feed",
+    "source_id": "cepr-rss"
+  },
+  {
+    "id": "event-8b66cca0970b6f",
+    "series_id": null,
+    "name": "Subjective Expectations and Reality: What Have We Learned and What's Next?",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-06-17",
+    "event_end": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "region": "Europe",
+    "topics": [
+      "General macro"
+    ],
+    "source_url": "https://cepr.org/events/subjective-expectations-and-reality-what-have-we-learned-and-whats-next",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-8b66cca0970b6f-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/subjective-expectations-and-reality-what-have-we-learned-and-whats-next",
+        "evidence": null
+      }
+    ],
+    "notes": "Dates from the CEPR events feed. Check the event page for any call for papers.",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/rss/events",
+        "kind": "feed",
+        "item_url": "https://cepr.org/events/subjective-expectations-and-reality-what-have-we-learned-and-whats-next",
+        "values": {
+          "event_start": "2027-06-17T01:00:00+0100",
+          "event_end": "2027-06-18T01:00:00+0100"
+        },
+        "text": "Subjective Expectations and Reality: What Have We Learned and What's Next?: event_start 2027-06-17T01:00:00+0100; event_end 2027-06-18T01:00:00+0100"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-13T14:31:50+00:00",
+    "last_checked": "2026-11-13T14:31:50+00:00",
+    "last_verified": "2026-11-13T14:31:50+00:00",
+    "verification_method": "events feed",
+    "source_id": "cepr-rss"
   }
 ]
