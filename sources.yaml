@@ -12,108 +12,153 @@ sources:
   adapter: nber-json
   enabled: true
   max_pages: 2
+- id: cepr-rss
+  name: CEPR events feed
+  url: https://cepr.org/rss/events
+  adapter: cepr-rss
+  enabled: true
+  max_pages: 1
+  max_candidates: 200
+  organizer: CEPR
+  coverage_group: Feeds
 - id: cepr-calls
   name: CEPR calls for papers
   url: https://cepr.org/events/open-calls-papers
   adapter: cepr
-  enabled: true
+  enabled: false
   max_pages: 2
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: cepr-events
   name: CEPR forthcoming events
   url: https://cepr.org/events/forthcoming-events
   adapter: cepr
-  enabled: true
+  enabled: false
   max_pages: 7
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: cepr-heterogeneity
   name: Macroeconomic Policies with Heterogeneous Agents (3rd edition)
   url: https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: nber-isom
   name: 50th International Seminar on Macroeconomics
   url: https://www.nber.org/50th-annual-international-seminar-macroeconomics
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page; NBER editions arrive through nber-events and nber-calls.
 - id: nber-hf
   name: Household Finance Working Group Meeting
   url: https://www.nber.org/conferences/household-finance-working-group-meeting-fall-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page; NBER editions arrive through nber-events and nber-calls.
 - id: franco-german-fiscal
   name: Franco-German Fiscal Policy Seminar
   url: https://cepr.org/events/2026-franco-german-fiscal-policy-seminar
   adapter: watch
+  enabled: false
+  max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
+- id: sed
+  adapter: research-events
   enabled: true
   max_pages: 1
-- id: sed
+  series: true
+  series_id: sed
+  coverage_group: Conference series
+  max_candidates: 6
   name: Society for Economic Dynamics Annual Meeting
   url: https://economicdynamics.org/
-  adapter: watch
-  enabled: true
-  max_pages: 1
+  include_listing: true
+  event_name: SED Annual Meeting {year}
+  organizer: Society for Economic Dynamics
+  topics:
+  - General macro
+  - Computational macro
+  region: Global
 - id: res
-  name: Royal Economic Society Annual Conference
-  url: https://res.org.uk/event-listing/res2027/
-  adapter: watch
+  adapter: research-events
   enabled: true
   max_pages: 1
+  series: true
+  series_id: res
+  coverage_group: Conference series
+  max_candidates: 6
+  name: Royal Economic Society Annual Conference
+  url: https://res.org.uk/events/
+  link_pattern: ^/event-listing/res-?20\d\d(?:-annual-conference)?/?$
+  event_name: RES Annual Conference {year}
+  organizer: Royal Economic Society
+  topics:
+  - General macro
+  region: Europe
 - id: cepr-hf
   name: CEPR European Conference on Household Finance
   url: https://cepr.org/events/cepr-european-conference-household-finance-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: cepr-mef
   name: CEPR Monetary Economics and Fluctuations Symposium
   url: https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: cepr-imf
   name: CEPR International Macroeconomics and Finance Programme Meeting
   url: https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: cepr-mg
   name: CEPR Macroeconomics and Growth Annual Symposium
   url: https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: cepr-ireland
   name: Macro-Finance and Financial Stability Policies
   url: https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: empirical-monetary
   name: Workshop on Empirical Monetary Economics
   url: https://cepr.org/events/workshop-empirical-monetary-economics-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: cepr-paris
   name: CEPR Paris Symposium
   url: https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: cepr-finland
   name: Navigating Monetary Policy by the Northern Lights
   url: https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: steg
   name: STEG Annual Conference and Theme Workshops
   url: https://cepr.org/events/steg-annual-conference-theme-workshops-2027
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: rba-quant
   name: RBA Quantitative Macroeconomics Workshop
   url: https://www.rba.gov.au/publications/workshops/research/
@@ -125,77 +170,146 @@ sources:
   max_candidates: 8
   coverage_group: Central banks and e61
 - id: cem
-  name: Continuing Education in Macroeconometrics Workshop
-  url: https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/
-  adapter: watch
+  adapter: research-events
   enabled: true
   max_pages: 1
+  series: true
+  series_id: cem
+  coverage_group: Conference series
+  max_candidates: 6
+  name: Continuing Education in Macroeconometrics Workshop
+  url: https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/
+  link_pattern: ^/publications/workshops/(?:continuing-education-macroeconometrics|women-in-macroeconomics-workshop)/20\d\d/$
+  organizer: Reserve Bank of Australia
+  topics:
+  - Computational macro
+  region: Oceania
 - id: nber-macroannual
   name: NBER Annual Conference on Macroeconomics
   url: https://www.nber.org/conferences/annual-conference-macroeconomics-2027
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page; NBER editions arrive through nber-events and nber-calls.
 - id: nber-ifm
   name: International Finance and Macroeconomics Program Meeting
   url: https://www.nber.org/conferences/international-finance-and-macroeconomics-program-meeting-fall-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page; NBER editions arrive through nber-events and nber-calls.
 - id: imf-polak
   name: Jacques Polak Annual Research Conference
   url: https://www.imf.org/en/news/seminars/conferences/2026/11/12/2026-jacques-polak-annual-research-conference
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page with no stable series index found yet; edition pages go stale each
+    year.
 - id: cebra
-  name: CEBRA Annual Meeting
-  url: https://cebra.org/events/annual-meeting/
-  adapter: watch
+  adapter: research-events
   enabled: true
   max_pages: 1
+  series: true
+  series_id: cebra
+  coverage_group: Conference series
+  max_candidates: 6
+  name: CEBRA Annual Meeting
+  url: https://cebra.org/call-for-papers/
+  include_listing: true
+  event_name: CEBRA Annual Meeting {year}
+  organizer: Central Bank Research Association
+  topics:
+  - Monetary policy
+  - Financial stability
+  region: Global
 - id: sce
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  series: true
+  series_id: sce
+  coverage_group: Conference series
+  max_candidates: 6
   name: Computing in Economics and Finance
   url: https://comp-econ.com/
-  adapter: watch
+  link_pattern: ^/(?:\d+(?:st|nd|rd|th)-cef-conference|save-the-date-\d+(?:st|nd|rd|th)-annual-conference)/?$
+  event_name: Computing in Economics and Finance (CEF) {year}
+  organizer: Society for Computational Economics
+  topics:
+  - Computational macro
+  region: Global
+- id: wams
+  adapter: research-events
   enabled: true
   max_pages: 1
-- id: wams
+  series: true
+  series_id: wams
+  coverage_group: Conference series
+  max_candidates: 6
   name: Workshop of the Australasian Macroeconomics Society
   url: https://www.ausmacro.com/workshops/
-  adapter: watch
-  enabled: true
-  max_pages: 1
+  include_listing: true
+  event_name: Workshop of the Australasian Macroeconomics Society {year}
+  organizer: Australasian Macroeconomics Society
+  topics:
+  - General macro
+  region: Oceania
 - id: netspar
-  name: Netspar International Pension Workshop
-  url: https://www.netspar.nl/agenda/ipw-international-pension-workshop-2026/
-  adapter: watch
+  adapter: research-events
   enabled: true
   max_pages: 1
+  series: true
+  series_id: netspar
+  coverage_group: Conference series
+  max_candidates: 6
+  name: Netspar International Pension Workshop
+  url: https://www.netspar.nl/agenda/
+  link_pattern: ^/agenda/(?:ipw-|international-pension-workshop)
+  organizer: Netspar
+  topics:
+  - Pensions and retirement
+  region: Europe
 - id: bse-macrofinance
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  series: true
+  series_id: bse-macrofinance
+  coverage_group: Conference series
+  max_candidates: 6
   name: 'BSE Summer Forum: Macroeconomics and Finance'
   url: https://bse.eu/summer-forum/workshops/macroeconomics-and-finance
-  adapter: watch
-  enabled: true
-  max_pages: 1
+  include_listing: true
+  event_name: 'BSE Summer Forum: Macroeconomics and Finance {year}'
+  organizer: Barcelona School of Economics
+  topics:
+  - General macro
+  - Macro-finance
+  region: Europe
 - id: bse-macrodevelopment
   name: 'BSE Summer Forum: Macro-development'
   url: https://sites.google.com/bse.eu/summerforum2026/home
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page with no stable series index found yet; edition pages go stale each
+    year.
 - id: midwest
   name: Midwest Macroeconomics Meetings
   url: https://www.depts.ttu.edu/economics/news-announcements/midwest-macroeconomics-meetings-2026.php
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page with no stable series index found yet; edition pages go stale each
+    year.
 - id: nber-si
   name: 'NBER Summer Institute: macro programmes'
   url: https://www.nber.org/conferences/summer-institute-2026
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page; NBER editions arrive through nber-events and nber-calls.
 - id: ecb-annual
   name: European Central Bank conferences
   url: https://www.ecb.europa.eu/press/conferences/html/index.en.html
@@ -210,38 +324,70 @@ sources:
   name: International Pension Research Association Conference
   url: https://www.cepar.edu.au/event/12th-international-pension-research-association-ipra-conference
   adapter: watch
-  enabled: true
+  enabled: false
   max_pages: 1
+  disabled_reason: Single-edition page with no stable series index found yet; edition pages go stale each
+    year.
 - id: ifs-hf
   name: LSE–IFS–UCL–CEPR–Imperial Household Finance Workshop
   url: https://ifs.org.uk/events/lse-ifs-ucl-cepr-imperial-business-school-workshop-household-finance-0
   adapter: watch
+  enabled: false
+  max_pages: 1
+  disabled_reason: Returns 403 to automated requests.
+- id: eea
+  adapter: research-events
   enabled: true
   max_pages: 1
-- id: eea
-  name: EEA Congress
+  series: true
+  series_id: eea
+  coverage_group: Conference series
+  max_candidates: 6
+  name: EEA Congress (EEA-ESEM)
   url: https://www.eeassoc.org/
-  adapter: watch
-  enabled: false
-  max_pages: 1
+  link_pattern: ^/events/eea-esem-[a-z-]*20\d\d/?$
+  organizer: European Economic Association / Econometric Society
+  topics:
+  - General macro
+  region: Europe
 - id: es
-  name: Econometric Society regional meetings
-  url: https://www.econometricsociety.org/
-  adapter: watch
-  enabled: false
+  adapter: research-events
+  enabled: true
   max_pages: 1
+  series: true
+  series_id: es
+  coverage_group: Conference series
+  max_candidates: 12
+  name: Econometric Society regional meetings
+  url: https://www.econometricsociety.org/regional-activities/schedule
+  link_pattern: ^/regional-activities/schedule/20\d\d/\d\d/\d\d/[^/]*(?:Meeting|Conference)
+  organizer: Econometric Society
+  topics:
+  - General macro
+  region: Global
 - id: aea
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  series: true
+  series_id: aea
+  coverage_group: Conference series
+  max_candidates: 6
   name: ASSA / AEA Annual Meeting
   url: https://www.aeaweb.org/conference/
-  adapter: watch
-  enabled: false
-  max_pages: 1
+  include_listing: true
+  event_name: ASSA Annual Meeting {year}
+  organizer: Allied Social Science Associations
+  topics:
+  - General macro
+  region: North America
 - id: essim
   name: European Summer Symposium in International Macroeconomics
   url: https://cepr.org/events
   adapter: watch
   enabled: false
   max_pages: 1
+  disabled_reason: CEPR event pages return 403 to automated requests; CEPR events arrive through cepr-rss.
 - id: carnegie
   name: Carnegie-Rochester-NYU Conference
   url: https://www.carnegie-rochester.rochester.edu/
@@ -249,17 +395,35 @@ sources:
   enabled: false
   max_pages: 1
 - id: eabcn
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  series: true
+  series_id: eabcn
+  coverage_group: Conference series
+  max_candidates: 6
   name: EABCN research conferences
-  url: https://eabcn.org/
-  adapter: watch
-  enabled: false
-  max_pages: 1
+  url: https://eabcn.org/events/conferences
+  link_pattern: ^/event/\d+/?$
+  organizer: EABCN
+  topics:
+  - Business cycles
+  region: Europe
 - id: laef
-  name: LAEF research conferences
-  url: https://laef.ucsb.edu/
-  adapter: watch
-  enabled: false
+  adapter: research-events
+  enabled: true
   max_pages: 1
+  series: true
+  series_id: laef
+  coverage_group: Conference series
+  max_candidates: 10
+  name: LAEF research conferences
+  url: https://laef.ucsb.edu/conferences
+  link_pattern: ^/events/[^/]+/?$
+  organizer: Laboratory for Aggregate Economics and Finance (UCSB)
+  topics:
+  - General macro
+  region: Global
 - id: boe
   name: Bank of England
   url: https://www.bankofengland.co.uk/news/events
@@ -270,8 +434,8 @@ sources:
   max_candidates: 8
   link_pattern: /events/20\d{2}/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-board
   name: Federal Reserve Board
@@ -283,8 +447,8 @@ sources:
   max_candidates: 8
   link_pattern: /conferences/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-boston
   name: Federal Reserve Bank of Boston
@@ -296,8 +460,8 @@ sources:
   max_candidates: 8
   link_pattern: /events/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-newyork
   name: Federal Reserve Bank of New York
@@ -309,8 +473,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:research/conference|newsevents/events)/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-philadelphia
   name: Federal Reserve Bank of Philadelphia
@@ -322,22 +486,23 @@ sources:
   max_candidates: 8
   link_pattern: /calendar-of-events/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-cleveland
   name: Federal Reserve Bank of Cleveland
   url: https://www.clevelandfed.org/events
   organizer: Federal Reserve Bank of Cleveland
   adapter: research-events
-  enabled: true
+  enabled: false
   max_pages: 1
   max_candidates: 8
   link_pattern: /events/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
+  disabled_reason: Listing is rendered by JavaScript; the HTML has no events.
 - id: fed-richmond
   name: Federal Reserve Bank of Richmond
   url: https://www.richmondfed.org/conferences_and_events
@@ -348,8 +513,8 @@ sources:
   max_candidates: 8
   link_pattern: /conferences_and_events/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-atlanta
   name: Federal Reserve Bank of Atlanta
@@ -361,8 +526,8 @@ sources:
   max_candidates: 8
   link_pattern: /events/20\d{2}/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-chicago
   name: Federal Reserve Bank of Chicago
@@ -374,8 +539,8 @@ sources:
   max_candidates: 8
   link_pattern: /events/20\d{2}/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-stlouis
   name: Federal Reserve Bank of St. Louis
@@ -387,8 +552,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:research|events)/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: fed-minneapolis
   name: Federal Reserve Bank of Minneapolis
@@ -400,8 +565,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:events|conferences|institute)/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
   listing_urls:
   - https://www.minneapolisfed.org/institute/conferences
@@ -415,8 +580,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:research|events)/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
   listing_urls:
   - https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
@@ -430,8 +595,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:research/events|events)/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
   listing_urls:
   - https://www.dallasfed.org/research/events
@@ -445,8 +610,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:news-and-media/events|economic-research/events)/
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: bank-canada
   name: Bank of Canada
@@ -458,22 +623,23 @@ sources:
   max_candidates: 8
   link_pattern: /(?:20\d{2}/|research/)
   region: North America
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: rbnz
   name: Reserve Bank of New Zealand
   url: https://www.rbnz.govt.nz/research-and-publications/research
   organizer: Reserve Bank of New Zealand
   adapter: research-events
-  enabled: true
+  enabled: false
   max_pages: 1
   max_candidates: 8
   link_pattern: /(?:research|news-and-events|events)/
   region: Oceania
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
+  disabled_reason: Returns 403 to automated requests.
 - id: bis-research
   name: Bank for International Settlements
   url: https://www.bis.org/forum/research.htm
@@ -484,8 +650,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:events|forum|am_conferences)/
   region: Global
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: bis-events
   name: BIS events
@@ -497,8 +663,8 @@ sources:
   max_candidates: 8
   link_pattern: /events/
   region: Global
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: bis-americas
   name: BIS Americas research conferences
@@ -510,8 +676,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:events|am_conferences)/
   region: Global
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: bundesbank
   name: Deutsche Bundesbank
@@ -523,8 +689,8 @@ sources:
   max_candidates: 8
   link_pattern: /research/conferences/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: banque-france
   name: Banque de France
@@ -536,8 +702,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:events|evenements|conferences|publications-and-research)/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: banca-italia
   name: Banca d’Italia
@@ -549,8 +715,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:media/agenda|pubblicazioni/altri-atti-convegni)/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: banco-espana
   name: Banco de España
@@ -562,8 +728,8 @@ sources:
   max_candidates: 8
   link_pattern: /conferencias/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: snb
   name: Swiss National Bank
@@ -575,8 +741,8 @@ sources:
   max_candidates: 8
   link_pattern: /services-events/events/scientific-conferences/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: riksbank
   name: Sveriges Riksbank
@@ -588,8 +754,8 @@ sources:
   max_candidates: 8
   link_pattern: /conferences/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: norges
   name: Norges Bank
@@ -601,8 +767,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:Conferences|conferences)/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: bank-finland
   name: Bank of Finland
@@ -614,8 +780,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:events|seminars-and-conferences)/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: dnb
   name: De Nederlandsche Bank
@@ -627,8 +793,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:research|events|general-news)/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
   listing_urls:
   - https://www.dnb.nl/en/research/dnb-research-conferences/annual-research-conferences/
@@ -638,14 +804,15 @@ sources:
   url: https://www.oenb.at/Termine.html
   organizer: Oesterreichische Nationalbank
   adapter: research-events
-  enabled: true
+  enabled: false
   max_pages: 1
   max_candidates: 8
   link_pattern: /(?:Termine|en/Calendar|en/Monetary-Policy)/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
+  disabled_reason: Listing URL returns 404 since late 2026; no replacement listing found yet.
 - id: bank-ireland
   name: Central Bank of Ireland
   url: https://www.centralbank.ie/research-exchange/research-engagement-programme/research-events-seminars
@@ -656,8 +823,8 @@ sources:
   max_candidates: 8
   link_pattern: /(?:events|research-exchange)/
   region: Europe
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
 - id: e61
   name: e61 Institute
@@ -669,6 +836,57 @@ sources:
   max_candidates: 8
   link_pattern: /events/
   region: Oceania
-  scope: Academic macro, household finance and pensions conferences; excludes speeches,
-    press briefings, training and standalone seminars.
+  scope: Academic macro, household finance and pensions conferences; excludes speeches, press briefings,
+    training and standalone seminars.
   coverage_group: Central banks and e61
+- id: miami-macro
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  series: true
+  series_id: miami-macro
+  coverage_group: Conference series
+  max_candidates: 4
+  name: Miami Macro
+  url: https://www.noahwilliams.xyz/conferences
+  link_pattern: ^/conferences/(?:miamimacro|mfp-miami)\d{2}/?$
+  event_name: Miami Macro {year}
+  organizer: University of Miami
+  topics:
+  - General macro
+  - Monetary policy
+  - Fiscal policy
+  region: North America
+- id: mmf
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  series: true
+  series_id: mmf
+  coverage_group: Conference series
+  max_candidates: 6
+  name: Money, Macro and Finance Society Annual Conference
+  url: https://mmf.ac.uk/
+  link_pattern: ^/conference/20\d\d-conference/?$
+  event_name: MMF Annual Conference {year}
+  organizer: Money, Macro and Finance Society
+  topics:
+  - General macro
+  - Monetary policy
+  region: Europe
+- id: boulder
+  adapter: research-events
+  enabled: true
+  max_pages: 1
+  series: true
+  series_id: boulder
+  coverage_group: Conference series
+  max_candidates: 6
+  name: Boulder Summer Conference on Consumer Financial Decision Making
+  url: https://www.colorado.edu/business/centers/center-research-consumer-financial-decision-making/boulder-summer-conference
+  include_listing: true
+  event_name: Boulder Summer Conference on Consumer Financial Decision Making {year}
+  organizer: University of Colorado Boulder
+  topics:
+  - Household finance
+  region: North America
