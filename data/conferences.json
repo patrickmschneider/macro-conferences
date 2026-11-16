@@ -4243,7 +4243,10 @@
     "last_checked": "2026-11-13T14:31:50+00:00",
     "last_verified": "2026-11-13T14:31:50+00:00",
     "verification_method": "deterministic source extraction",
-    "source_id": "nber-calls"
+    "source_id": "nber-calls",
+    "supporting_urls": [
+      "https://www.nber.org/conferences/phd-student-workshop-microeconomic-policies-economic-growth-spring-2027"
+    ]
   },
   {
     "id": "event-28c38e16830b23",
