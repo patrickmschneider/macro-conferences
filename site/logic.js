@@ -11,7 +11,8 @@ export function effectiveState(call,now=new Date()) {
 }
 export function actionable(event,call,now=new Date()){
  const age=(now-new Date(event.last_verified))/86400000;
- return effectiveState(call,now)==='open' && !!call.deadline && event.health!=='needs_verification' && event.event_state==='announced' && age<=14;
+ // A call that opens later but already states its deadline is actionable too; the table labels it.
+ return ['open','not_yet_open'].includes(effectiveState(call,now)) && !!call.deadline && event.health!=='needs_verification' && event.event_state==='announced' && age<=14;
 }
 export function filtered(items,{search='',topic='',region='',organizer=''}={}){
  const words=search.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);

@@ -12,7 +12,7 @@
     "url": "https://cepr.org/events/macroeconomic-policies-heterogeneous-agents-3rd-edition",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "nber-isom",
@@ -52,7 +52,7 @@
     "url": "https://cepr.org/events/2026-franco-german-fiscal-policy-seminar",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "sed",
@@ -67,7 +67,7 @@
     "url": "https://economicdynamics.org/",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "series index"
   },
   {
     "id": "res",
@@ -77,10 +77,10 @@
       "General macro"
     ],
     "region": "Europe",
-    "url": "https://res.org.uk/event-listing/res2027/",
+    "url": "https://res.org.uk/events/",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "series index"
   },
   {
     "id": "cepr-hf",
@@ -93,7 +93,7 @@
     "url": "https://cepr.org/events/cepr-european-conference-household-finance-2026",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "cepr-mef",
@@ -107,7 +107,7 @@
     "url": "https://cepr.org/events/event-series/monetary-economics-and-fluctuations-programme-annual-meeting/cepr-annual-0",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "cepr-imf",
@@ -121,7 +121,7 @@
     "url": "https://cepr.org/events/cepr-international-macroeconomics-and-finance-imf-programme-meeting-2026",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "cepr-mg",
@@ -135,7 +135,7 @@
     "url": "https://cepr.org/events/cepr-macroeconomics-and-growth-annual-symposium-2026",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "cepr-ireland",
@@ -149,7 +149,7 @@
     "url": "https://cepr.org/events/central-bank-ireland-ucd-cepr-conference-macro-finance-and-financial-stability-policies-2026",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "empirical-monetary",
@@ -163,7 +163,7 @@
     "url": "https://cepr.org/events/workshop-empirical-monetary-economics-2026",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "cepr-paris",
@@ -176,7 +176,7 @@
     "url": "https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2026",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "cepr-finland",
@@ -190,7 +190,7 @@
     "url": "https://cepr.org/events/bank-finland-and-cepr-joint-conference-navigating-monetary-policy-northern-lights",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "steg",
@@ -203,7 +203,7 @@
     "url": "https://cepr.org/events/steg-annual-conference-theme-workshops-2027",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "rba-quant",
@@ -229,10 +229,10 @@
       "Business cycles"
     ],
     "region": "Oceania",
-    "url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/2026/",
+    "url": "https://www.rba.gov.au/publications/workshops/continuing-education-macroeconometrics/",
     "inclusion_rationale": "Established academic meeting organised by the named research institution or network; edition and research scope verified against its announcement.",
     "review_status": "verified",
-    "monitoring": "edition checks"
+    "monitoring": "series index"
   },
   {
     "id": "nber-macroannual",
@@ -283,10 +283,10 @@
       "Financial stability"
     ],
     "region": "Global",
-    "url": "https://cebra.org/events/annual-meeting/",
+    "url": "https://cebra.org/call-for-papers/",
     "inclusion_rationale": "Central-bank research association; academic committee and contributed research programme.",
     "review_status": "verified",
-    "monitoring": "discovery pilot"
+    "monitoring": "series index"
   },
   {
     "id": "sce",
@@ -299,7 +299,7 @@
     "url": "https://comp-econ.com/",
     "inclusion_rationale": "Scientific society devoted to computational economics, including dynamic macroeconomic systems.",
     "review_status": "verified",
-    "monitoring": "discovery pilot"
+    "monitoring": "series index"
   },
   {
     "id": "wams",
@@ -313,7 +313,7 @@
     "url": "https://www.ausmacro.com/workshops/",
     "inclusion_rationale": "Long-running macro workshop with university hosts and established macro researchers as invited speakers.",
     "review_status": "verified",
-    "monitoring": "discovery pilot"
+    "monitoring": "series index"
   },
   {
     "id": "netspar",
@@ -324,10 +324,10 @@
       "Household finance"
     ],
     "region": "Europe",
-    "url": "https://www.netspar.nl/agenda/ipw-international-pension-workshop-2026/",
+    "url": "https://www.netspar.nl/agenda/",
     "inclusion_rationale": "Specialist academic pension network with contributed research on saving, retirement and pension policy.",
     "review_status": "verified",
-    "monitoring": "discovery pilot"
+    "monitoring": "series index"
   },
   {
     "id": "bse-macrofinance",
@@ -341,7 +341,7 @@
     "url": "https://bse.eu/summer-forum/workshops/macroeconomics-and-finance",
     "inclusion_rationale": "Specialist research workshop in the BSE Summer Forum.",
     "review_status": "verified",
-    "monitoring": "discovery pilot"
+    "monitoring": "series index"
   },
   {
     "id": "bse-macrodevelopment",
@@ -435,9 +435,9 @@
     ],
     "region": "Global",
     "url": "https://www.eeassoc.org/",
-    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
-    "review_status": "pending",
-    "monitoring": "not yet automated"
+    "inclusion_rationale": "Flagship or established academic meeting; series page and current edition checked against the primary source on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "series index"
   },
   {
     "id": "es",
@@ -447,10 +447,10 @@
       "General macro"
     ],
     "region": "Global",
-    "url": "https://www.econometricsociety.org/",
-    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
-    "review_status": "pending",
-    "monitoring": "not yet automated"
+    "url": "https://www.econometricsociety.org/regional-activities/schedule",
+    "inclusion_rationale": "Flagship or established academic meeting; series page and current edition checked against the primary source on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "series index"
   },
   {
     "id": "aea",
@@ -461,9 +461,9 @@
     ],
     "region": "Global",
     "url": "https://www.aeaweb.org/conference/",
-    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
-    "review_status": "pending",
-    "monitoring": "not yet automated"
+    "inclusion_rationale": "Flagship or established academic meeting; series page and current edition checked against the primary source on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "series index"
   },
   {
     "id": "essim",
@@ -475,9 +475,9 @@
     ],
     "region": "Global",
     "url": "https://cepr.org/events",
-    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
-    "review_status": "pending",
-    "monitoring": "not yet automated"
+    "inclusion_rationale": "CEPR flagship international macro meeting (IMF, MEF and MG programmes); 2027 edition confirmed in the CEPR events feed on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "CEPR events feed"
   },
   {
     "id": "carnegie",
@@ -502,10 +502,10 @@
       "Monetary policy"
     ],
     "region": "Global",
-    "url": "https://eabcn.org/",
-    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
-    "review_status": "pending",
-    "monitoring": "not yet automated"
+    "url": "https://eabcn.org/events/conferences",
+    "inclusion_rationale": "Flagship or established academic meeting; series page and current edition checked against the primary source on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "series index"
   },
   {
     "id": "laef",
@@ -516,10 +516,10 @@
       "Labour macro"
     ],
     "region": "Global",
-    "url": "https://laef.ucsb.edu/",
-    "inclusion_rationale": "Priority coverage lead; primary announcement channel and current programme still need review.",
-    "review_status": "pending",
-    "monitoring": "not yet automated"
+    "url": "https://laef.ucsb.edu/conferences",
+    "inclusion_rationale": "Flagship or established academic meeting; series page and current edition checked against the primary source on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "series index"
   },
   {
     "id": "e61-m4m",
@@ -535,5 +535,48 @@
     "inclusion_rationale": "Academic micro-to-macro research meeting; the 2026 programme includes Kaplan, Nakamura, Steinsson and Violante.",
     "review_status": "verified",
     "monitoring": "institutional event discovery"
+  },
+  {
+    "id": "miami-macro",
+    "name": "Miami Macro",
+    "organizer": "University of Miami, Department of Economics",
+    "topics": [
+      "General macro",
+      "Monetary policy",
+      "Fiscal policy"
+    ],
+    "region": "North America",
+    "url": "https://www.noahwilliams.xyz/conferences",
+    "inclusion_rationale": "Annual one-day macro conference with an open call for papers and a named lecture; 2025–2027 editions checked on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "series index"
+  },
+  {
+    "id": "mmf",
+    "name": "Money, Macro and Finance Society Annual Conference",
+    "organizer": "Money, Macro and Finance Society",
+    "topics": [
+      "General macro",
+      "Monetary policy",
+      "Macro-finance"
+    ],
+    "region": "Europe",
+    "url": "https://mmf.ac.uk/",
+    "inclusion_rationale": "Long-running UK academic macro and monetary conference with an open call; series page checked on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "series index"
+  },
+  {
+    "id": "boulder",
+    "name": "Boulder Summer Conference on Consumer Financial Decision Making",
+    "organizer": "University of Colorado Boulder",
+    "topics": [
+      "Household finance"
+    ],
+    "region": "North America",
+    "url": "https://www.colorado.edu/business/centers/center-research-consumer-financial-decision-making/boulder-summer-conference",
+    "inclusion_rationale": "Established household finance conference with an annual open call; series page checked on 13 November 2026.",
+    "review_status": "verified",
+    "monitoring": "series index"
   }
 ]

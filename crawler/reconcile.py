@@ -48,4 +48,12 @@ def duplicate(a,b):
   return re.sub(r'[^a-z0-9]','',s.lower())
  orgs_a={v.strip().casefold() for x in a['organizers'] for v in x.split('/')}
  orgs_b={v.strip().casefold() for x in b['organizers'] for v in x.split('/')}
- return title(a['name'])==title(b['name']) and a['event_start']==b['event_start'] and bool(orgs_a & orgs_b)
+ if not a['event_start'] or a['event_start']!=b['event_start']:return False
+ # Two pages of one monitored series starting the same day are one edition.
+ if a.get('series_id') and a.get('series_id')==b.get('series_id'):return True
+ ta,tb=title(a['name']),title(b['name']);short=min(len(ta),len(tb))
+ # Co-organised events are announced by each partner under slightly different titles
+ # ("Bank of Finland and CEPR Joint Conference on X" / "X"). Same start date plus one
+ # title containing the other is decisive only for titles long enough to be specific.
+ same=ta==tb or (short>=25 and (ta in tb or tb in ta))
+ return same and (bool(orgs_a & orgs_b) or short>=20)
