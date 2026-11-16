@@ -3,13 +3,13 @@
     "url": "https://www.newyorkfed.org/newsevents/events/markets/2026/1116-2026",
     "source": "fed-newyork",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-12T15:26:53+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.richmondfed.org/conferences_and_events/exploring_economics",
     "source": "fed-richmond",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-09-17-2026-macro-trade-workshop.pdf",
@@ -27,19 +27,19 @@
     "url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/economic-symposium-conference-proceedings/",
     "source": "fed-kansascity",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bankofcanada.ca/wp-content/uploads/2025/11/econdat-fall-2025-meeting.pdf",
     "source": "bank-canada",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bis.org/events/20271021-conference-use-financial-statements-compiling-official-statistics",
     "source": "bis-events",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/conference-diversity-equity-and-inclusion-economics-finance-and-central-banking-0",
@@ -51,49 +51,49 @@
     "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/5th-banco-de-espana-cemfi-uimp-conference-on-the-spanish-economy-housing-and-institutions-challenges-and-opportunities-for-spain.html",
     "source": "banco-espana",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.snb.ch/en/services-events/events/scientific-conferences/snb_research_conference/sem_2026_10_02",
     "source": "snb",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.norges-bank.no/en/topics/Research/Conferences/conference-heterogeneity-expectations-and-economic-adjustment/",
     "source": "norges",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.suomenpankki.fi/en/news-and-topical/events/calendar/?c=16",
     "source": "bank-finland",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.dnb.nl/en/research/dnb-research-conferences/annual-research-conferences/",
     "source": "dnb",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.centralbank.ie/docs/default-source/financial-system/financial-stability/events/2015/banking-credit-and-macro-prudential-policy/workshop-programme.pdf?sfvrsn=255da41d_4",
     "source": "bank-ireland",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.philadelphiafed.org/calendar-of-events/higher-education-finance-research-conference",
     "source": "fed-philadelphia",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.richmondfed.org/conferences_and_events/2026/202608_coreweek",
     "source": "fed-richmond",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-05-14-2026-firm-dynamics-macroeconomics.pdf",
@@ -111,31 +111,31 @@
     "url": "https://www.frbsf.org/news-and-media/events/conferences/2026/10/conference-on-macro-finance-research-2026/",
     "source": "fed-sanfrancisco",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/evento-conmemorativo-del-25-aniversario-de-la-revista-de-estabilidad-financiera.html",
     "source": "banco-espana",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.norges-bank.no/en/topics/Research/Conferences/conference-rome-october/",
     "source": "norges",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-workshops/",
     "source": "dnb",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-04-02-2026-macro-labor-conference.pdf",
     "source": "fed-stlouis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-10T15:03:13+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/macroeconomic-policy-perspectives",
@@ -147,7 +147,7 @@
     "url": "https://www.dallasfed.org/events/2026/26international",
     "source": "fed-dallas",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/12th-bdf-boe-bdi-international-macroeconomics-workshop-new-risks-international-macro-and-finance",
@@ -159,31 +159,31 @@
     "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/joint-13th-cepr-economic-history-symposium--11th-banco-de-espana-economic-history-seminar.html",
     "source": "banco-espana",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.riksbank.se/en-gb/press-and-published/conferences/20262/fifth-phd-workshop-in-money-and-finance-may-19th-2026/",
     "source": "riksbank",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.norges-bank.no/en/topics/Research/Conferences/norges-bank-research-workshop--women-in-central-banking/",
     "source": "norges",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.newyorkfed.org/newsevents/events/regional_outreach/2026/0930-2026",
     "source": "fed-newyork",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-12T15:26:53+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.philadelphiafed.org/calendar-of-events/the-sixth-biennial-conference-on-auto-lending",
     "source": "fed-philadelphia",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-11-1314-2025-macro.pdf?sc_lang=en&hash=ED002C926CF491F76CC598E60D72293F",
@@ -207,13 +207,13 @@
     "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/1st-workshop-on-financial-intermediation--banco-de-espana.html",
     "source": "banco-espana",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.norges-bank.no/en/topics/Research/Conferences/business-cycles-in-small-open-economies/",
     "source": "norges",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.newyorkfed.org/newsevents/events/markets/2026/0922-2026",
@@ -237,7 +237,7 @@
     "url": "https://www.dallasfed.org/research/events/2026/26globalhousing",
     "source": "fed-dallas",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/role-protectionism-and-fragmentation-macroeconomics",
@@ -249,19 +249,19 @@
     "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/18th-research-workshop-banco-de-espana-cemfi.html",
     "source": "banco-espana",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.norges-bank.no/en/topics/about/conferences/",
     "source": "norges",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-workshops/13-february-2026-dnb-labour-market-network-event/",
     "source": "dnb",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-10102025-human-capital-macroeconomics.pdf?sc_lang=en&hash=F83BB505E254E4EA92BF1D90EA370797",
@@ -272,8 +272,8 @@
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/system-applied-microeconomics-conference",
     "source": "fed-minneapolis",
-    "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-09T16:39:58+00:00"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/workshop-international-capital-flows-and-financial-policies-0",
@@ -285,7 +285,7 @@
     "url": "https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/joint-4th-annual-workshop-of-the-escb-research-cluster-on-climate-change--and-ngfs-expert-network-on-research.html",
     "source": "banco-espana",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-09-1819-2025-macro-trade-workshop.pdf?sc_lang=en&hash=2B686B220571B38CB85FE09F5E48F9CE",
@@ -296,8 +296,8 @@
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/recursive-methods-in-economic-dynamics",
     "source": "fed-minneapolis",
-    "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-09T16:39:58+00:00"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/2nd-bdf-nbm-nbr-annual-international-conference-policy-coordination-eu-convergence-fiscal-space-and",
@@ -309,13 +309,13 @@
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-09-4-5-2025-macrofinance.pdf?sc_lang=en&hash=D379E29CB130BF0493B262D670FAEB60",
     "source": "fed-stlouis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-10T15:03:13+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/-/media/files/research/events/midwest_macro_agenda_nov2013.pdf?rev=d0211bbed3ac4c399bd8edb7bc15b261",
     "source": "fed-minneapolis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-09T16:39:58+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/13th-asset-pricing-workshop",
@@ -423,13 +423,13 @@
     "url": "https://www.newyorkfed.org/research/conference/2026/2026-cyber-risk-financial-stability",
     "source": "fed-newyork",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-12T15:26:53+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-041824-macro-labor-conference.pdf",
     "source": "fed-stlouis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-09T16:39:58+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/minnesota-applied-micro-workshop",
@@ -453,13 +453,13 @@
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-110923-macroeconomics-inequality.pdf",
     "source": "fed-stlouis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-10T15:03:13+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/monetary-policy-and-financial-frictions-conference",
     "source": "fed-minneapolis",
-    "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-08T13:39:26+00:00"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/research-conference-climate-and-nature-related-risks-economic-and-financial-system",
@@ -470,14 +470,14 @@
   {
     "url": "https://www.newyorkfed.org/newsevents/events/research/sixth_annual_wrkshp",
     "source": "fed-newyork",
-    "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-12T15:26:53+00:00"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-102723-applied-time-series-workshop.pdf",
     "source": "fed-stlouis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-10T15:03:13+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/developing-a-regional-view-of-the-midwest-economy-breaking-down-barriers",
@@ -501,7 +501,7 @@
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-101923-macroeconomics-workshop.pdf",
     "source": "fed-stlouis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-10T15:03:13+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/macroeconomics-without-frontiers",
@@ -525,7 +525,7 @@
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-092923-macroeconomics-workshop.pdf",
     "source": "fed-stlouis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-10T15:03:13+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/models-of-monetary-economies-ii-the-next-generation",
@@ -543,7 +543,7 @@
     "url": "https://www.newyorkfed.org/newsevents/events/banking/1997/infosecurity",
     "source": "fed-newyork",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-11T14:34:10+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-091523-human-capital-macroeconomics.pdf",
@@ -783,7 +783,7 @@
     "url": "https://www.minneapolisfed.org/economic-research/conferences/midwest-econometrics-group",
     "source": "fed-minneapolis",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-08T13:39:26+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/prizes-monetary-economics-and-finance-academic-workshop",
@@ -795,7 +795,7 @@
     "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-economics-and-politics",
     "source": "fed-minneapolis",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-08T13:39:26+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/macroeconomics-expectations",
@@ -807,7 +807,7 @@
     "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-economic-growth-and-development",
     "source": "fed-minneapolis",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-08T13:39:26+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/european-summer-symposium-international-macroeconomics-essim",
@@ -819,7 +819,7 @@
     "url": "https://www.minneapolisfed.org/economic-research/conferences/conference-on-monetary-theory-and-financial-intermediation",
     "source": "fed-minneapolis",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-08T13:39:26+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/impact-climate-risk-and-biodiversity-loss-financial-stability-and-monetary-policy-conference",
@@ -849,7 +849,7 @@
     "url": "https://www.banque-france.fr/en/events/when-are-households-rationally-attentive-information-central-bank-role-macroeconomic-uncertainty",
     "source": "banque-france",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-10-30T13:12:38+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/international-perspectives-on-debt-growth-and-business-cycles",
@@ -860,8 +860,8 @@
   {
     "url": "https://www.banque-france.fr/en/events/innovate-borrow-how-intangibles-shape-finance-and-growth",
     "source": "banque-france",
-    "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-10-30T13:12:38+00:00"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/nonlinear-rational-expectations-modeling-group",
@@ -873,7 +873,7 @@
     "url": "https://www.banque-france.fr/en/events/beyond-expectations-monetary-policy-and-term-premia",
     "source": "banque-france",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-10-30T13:12:38+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/models-of-economic-growth-and-development",
@@ -884,8 +884,8 @@
   {
     "url": "https://www.banque-france.fr/en/events/sovereign-bond-market-fragmentation-and-monetary-policy-euro-area",
     "source": "banque-france",
-    "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-10-30T13:12:38+00:00"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/financial-history-conference",
@@ -897,7 +897,7 @@
     "url": "https://www.banque-france.fr/en/events/overdelivery-premium-when-monetary-policy-decisions-exceed-market-expectations",
     "source": "banque-france",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-10-30T13:12:38+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/economic-research/conferences/the-thirtieth-nber-nsf-seminar-on-bayesian-inference-in-econometrics",
@@ -908,8 +908,8 @@
   {
     "url": "https://www.banque-france.fr/en/events/monetary-policy-transmission-heterogenous-across-euro-area-countries-and-over-time-reassessment",
     "source": "banque-france",
-    "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-10-31T12:48:50+00:00"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.minneapolisfed.org/events/2026/2026-institute-research-conference",
@@ -921,7 +921,7 @@
     "url": "https://www.banque-france.fr/fr/evenements/risk-appetite-and-monetary-transmission",
     "source": "banque-france",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-10-31T12:48:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/fr/evenements/spend-what-you-learn-heterogeneous-agents-sentiments-and-aggregate-demand",
@@ -1263,13 +1263,13 @@
     "url": "https://www.riksbank.se/en-gb/press-and-published/conferences/20262/nber-international-seminar-on-macroeconomics-24-25-june-2026/",
     "source": "riksbank",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.dnb.nl/en/research/dnb-research-conferences/other-conferences-and-workshops/9-10-april-2026-dnb-retail-payments-research-conference-2026-future-proof-payments-innovative-resilient-and-inclusive/",
     "source": "dnb",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.newyorkfed.org/research/conference/2026/nyfed-innovation",
@@ -1293,43 +1293,43 @@
     "url": "https://www.newyorkfed.org/research/conference/2026/third-conference-stablecoins-tokenization",
     "source": "fed-newyork",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-12T15:26:53+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.ecb.europa.eu/press/conferences/html/20260916_11th_ecb_annual_research_conference.en.html",
     "source": "ecb-annual",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.newyorkfed.org/research/conference/2026/applied-microeconomics",
     "source": "fed-newyork",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-12T15:26:53+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.ecb.europa.eu/press/conferences/html/20260518_14th_intl_research_forum_on_mon_pol.en.html",
     "source": "ecb-annual",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.newyorkfed.org/research/conference/2026/financial-monetary-history",
     "source": "fed-newyork",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-12T15:26:53+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.ecb.europa.eu/press/conferences/html/20260323_13th_conference_on_forecasting_techniques.en.html",
     "source": "ecb-annual",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.dallasfed.org/events/2026/26bigbang",
     "source": "fed-dallas",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/pre-trends-ahead-monetary-policy-surprises-recovering-response-corporate-investment",
@@ -1341,7 +1341,7 @@
     "url": "https://www.ecb.europa.eu/press/conferences/html/20261015_mppg_workshop.en.html",
     "source": "ecb-annual",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-10-08-2026-rev-human-capital-conf.pdf",
@@ -1358,20 +1358,20 @@
   {
     "url": "https://www.banque-france.fr/en/events/4th-edition-banque-de-france-empirical-corporate-finance-workshop",
     "source": "banque-france",
-    "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-10-31T12:48:50+00:00"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.nber.org/calls-papers-and-proposals/post-doctoral-fellowship-long-term-fiscal-policy",
     "source": "nber-calls",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.nber.org/calls-papers-and-proposals/post-doctoral-fellowship-wealth-and-income-inequality",
     "source": "nber-calls",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/inflation-expectations-and-wage-setting-role-downward-nominal-wage-rigidity",
@@ -1383,61 +1383,61 @@
     "url": "https://www.bis.org/events/20270511-call-papers-fifth-high-level-conference-global-risk-uncertainty-and-volatility",
     "source": "bis-events",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.richmondfed.org/conferences_and_events/2026/202611_coreweek",
     "source": "fed-richmond",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.frbsf.org/news-and-media/events/2026/10/remarks-from-philip-lane-2026-economic-research-symposium/",
     "source": "fed-sanfrancisco",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.suomenpankki.fi/en/news-and-topical/events/calendar/events/research-seminars/2026/2026-11-19-keloharju/",
     "source": "bank-finland",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.ecb.europa.eu/press/conferences/html/20261113_ny_fed_ecb.en.html",
     "source": "ecb-annual",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.atlantafed.org/news-and-events/events/2026/11/12/firm-dynamics-and-the-macroeconomy",
     "source": "fed-atlanta",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bankofcanada.ca/2026/10/2026-bank-canada-annual-economic-conference/",
     "source": "bank-canada",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.suomenpankki.fi/en/news-and-topical/events/calendar/events/research-seminars/2026/2026-12-03-gati/",
     "source": "bank-finland",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-10-23-2026-applied-time-series-econmetrics-workshop.pdf",
     "source": "fed-stlouis",
     "reason": "Document announcement: PDF adapter required",
-    "last_checked": "2026-11-10T15:03:13+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.suomenpankki.fi/en/news-and-topical/events/calendar/events/bofit2/2026/2026-12-08-aguirre/",
     "source": "bank-finland",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/cepr-paris-symposium-2026",
@@ -1449,37 +1449,37 @@
     "url": "https://www.bancaditalia.it/media/agenda/2026-12-14_vi-workshop-di-finanza-pubblica-locale/",
     "source": "banca-italia",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bancaditalia.it/media/agenda/2026-11-19_conferenza-inflation-inflation-expectations-and-monetary-policy/",
     "source": "banca-italia",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://comp-econ.com/33rd-cef-conference/",
     "source": "sce",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.ausmacro.com/workshops/",
     "source": "wams",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://bse.eu/summer-forum/workshops/macroeconomics-and-finance",
     "source": "bse-macrofinance",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://eabcn.org/event/4935",
     "source": "eabcn",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/research/beyond-the-numbers-conference",
@@ -1491,37 +1491,37 @@
     "url": "https://www.dnb.nl/en/research/dnb-research-conferences/",
     "source": "dnb",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://mmf.ac.uk/conference/2026-conference/",
     "source": "mmf",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.colorado.edu/business/centers/center-research-consumer-financial-decision-making/boulder-summer-conference",
     "source": "boulder",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://res.org.uk/event-listing/res-2026-annual-conference/",
     "source": "res",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.rba.gov.au/publications/workshops/women-in-macroeconomics-workshop/2026/",
     "source": "cem",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://eabcn.org/event/4195",
     "source": "eabcn",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/events/agenda-101322-international-economic-analysis.pdf",
@@ -1539,25 +1539,25 @@
     "url": "https://www.noahwilliams.xyz/conferences/mfp-miami26",
     "source": "miami-macro",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://comp-econ.com/save-the-date-32nd-annual-conference/",
     "source": "sce",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/bundesbank-spring-conferences-758752",
     "source": "bundesbank",
     "reason": "No unambiguous, relevant single-event record extracted",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.noahwilliams.xyz/conferences/mfp-miami25",
     "source": "miami-macro",
     "reason": "Outside publication date window",
-    "last_checked": "2026-11-13T14:31:50+00:00"
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/macroprudential-conferences-758754",
@@ -1640,7 +1640,8 @@
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/21st-central-bank-conference-on-the-microstructure-of-financial-markets-854184",
     "source": "bundesbank",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.banque-france.fr/en/events/curious-case-rise-deflation-expectations",
@@ -1657,82 +1658,98 @@
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/10th-annual-macroprudential-conference-750442",
     "source": "bundesbank",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/demographics-21st-century",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/international-conference-on-payments-and-securities-settlement-973914",
     "source": "bundesbank",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/artificial-intelligence-and-macroeconomy",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/12th-international-conference-on-sovereign-bond-markets-968976",
     "source": "bundesbank",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/5th-labor-markets-and-macroeconomic-outcomes",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/joint-spring-conference-2026-11th-european-workshop-on-household-finance-972554",
     "source": "bundesbank",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/market-power",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/4th-workshop-on-markets-and-intermediaries-854186",
     "source": "bundesbank",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/2026-st-louis-fed-wash-u-laef-macro-labor-conference",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://www.bundesbank.de/en/bundesbank/research/conferences/research-conference-on-climate-and-nature-related-risks-in-the-economic-and-financial-system-967492",
     "source": "bundesbank",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/laef-hku-joint-conference-growth-and-inequality",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/14th-advances-macro-finance-tepper-laef-conference-santa-barbara",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/4th-annual-junior-workshop-macroeconomics",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/xxviii-workshop-dynamic-macroeconomics",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "Outside publication date window",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/finns-skal",
     "source": "laef",
-    "reason": "Deferred by run budget"
+    "reason": "No unambiguous, relevant single-event record extracted",
+    "last_checked": "2026-11-16T09:13:38+00:00"
   },
   {
     "url": "https://laef.ucsb.edu/events/workshop-income-employment-and-consumption-dynamics",
