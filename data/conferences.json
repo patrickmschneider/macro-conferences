@@ -36,7 +36,7 @@
     ],
     "notes": "Papers or extended abstracts. Source gives a cutoff time but no time zone.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "needs_verification",
@@ -88,7 +88,7 @@
     ],
     "notes": "Detailed abstract or draft paper. Submissions must not be under consideration at another journal; submission includes consideration for a JIE special issue.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-11-01T13:38:08+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -143,7 +143,7 @@
     ],
     "notes": "Open paper submission; attendance is by invitation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-10-08T13:44:16+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -196,7 +196,7 @@
     ],
     "notes": "Theme: artificial intelligence, productivity and public finances. Papers in English.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-10-07T13:37:41+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -249,8 +249,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -303,8 +303,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -357,8 +357,8 @@
     ],
     "notes": "Papers that will be published by May 2027 are not eligible. Open to researchers without NBER affiliation.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -407,8 +407,8 @@
     ],
     "notes": "2027 meeting announced; call for papers forthcoming.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -468,8 +468,8 @@
     ],
     "notes": "General paper submissions open in October 2026. Broad economics conference.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -672,7 +672,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-10-07T13:37:41+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -728,7 +728,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-10-07T13:37:41+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -781,7 +781,7 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-10-04T12:33:45+00:00",
     "verification_method": "source evidence recheck",
     "health": "needs_verification",
@@ -833,7 +833,7 @@
     ],
     "notes": "Paper and poster submissions under review. Poster eligibility differs from paper eligibility.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "fetch_failed",
@@ -883,7 +883,7 @@
     ],
     "notes": "Attendance limited to presenters. Source contains an old notification year; no deadline inferred.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-10-06T13:26:44+00:00",
     "verification_method": "source evidence recheck",
     "health": "fetch_failed",
@@ -940,7 +940,7 @@
     ],
     "notes": "Research on structural transformation and growth in low-income countries; source states submissions are closed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-09-18",
     "verification_method": "manual primary-source review",
     "health": "needs_verification",
@@ -991,8 +991,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1094,8 +1094,8 @@
     ],
     "notes": "Attendance by invitation. No open submission call verified.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1143,8 +1143,8 @@
     ],
     "notes": "",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1194,8 +1194,8 @@
     ],
     "notes": "Source states the submission deadline has passed.",
     "discovered_at": "2026-09-18",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "health": "verified",
     "evidence": {
@@ -1487,8 +1487,8 @@
     ],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1532,8 +1532,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1577,8 +1577,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1622,8 +1622,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1667,8 +1667,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1713,8 +1713,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T15:51:02+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck"
   },
   {
@@ -1857,8 +1857,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "e61"
   },
@@ -1954,8 +1954,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2093,8 +2093,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events"
   },
@@ -2279,10 +2279,13 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:21:35+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
-    "source_id": "ecb-annual"
+    "source_id": "ecb-annual",
+    "supporting_urls": [
+      "https://www.banque-france.fr/en/events/conference-diversity-equity-and-inclusion-economics-finance-and-central-banking-0"
+    ]
   },
   {
     "id": "event-7b05cbf8b19068",
@@ -2327,8 +2330,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:23+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "boe"
   },
@@ -2556,8 +2559,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -2604,7 +2607,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-18T17:26:24+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-09-20T11:37:05+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
@@ -2650,8 +2653,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-19T11:12:48+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "nber-events"
   },
@@ -2747,8 +2750,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "nber-calls"
   },
@@ -2940,7 +2943,7 @@
     "history": [],
     "health": "fetch_failed",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "deterministic source extraction",
     "source_id": "cepr-events",
@@ -2993,7 +2996,7 @@
     "history": [],
     "health": "fetch_failed",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-10-07T13:37:41+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "cepr-events",
@@ -3043,7 +3046,7 @@
     "history": [],
     "health": "needs_verification",
     "discovered_at": "2026-09-30T12:47:49+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
     "last_verified": "2026-09-30T12:47:49+00:00",
     "verification_method": "deterministic source extraction",
     "source_id": "cepr-events",
@@ -3273,8 +3276,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-10-22T12:06:47+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bis-events",
     "supporting_urls": [
@@ -3322,8 +3325,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-10-29T13:21:33+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -3413,8 +3416,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "cebra"
   },
@@ -3458,8 +3461,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "eea"
   },
@@ -3503,8 +3506,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "es"
   },
@@ -3548,8 +3551,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "aea"
   },
@@ -3594,8 +3597,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "laef"
   },
@@ -3639,8 +3642,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-board"
   },
@@ -3687,8 +3690,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "miami-macro"
   },
@@ -3738,8 +3741,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "feed recheck",
     "source_id": "cepr-rss"
   },
@@ -3783,8 +3786,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "sce"
   },
@@ -3828,8 +3831,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "es"
   },
@@ -3876,8 +3879,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "laef"
   },
@@ -3922,8 +3925,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "bundesbank"
   },
@@ -3967,8 +3970,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "banco-espana"
   },
@@ -4012,8 +4015,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "es"
   },
@@ -4057,8 +4060,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "laef"
   },
@@ -4147,8 +4150,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-sanfrancisco"
   },
@@ -4240,8 +4243,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "nber-calls",
     "supporting_urls": [
@@ -4288,8 +4291,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "es"
   },
@@ -4334,8 +4337,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "laef"
   },
@@ -4386,8 +4389,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "fed-sanfrancisco"
   },
@@ -4434,8 +4437,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "es"
   },
@@ -4480,8 +4483,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "laef"
   },
@@ -4576,8 +4579,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "feed recheck",
     "source_id": "cepr-rss"
   },
@@ -4624,8 +4627,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "es"
   },
@@ -4672,8 +4675,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "laef"
   },
@@ -4721,8 +4724,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "ecb-annual"
   },
@@ -4773,8 +4776,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "feed recheck",
     "source_id": "cepr-rss"
   },
@@ -4824,8 +4827,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "feed recheck",
     "source_id": "cepr-rss"
   },
@@ -4875,8 +4878,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "feed recheck",
     "source_id": "cepr-rss"
   },
@@ -4927,8 +4930,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "feed recheck",
     "source_id": "cepr-rss"
   },
@@ -4978,8 +4981,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-13T14:31:50+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "feed recheck",
     "source_id": "cepr-rss"
   },
@@ -5023,8 +5026,8 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-16T09:13:38+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
     "verification_method": "source evidence recheck",
     "source_id": "es"
   },
@@ -5072,9 +5075,112 @@
     "history": [],
     "health": "verified",
     "discovered_at": "2026-11-19T15:54:20+00:00",
-    "last_checked": "2026-11-19T15:54:20+00:00",
-    "last_verified": "2026-11-19T15:54:20+00:00",
-    "verification_method": "deterministic source extraction",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
+    "verification_method": "source evidence recheck",
     "source_id": "bis-events"
+  },
+  {
+    "id": "event-743036af1c3d45",
+    "series_id": null,
+    "name": "11th Joint BIS, BoE, ECB and IMF Spillover Conference – Call for papers",
+    "organizers": [
+      "European Central Bank"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-27",
+    "event_end": "2027-04-28",
+    "city": null,
+    "country": null,
+    "region": null,
+    "topics": [
+      "General macro",
+      "Monetary policy",
+      "Fiscal policy",
+      "International macro",
+      "Financial stability"
+    ],
+    "source_url": "https://www.ecb.europa.eu/press/conferences/html/20270427_11th_spillover_conference.en.html",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-743036af1c3d45-papers",
+        "kind": "Paper submission",
+        "deadline": "2027-01-10",
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "open",
+        "source_url": "https://www.ecb.europa.eu/press/conferences/html/20270427_11th_spillover_conference.en.html",
+        "evidence": {
+          "url": "https://www.ecb.europa.eu/press/conferences/html/20270427_11th_spillover_conference.en.html",
+          "text": "Submission deadline: 10 January 2027"
+        }
+      }
+    ],
+    "notes": "",
+    "evidence": {
+      "event_dates": {
+        "url": "https://www.ecb.europa.eu/press/conferences/html/20270427_11th_spillover_conference.en.html",
+        "text": "27 and 28 April 2027"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-20T15:37:42+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
+    "verification_method": "deterministic source extraction",
+    "source_id": "ecb-annual"
+  },
+  {
+    "id": "event-0980c308d057f1",
+    "series_id": null,
+    "name": "10th Conference on Fixed Income Markets - Fixed Income Research and Implications for Monetary Policy",
+    "organizers": [
+      "CEPR"
+    ],
+    "event_type": "Conference",
+    "event_start": "2027-04-29",
+    "event_end": "2027-04-30",
+    "city": "Chicago",
+    "country": "United States",
+    "region": "North America",
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_url": "https://cepr.org/events/10th-conference-fixed-income-markets-fixed-income-research-and-implications-monetary-policy",
+    "event_state": "announced",
+    "calls": [
+      {
+        "id": "event-0980c308d057f1-papers",
+        "kind": "Paper submission",
+        "deadline": null,
+        "deadline_time": null,
+        "deadline_timezone": null,
+        "state": "unknown",
+        "source_url": "https://cepr.org/events/10th-conference-fixed-income-markets-fixed-income-research-and-implications-monetary-policy",
+        "evidence": null
+      }
+    ],
+    "notes": "Dates from the CEPR events feed. Check the event page for any call for papers.",
+    "evidence": {
+      "event_dates": {
+        "url": "https://cepr.org/rss/events",
+        "kind": "feed",
+        "item_url": "https://cepr.org/events/10th-conference-fixed-income-markets-fixed-income-research-and-implications-monetary-policy",
+        "values": {
+          "event_start": "2027-04-29T01:00:00+0100",
+          "event_end": "2027-04-30T01:00:00+0100"
+        },
+        "text": "10th Conference on Fixed Income Markets - Fixed Income Research and Implications for Monetary Policy: event_start 2027-04-29T01:00:00+0100; event_end 2027-04-30T01:00:00+0100"
+      }
+    },
+    "history": [],
+    "health": "verified",
+    "discovered_at": "2026-11-20T15:37:42+00:00",
+    "last_checked": "2026-11-20T15:37:42+00:00",
+    "last_verified": "2026-11-20T15:37:42+00:00",
+    "verification_method": "events feed",
+    "source_id": "cepr-rss"
   }
 ]
